@@ -1,0 +1,7 @@
+{
+  "interpretation": "Optimistic no-contention per-packet bound; not an achievable schedule",
+  "urgent_total": 941,
+  "target_timely_95pct": 894,
+  "isolated_feasible_with_15ms_each": 644,
+  "largest_delay_for_95pct_isolated_feasibility_us": 6702
+}

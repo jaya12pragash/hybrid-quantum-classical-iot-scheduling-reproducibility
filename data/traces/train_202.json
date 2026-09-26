@@ -1,0 +1,10082 @@
+{
+  "arrival_rate_packets_per_second": 300,
+  "horizon_us": 5000000,
+  "packets": [
+    {
+      "arrival_us": 846,
+      "cls": 1,
+      "deadline_us": 87447,
+      "id": 0,
+      "size_bits": 7928
+    },
+    {
+      "arrival_us": 2526,
+      "cls": 1,
+      "deadline_us": 63959,
+      "id": 1,
+      "size_bits": 2732
+    },
+    {
+      "arrival_us": 8062,
+      "cls": 1,
+      "deadline_us": 82833,
+      "id": 2,
+      "size_bits": 3972
+    },
+    {
+      "arrival_us": 20055,
+      "cls": 1,
+      "deadline_us": 81082,
+      "id": 3,
+      "size_bits": 5115
+    },
+    {
+      "arrival_us": 22213,
+      "cls": 2,
+      "deadline_us": 94048,
+      "id": 4,
+      "size_bits": 4737
+    },
+    {
+      "arrival_us": 29043,
+      "cls": 1,
+      "deadline_us": 176594,
+      "id": 5,
+      "size_bits": 7488
+    },
+    {
+      "arrival_us": 31426,
+      "cls": 2,
+      "deadline_us": 153953,
+      "id": 6,
+      "size_bits": 4169
+    },
+    {
+      "arrival_us": 32268,
+      "cls": 1,
+      "deadline_us": 162909,
+      "id": 7,
+      "size_bits": 5831
+    },
+    {
+      "arrival_us": 33898,
+      "cls": 0,
+      "deadline_us": 45031,
+      "id": 8,
+      "size_bits": 6522
+    },
+    {
+      "arrival_us": 35201,
+      "cls": 0,
+      "deadline_us": 65815,
+      "id": 9,
+      "size_bits": 4983
+    },
+    {
+      "arrival_us": 35740,
+      "cls": 1,
+      "deadline_us": 104946,
+      "id": 10,
+      "size_bits": 5123
+    },
+    {
+      "arrival_us": 41637,
+      "cls": 1,
+      "deadline_us": 157916,
+      "id": 11,
+      "size_bits": 2063
+    },
+    {
+      "arrival_us": 48866,
+      "cls": 2,
+      "deadline_us": 135574,
+      "id": 12,
+      "size_bits": 6149
+    },
+    {
+      "arrival_us": 58376,
+      "cls": 0,
+      "deadline_us": 76644,
+      "id": 13,
+      "size_bits": 2262
+    },
+    {
+      "arrival_us": 59769,
+      "cls": 1,
+      "deadline_us": 200752,
+      "id": 14,
+      "size_bits": 6697
+    },
+    {
+      "arrival_us": 69885,
+      "cls": 0,
+      "deadline_us": 89042,
+      "id": 15,
+      "size_bits": 5004
+    },
+    {
+      "arrival_us": 77399,
+      "cls": 1,
+      "deadline_us": 203349,
+      "id": 16,
+      "size_bits": 6059
+    },
+    {
+      "arrival_us": 85235,
+      "cls": 1,
+      "deadline_us": 215043,
+      "id": 17,
+      "size_bits": 5415
+    },
+    {
+      "arrival_us": 90388,
+      "cls": 1,
+      "deadline_us": 225020,
+      "id": 18,
+      "size_bits": 6506
+    },
+    {
+      "arrival_us": 92150,
+      "cls": 0,
+      "deadline_us": 129635,
+      "id": 19,
+      "size_bits": 6859
+    },
+    {
+      "arrival_us": 92927,
+      "cls": 2,
+      "deadline_us": 216650,
+      "id": 20,
+      "size_bits": 3771
+    },
+    {
+      "arrival_us": 93378,
+      "cls": 1,
+      "deadline_us": 187436,
+      "id": 21,
+      "size_bits": 2694
+    },
+    {
+      "arrival_us": 99667,
+      "cls": 1,
+      "deadline_us": 185255,
+      "id": 22,
+      "size_bits": 6944
+    },
+    {
+      "arrival_us": 103418,
+      "cls": 0,
+      "deadline_us": 121349,
+      "id": 23,
+      "size_bits": 5424
+    },
+    {
+      "arrival_us": 110511,
+      "cls": 1,
+      "deadline_us": 235318,
+      "id": 24,
+      "size_bits": 7469
+    },
+    {
+      "arrival_us": 110674,
+      "cls": 0,
+      "deadline_us": 136451,
+      "id": 25,
+      "size_bits": 2213
+    },
+    {
+      "arrival_us": 111583,
+      "cls": 2,
+      "deadline_us": 257029,
+      "id": 26,
+      "size_bits": 5372
+    },
+    {
+      "arrival_us": 112283,
+      "cls": 1,
+      "deadline_us": 193429,
+      "id": 27,
+      "size_bits": 5878
+    },
+    {
+      "arrival_us": 113268,
+      "cls": 1,
+      "deadline_us": 197902,
+      "id": 28,
+      "size_bits": 7474
+    },
+    {
+      "arrival_us": 114209,
+      "cls": 1,
+      "deadline_us": 169379,
+      "id": 29,
+      "size_bits": 5177
+    },
+    {
+      "arrival_us": 118826,
+      "cls": 1,
+      "deadline_us": 211152,
+      "id": 30,
+      "size_bits": 6129
+    },
+    {
+      "arrival_us": 119368,
+      "cls": 1,
+      "deadline_us": 249684,
+      "id": 31,
+      "size_bits": 3123
+    },
+    {
+      "arrival_us": 121495,
+      "cls": 1,
+      "deadline_us": 210889,
+      "id": 32,
+      "size_bits": 6876
+    },
+    {
+      "arrival_us": 131584,
+      "cls": 0,
+      "deadline_us": 143605,
+      "id": 33,
+      "size_bits": 4247
+    },
+    {
+      "arrival_us": 140225,
+      "cls": 0,
+      "deadline_us": 177237,
+      "id": 34,
+      "size_bits": 3099
+    },
+    {
+      "arrival_us": 140646,
+      "cls": 1,
+      "deadline_us": 193912,
+      "id": 35,
+      "size_bits": 6463
+    },
+    {
+      "arrival_us": 142799,
+      "cls": 1,
+      "deadline_us": 237851,
+      "id": 36,
+      "size_bits": 5223
+    },
+    {
+      "arrival_us": 146882,
+      "cls": 0,
+      "deadline_us": 181558,
+      "id": 37,
+      "size_bits": 3810
+    },
+    {
+      "arrival_us": 151680,
+      "cls": 1,
+      "deadline_us": 261550,
+      "id": 38,
+      "size_bits": 2257
+    },
+    {
+      "arrival_us": 152097,
+      "cls": 2,
+      "deadline_us": 242162,
+      "id": 39,
+      "size_bits": 4765
+    },
+    {
+      "arrival_us": 154361,
+      "cls": 1,
+      "deadline_us": 226471,
+      "id": 40,
+      "size_bits": 3790
+    },
+    {
+      "arrival_us": 157495,
+      "cls": 1,
+      "deadline_us": 217449,
+      "id": 41,
+      "size_bits": 6370
+    },
+    {
+      "arrival_us": 158731,
+      "cls": 1,
+      "deadline_us": 224795,
+      "id": 42,
+      "size_bits": 3111
+    },
+    {
+      "arrival_us": 161519,
+      "cls": 0,
+      "deadline_us": 179945,
+      "id": 43,
+      "size_bits": 6471
+    },
+    {
+      "arrival_us": 162226,
+      "cls": 0,
+      "deadline_us": 196265,
+      "id": 44,
+      "size_bits": 4298
+    },
+    {
+      "arrival_us": 163226,
+      "cls": 1,
+      "deadline_us": 266001,
+      "id": 45,
+      "size_bits": 4337
+    },
+    {
+      "arrival_us": 164122,
+      "cls": 2,
+      "deadline_us": 291375,
+      "id": 46,
+      "size_bits": 7340
+    },
+    {
+      "arrival_us": 174877,
+      "cls": 2,
+      "deadline_us": 318138,
+      "id": 47,
+      "size_bits": 7424
+    },
+    {
+      "arrival_us": 178189,
+      "cls": 0,
+      "deadline_us": 190978,
+      "id": 48,
+      "size_bits": 7182
+    },
+    {
+      "arrival_us": 181273,
+      "cls": 0,
+      "deadline_us": 217126,
+      "id": 49,
+      "size_bits": 2412
+    },
+    {
+      "arrival_us": 182074,
+      "cls": 1,
+      "deadline_us": 317842,
+      "id": 50,
+      "size_bits": 7977
+    },
+    {
+      "arrival_us": 185288,
+      "cls": 1,
+      "deadline_us": 304253,
+      "id": 51,
+      "size_bits": 6321
+    },
+    {
+      "arrival_us": 190736,
+      "cls": 2,
+      "deadline_us": 320558,
+      "id": 52,
+      "size_bits": 4780
+    },
+    {
+      "arrival_us": 191669,
+      "cls": 1,
+      "deadline_us": 318752,
+      "id": 53,
+      "size_bits": 7497
+    },
+    {
+      "arrival_us": 198817,
+      "cls": 2,
+      "deadline_us": 270923,
+      "id": 54,
+      "size_bits": 6123
+    },
+    {
+      "arrival_us": 199599,
+      "cls": 1,
+      "deadline_us": 316539,
+      "id": 55,
+      "size_bits": 7462
+    },
+    {
+      "arrival_us": 200974,
+      "cls": 1,
+      "deadline_us": 283019,
+      "id": 56,
+      "size_bits": 2323
+    },
+    {
+      "arrival_us": 207611,
+      "cls": 1,
+      "deadline_us": 290224,
+      "id": 57,
+      "size_bits": 4603
+    },
+    {
+      "arrival_us": 208162,
+      "cls": 1,
+      "deadline_us": 353026,
+      "id": 58,
+      "size_bits": 7219
+    },
+    {
+      "arrival_us": 210775,
+      "cls": 0,
+      "deadline_us": 242460,
+      "id": 59,
+      "size_bits": 4245
+    },
+    {
+      "arrival_us": 215795,
+      "cls": 1,
+      "deadline_us": 292302,
+      "id": 60,
+      "size_bits": 4722
+    },
+    {
+      "arrival_us": 219967,
+      "cls": 1,
+      "deadline_us": 338439,
+      "id": 61,
+      "size_bits": 2688
+    },
+    {
+      "arrival_us": 221151,
+      "cls": 1,
+      "deadline_us": 350531,
+      "id": 62,
+      "size_bits": 6080
+    },
+    {
+      "arrival_us": 221571,
+      "cls": 0,
+      "deadline_us": 232135,
+      "id": 63,
+      "size_bits": 6526
+    },
+    {
+      "arrival_us": 225131,
+      "cls": 1,
+      "deadline_us": 304541,
+      "id": 64,
+      "size_bits": 7507
+    },
+    {
+      "arrival_us": 226371,
+      "cls": 2,
+      "deadline_us": 375443,
+      "id": 65,
+      "size_bits": 4097
+    },
+    {
+      "arrival_us": 228075,
+      "cls": 1,
+      "deadline_us": 313236,
+      "id": 66,
+      "size_bits": 2251
+    },
+    {
+      "arrival_us": 233071,
+      "cls": 2,
+      "deadline_us": 375275,
+      "id": 67,
+      "size_bits": 5562
+    },
+    {
+      "arrival_us": 233415,
+      "cls": 1,
+      "deadline_us": 327439,
+      "id": 68,
+      "size_bits": 3547
+    },
+    {
+      "arrival_us": 234708,
+      "cls": 2,
+      "deadline_us": 295055,
+      "id": 69,
+      "size_bits": 5623
+    },
+    {
+      "arrival_us": 235944,
+      "cls": 1,
+      "deadline_us": 351586,
+      "id": 70,
+      "size_bits": 4835
+    },
+    {
+      "arrival_us": 236012,
+      "cls": 1,
+      "deadline_us": 368390,
+      "id": 71,
+      "size_bits": 7918
+    },
+    {
+      "arrival_us": 239700,
+      "cls": 1,
+      "deadline_us": 296749,
+      "id": 72,
+      "size_bits": 7542
+    },
+    {
+      "arrival_us": 242296,
+      "cls": 2,
+      "deadline_us": 340998,
+      "id": 73,
+      "size_bits": 2634
+    },
+    {
+      "arrival_us": 243807,
+      "cls": 2,
+      "deadline_us": 366693,
+      "id": 74,
+      "size_bits": 2952
+    },
+    {
+      "arrival_us": 248530,
+      "cls": 1,
+      "deadline_us": 306005,
+      "id": 75,
+      "size_bits": 2501
+    },
+    {
+      "arrival_us": 257584,
+      "cls": 2,
+      "deadline_us": 310969,
+      "id": 76,
+      "size_bits": 7269
+    },
+    {
+      "arrival_us": 268614,
+      "cls": 2,
+      "deadline_us": 344697,
+      "id": 77,
+      "size_bits": 7027
+    },
+    {
+      "arrival_us": 273648,
+      "cls": 1,
+      "deadline_us": 381169,
+      "id": 78,
+      "size_bits": 2808
+    },
+    {
+      "arrival_us": 278970,
+      "cls": 1,
+      "deadline_us": 425661,
+      "id": 79,
+      "size_bits": 6346
+    },
+    {
+      "arrival_us": 286350,
+      "cls": 1,
+      "deadline_us": 422779,
+      "id": 80,
+      "size_bits": 5207
+    },
+    {
+      "arrival_us": 287462,
+      "cls": 2,
+      "deadline_us": 435905,
+      "id": 81,
+      "size_bits": 7794
+    },
+    {
+      "arrival_us": 288687,
+      "cls": 2,
+      "deadline_us": 339469,
+      "id": 82,
+      "size_bits": 5446
+    },
+    {
+      "arrival_us": 295151,
+      "cls": 2,
+      "deadline_us": 430238,
+      "id": 83,
+      "size_bits": 4128
+    },
+    {
+      "arrival_us": 300555,
+      "cls": 1,
+      "deadline_us": 375319,
+      "id": 84,
+      "size_bits": 4681
+    },
+    {
+      "arrival_us": 301050,
+      "cls": 1,
+      "deadline_us": 352204,
+      "id": 85,
+      "size_bits": 3657
+    },
+    {
+      "arrival_us": 303050,
+      "cls": 2,
+      "deadline_us": 359204,
+      "id": 86,
+      "size_bits": 3451
+    },
+    {
+      "arrival_us": 316873,
+      "cls": 0,
+      "deadline_us": 350309,
+      "id": 87,
+      "size_bits": 7565
+    },
+    {
+      "arrival_us": 326696,
+      "cls": 1,
+      "deadline_us": 409597,
+      "id": 88,
+      "size_bits": 2854
+    },
+    {
+      "arrival_us": 329325,
+      "cls": 1,
+      "deadline_us": 415076,
+      "id": 89,
+      "size_bits": 2157
+    },
+    {
+      "arrival_us": 333725,
+      "cls": 1,
+      "deadline_us": 465587,
+      "id": 90,
+      "size_bits": 3556
+    },
+    {
+      "arrival_us": 335120,
+      "cls": 1,
+      "deadline_us": 429325,
+      "id": 91,
+      "size_bits": 5628
+    },
+    {
+      "arrival_us": 335126,
+      "cls": 1,
+      "deadline_us": 389588,
+      "id": 92,
+      "size_bits": 6177
+    },
+    {
+      "arrival_us": 339053,
+      "cls": 1,
+      "deadline_us": 444013,
+      "id": 93,
+      "size_bits": 2975
+    },
+    {
+      "arrival_us": 339512,
+      "cls": 0,
+      "deadline_us": 365777,
+      "id": 94,
+      "size_bits": 3376
+    },
+    {
+      "arrival_us": 339560,
+      "cls": 1,
+      "deadline_us": 453389,
+      "id": 95,
+      "size_bits": 6983
+    },
+    {
+      "arrival_us": 339915,
+      "cls": 2,
+      "deadline_us": 480385,
+      "id": 96,
+      "size_bits": 4041
+    },
+    {
+      "arrival_us": 343925,
+      "cls": 1,
+      "deadline_us": 421579,
+      "id": 97,
+      "size_bits": 2118
+    },
+    {
+      "arrival_us": 349383,
+      "cls": 1,
+      "deadline_us": 414417,
+      "id": 98,
+      "size_bits": 5536
+    },
+    {
+      "arrival_us": 353135,
+      "cls": 0,
+      "deadline_us": 375347,
+      "id": 99,
+      "size_bits": 5167
+    },
+    {
+      "arrival_us": 355326,
+      "cls": 2,
+      "deadline_us": 430893,
+      "id": 100,
+      "size_bits": 5021
+    },
+    {
+      "arrival_us": 356900,
+      "cls": 2,
+      "deadline_us": 427648,
+      "id": 101,
+      "size_bits": 3059
+    },
+    {
+      "arrival_us": 363645,
+      "cls": 0,
+      "deadline_us": 374018,
+      "id": 102,
+      "size_bits": 3955
+    },
+    {
+      "arrival_us": 364430,
+      "cls": 0,
+      "deadline_us": 374900,
+      "id": 103,
+      "size_bits": 3294
+    },
+    {
+      "arrival_us": 365725,
+      "cls": 2,
+      "deadline_us": 504541,
+      "id": 104,
+      "size_bits": 3398
+    },
+    {
+      "arrival_us": 368521,
+      "cls": 2,
+      "deadline_us": 492338,
+      "id": 105,
+      "size_bits": 7694
+    },
+    {
+      "arrival_us": 368730,
+      "cls": 2,
+      "deadline_us": 507903,
+      "id": 106,
+      "size_bits": 3483
+    },
+    {
+      "arrival_us": 368910,
+      "cls": 0,
+      "deadline_us": 389244,
+      "id": 107,
+      "size_bits": 3565
+    },
+    {
+      "arrival_us": 371163,
+      "cls": 1,
+      "deadline_us": 460410,
+      "id": 108,
+      "size_bits": 4791
+    },
+    {
+      "arrival_us": 373836,
+      "cls": 2,
+      "deadline_us": 467905,
+      "id": 109,
+      "size_bits": 6585
+    },
+    {
+      "arrival_us": 373923,
+      "cls": 1,
+      "deadline_us": 520896,
+      "id": 110,
+      "size_bits": 7781
+    },
+    {
+      "arrival_us": 374881,
+      "cls": 0,
+      "deadline_us": 397670,
+      "id": 111,
+      "size_bits": 7816
+    },
+    {
+      "arrival_us": 375893,
+      "cls": 2,
+      "deadline_us": 446117,
+      "id": 112,
+      "size_bits": 3810
+    },
+    {
+      "arrival_us": 380291,
+      "cls": 1,
+      "deadline_us": 455954,
+      "id": 113,
+      "size_bits": 3368
+    },
+    {
+      "arrival_us": 382966,
+      "cls": 1,
+      "deadline_us": 486918,
+      "id": 114,
+      "size_bits": 4870
+    },
+    {
+      "arrival_us": 384176,
+      "cls": 0,
+      "deadline_us": 417167,
+      "id": 115,
+      "size_bits": 2619
+    },
+    {
+      "arrival_us": 385440,
+      "cls": 0,
+      "deadline_us": 396455,
+      "id": 116,
+      "size_bits": 7847
+    },
+    {
+      "arrival_us": 389499,
+      "cls": 0,
+      "deadline_us": 425878,
+      "id": 117,
+      "size_bits": 3633
+    },
+    {
+      "arrival_us": 400192,
+      "cls": 2,
+      "deadline_us": 508859,
+      "id": 118,
+      "size_bits": 4163
+    },
+    {
+      "arrival_us": 413533,
+      "cls": 1,
+      "deadline_us": 535846,
+      "id": 119,
+      "size_bits": 6416
+    },
+    {
+      "arrival_us": 416228,
+      "cls": 1,
+      "deadline_us": 511657,
+      "id": 120,
+      "size_bits": 2032
+    },
+    {
+      "arrival_us": 418161,
+      "cls": 1,
+      "deadline_us": 512939,
+      "id": 121,
+      "size_bits": 4716
+    },
+    {
+      "arrival_us": 420018,
+      "cls": 1,
+      "deadline_us": 502223,
+      "id": 122,
+      "size_bits": 4739
+    },
+    {
+      "arrival_us": 421353,
+      "cls": 2,
+      "deadline_us": 543074,
+      "id": 123,
+      "size_bits": 7654
+    },
+    {
+      "arrival_us": 433697,
+      "cls": 1,
+      "deadline_us": 540561,
+      "id": 124,
+      "size_bits": 5102
+    },
+    {
+      "arrival_us": 434502,
+      "cls": 0,
+      "deadline_us": 449443,
+      "id": 125,
+      "size_bits": 5211
+    },
+    {
+      "arrival_us": 435841,
+      "cls": 1,
+      "deadline_us": 543492,
+      "id": 126,
+      "size_bits": 2701
+    },
+    {
+      "arrival_us": 438561,
+      "cls": 1,
+      "deadline_us": 567823,
+      "id": 127,
+      "size_bits": 7154
+    },
+    {
+      "arrival_us": 441629,
+      "cls": 1,
+      "deadline_us": 535253,
+      "id": 128,
+      "size_bits": 2372
+    },
+    {
+      "arrival_us": 442533,
+      "cls": 0,
+      "deadline_us": 467048,
+      "id": 129,
+      "size_bits": 5667
+    },
+    {
+      "arrival_us": 454495,
+      "cls": 1,
+      "deadline_us": 511263,
+      "id": 130,
+      "size_bits": 3486
+    },
+    {
+      "arrival_us": 456487,
+      "cls": 1,
+      "deadline_us": 541515,
+      "id": 131,
+      "size_bits": 7935
+    },
+    {
+      "arrival_us": 458811,
+      "cls": 0,
+      "deadline_us": 496938,
+      "id": 132,
+      "size_bits": 7845
+    },
+    {
+      "arrival_us": 461467,
+      "cls": 1,
+      "deadline_us": 570095,
+      "id": 133,
+      "size_bits": 7579
+    },
+    {
+      "arrival_us": 469213,
+      "cls": 0,
+      "deadline_us": 488797,
+      "id": 134,
+      "size_bits": 2861
+    },
+    {
+      "arrival_us": 475909,
+      "cls": 2,
+      "deadline_us": 602831,
+      "id": 135,
+      "size_bits": 5671
+    },
+    {
+      "arrival_us": 476162,
+      "cls": 1,
+      "deadline_us": 583901,
+      "id": 136,
+      "size_bits": 7713
+    },
+    {
+      "arrival_us": 477636,
+      "cls": 1,
+      "deadline_us": 560999,
+      "id": 137,
+      "size_bits": 2431
+    },
+    {
+      "arrival_us": 484402,
+      "cls": 1,
+      "deadline_us": 608056,
+      "id": 138,
+      "size_bits": 7011
+    },
+    {
+      "arrival_us": 485299,
+      "cls": 1,
+      "deadline_us": 574396,
+      "id": 139,
+      "size_bits": 7766
+    },
+    {
+      "arrival_us": 486483,
+      "cls": 1,
+      "deadline_us": 577595,
+      "id": 140,
+      "size_bits": 2277
+    },
+    {
+      "arrival_us": 487420,
+      "cls": 0,
+      "deadline_us": 498862,
+      "id": 141,
+      "size_bits": 6323
+    },
+    {
+      "arrival_us": 494298,
+      "cls": 0,
+      "deadline_us": 524156,
+      "id": 142,
+      "size_bits": 3754
+    },
+    {
+      "arrival_us": 498338,
+      "cls": 0,
+      "deadline_us": 523934,
+      "id": 143,
+      "size_bits": 7386
+    },
+    {
+      "arrival_us": 513894,
+      "cls": 1,
+      "deadline_us": 625993,
+      "id": 144,
+      "size_bits": 6592
+    },
+    {
+      "arrival_us": 517539,
+      "cls": 2,
+      "deadline_us": 572194,
+      "id": 145,
+      "size_bits": 6984
+    },
+    {
+      "arrival_us": 517959,
+      "cls": 1,
+      "deadline_us": 581975,
+      "id": 146,
+      "size_bits": 7542
+    },
+    {
+      "arrival_us": 518370,
+      "cls": 0,
+      "deadline_us": 553522,
+      "id": 147,
+      "size_bits": 5809
+    },
+    {
+      "arrival_us": 518894,
+      "cls": 1,
+      "deadline_us": 661805,
+      "id": 148,
+      "size_bits": 2339
+    },
+    {
+      "arrival_us": 520652,
+      "cls": 1,
+      "deadline_us": 651579,
+      "id": 149,
+      "size_bits": 6960
+    },
+    {
+      "arrival_us": 522460,
+      "cls": 2,
+      "deadline_us": 661721,
+      "id": 150,
+      "size_bits": 6534
+    },
+    {
+      "arrival_us": 524803,
+      "cls": 1,
+      "deadline_us": 609706,
+      "id": 151,
+      "size_bits": 7007
+    },
+    {
+      "arrival_us": 526502,
+      "cls": 1,
+      "deadline_us": 580085,
+      "id": 152,
+      "size_bits": 3232
+    },
+    {
+      "arrival_us": 527243,
+      "cls": 1,
+      "deadline_us": 639646,
+      "id": 153,
+      "size_bits": 2599
+    },
+    {
+      "arrival_us": 528063,
+      "cls": 2,
+      "deadline_us": 671543,
+      "id": 154,
+      "size_bits": 4073
+    },
+    {
+      "arrival_us": 530983,
+      "cls": 1,
+      "deadline_us": 637227,
+      "id": 155,
+      "size_bits": 4745
+    },
+    {
+      "arrival_us": 535301,
+      "cls": 1,
+      "deadline_us": 610512,
+      "id": 156,
+      "size_bits": 7086
+    },
+    {
+      "arrival_us": 540886,
+      "cls": 1,
+      "deadline_us": 613034,
+      "id": 157,
+      "size_bits": 5326
+    },
+    {
+      "arrival_us": 545583,
+      "cls": 1,
+      "deadline_us": 623453,
+      "id": 158,
+      "size_bits": 5632
+    },
+    {
+      "arrival_us": 546349,
+      "cls": 2,
+      "deadline_us": 665967,
+      "id": 159,
+      "size_bits": 2095
+    },
+    {
+      "arrival_us": 552276,
+      "cls": 1,
+      "deadline_us": 693834,
+      "id": 160,
+      "size_bits": 7859
+    },
+    {
+      "arrival_us": 552740,
+      "cls": 1,
+      "deadline_us": 659638,
+      "id": 161,
+      "size_bits": 7278
+    },
+    {
+      "arrival_us": 553783,
+      "cls": 0,
+      "deadline_us": 590051,
+      "id": 162,
+      "size_bits": 7593
+    },
+    {
+      "arrival_us": 559180,
+      "cls": 0,
+      "deadline_us": 584798,
+      "id": 163,
+      "size_bits": 3073
+    },
+    {
+      "arrival_us": 559746,
+      "cls": 1,
+      "deadline_us": 691239,
+      "id": 164,
+      "size_bits": 5516
+    },
+    {
+      "arrival_us": 560524,
+      "cls": 1,
+      "deadline_us": 652184,
+      "id": 165,
+      "size_bits": 5123
+    },
+    {
+      "arrival_us": 561879,
+      "cls": 0,
+      "deadline_us": 587263,
+      "id": 166,
+      "size_bits": 2493
+    },
+    {
+      "arrival_us": 565359,
+      "cls": 1,
+      "deadline_us": 698349,
+      "id": 167,
+      "size_bits": 2783
+    },
+    {
+      "arrival_us": 569570,
+      "cls": 2,
+      "deadline_us": 644516,
+      "id": 168,
+      "size_bits": 6884
+    },
+    {
+      "arrival_us": 572975,
+      "cls": 1,
+      "deadline_us": 646825,
+      "id": 169,
+      "size_bits": 7556
+    },
+    {
+      "arrival_us": 578648,
+      "cls": 0,
+      "deadline_us": 592493,
+      "id": 170,
+      "size_bits": 7126
+    },
+    {
+      "arrival_us": 587053,
+      "cls": 2,
+      "deadline_us": 665569,
+      "id": 171,
+      "size_bits": 2371
+    },
+    {
+      "arrival_us": 589574,
+      "cls": 1,
+      "deadline_us": 685445,
+      "id": 172,
+      "size_bits": 4925
+    },
+    {
+      "arrival_us": 596165,
+      "cls": 1,
+      "deadline_us": 706947,
+      "id": 173,
+      "size_bits": 6679
+    },
+    {
+      "arrival_us": 599369,
+      "cls": 0,
+      "deadline_us": 611436,
+      "id": 174,
+      "size_bits": 2356
+    },
+    {
+      "arrival_us": 603068,
+      "cls": 2,
+      "deadline_us": 703684,
+      "id": 175,
+      "size_bits": 3291
+    },
+    {
+      "arrival_us": 615663,
+      "cls": 1,
+      "deadline_us": 719921,
+      "id": 176,
+      "size_bits": 5386
+    },
+    {
+      "arrival_us": 615744,
+      "cls": 2,
+      "deadline_us": 715136,
+      "id": 177,
+      "size_bits": 6352
+    },
+    {
+      "arrival_us": 617523,
+      "cls": 2,
+      "deadline_us": 749336,
+      "id": 178,
+      "size_bits": 7167
+    },
+    {
+      "arrival_us": 620742,
+      "cls": 1,
+      "deadline_us": 745080,
+      "id": 179,
+      "size_bits": 7575
+    },
+    {
+      "arrival_us": 621611,
+      "cls": 2,
+      "deadline_us": 731325,
+      "id": 180,
+      "size_bits": 7860
+    },
+    {
+      "arrival_us": 621931,
+      "cls": 1,
+      "deadline_us": 754654,
+      "id": 181,
+      "size_bits": 6374
+    },
+    {
+      "arrival_us": 627761,
+      "cls": 0,
+      "deadline_us": 658365,
+      "id": 182,
+      "size_bits": 6119
+    },
+    {
+      "arrival_us": 631676,
+      "cls": 1,
+      "deadline_us": 740551,
+      "id": 183,
+      "size_bits": 2454
+    },
+    {
+      "arrival_us": 633989,
+      "cls": 1,
+      "deadline_us": 694114,
+      "id": 184,
+      "size_bits": 7200
+    },
+    {
+      "arrival_us": 637269,
+      "cls": 1,
+      "deadline_us": 703487,
+      "id": 185,
+      "size_bits": 7952
+    },
+    {
+      "arrival_us": 642410,
+      "cls": 2,
+      "deadline_us": 722208,
+      "id": 186,
+      "size_bits": 7507
+    },
+    {
+      "arrival_us": 650053,
+      "cls": 1,
+      "deadline_us": 724597,
+      "id": 187,
+      "size_bits": 6661
+    },
+    {
+      "arrival_us": 650812,
+      "cls": 2,
+      "deadline_us": 761338,
+      "id": 188,
+      "size_bits": 7344
+    },
+    {
+      "arrival_us": 661039,
+      "cls": 1,
+      "deadline_us": 711854,
+      "id": 189,
+      "size_bits": 6084
+    },
+    {
+      "arrival_us": 661723,
+      "cls": 1,
+      "deadline_us": 792744,
+      "id": 190,
+      "size_bits": 7315
+    },
+    {
+      "arrival_us": 668585,
+      "cls": 1,
+      "deadline_us": 787163,
+      "id": 191,
+      "size_bits": 6629
+    },
+    {
+      "arrival_us": 670065,
+      "cls": 1,
+      "deadline_us": 781038,
+      "id": 192,
+      "size_bits": 2257
+    },
+    {
+      "arrival_us": 671305,
+      "cls": 0,
+      "deadline_us": 684035,
+      "id": 193,
+      "size_bits": 5685
+    },
+    {
+      "arrival_us": 671423,
+      "cls": 1,
+      "deadline_us": 738013,
+      "id": 194,
+      "size_bits": 3728
+    },
+    {
+      "arrival_us": 675877,
+      "cls": 1,
+      "deadline_us": 781542,
+      "id": 195,
+      "size_bits": 7216
+    },
+    {
+      "arrival_us": 686185,
+      "cls": 1,
+      "deadline_us": 752706,
+      "id": 196,
+      "size_bits": 5807
+    },
+    {
+      "arrival_us": 687801,
+      "cls": 1,
+      "deadline_us": 742624,
+      "id": 197,
+      "size_bits": 5057
+    },
+    {
+      "arrival_us": 687884,
+      "cls": 1,
+      "deadline_us": 795549,
+      "id": 198,
+      "size_bits": 2279
+    },
+    {
+      "arrival_us": 688017,
+      "cls": 1,
+      "deadline_us": 835999,
+      "id": 199,
+      "size_bits": 3118
+    },
+    {
+      "arrival_us": 689069,
+      "cls": 1,
+      "deadline_us": 755189,
+      "id": 200,
+      "size_bits": 2567
+    },
+    {
+      "arrival_us": 703433,
+      "cls": 1,
+      "deadline_us": 756600,
+      "id": 201,
+      "size_bits": 2963
+    },
+    {
+      "arrival_us": 704520,
+      "cls": 2,
+      "deadline_us": 842616,
+      "id": 202,
+      "size_bits": 3134
+    },
+    {
+      "arrival_us": 705308,
+      "cls": 1,
+      "deadline_us": 853823,
+      "id": 203,
+      "size_bits": 7601
+    },
+    {
+      "arrival_us": 712190,
+      "cls": 1,
+      "deadline_us": 821073,
+      "id": 204,
+      "size_bits": 7021
+    },
+    {
+      "arrival_us": 715717,
+      "cls": 0,
+      "deadline_us": 751500,
+      "id": 205,
+      "size_bits": 6646
+    },
+    {
+      "arrival_us": 715828,
+      "cls": 2,
+      "deadline_us": 809652,
+      "id": 206,
+      "size_bits": 6698
+    },
+    {
+      "arrival_us": 718792,
+      "cls": 2,
+      "deadline_us": 813007,
+      "id": 207,
+      "size_bits": 4733
+    },
+    {
+      "arrival_us": 721647,
+      "cls": 2,
+      "deadline_us": 847537,
+      "id": 208,
+      "size_bits": 7774
+    },
+    {
+      "arrival_us": 722248,
+      "cls": 1,
+      "deadline_us": 856340,
+      "id": 209,
+      "size_bits": 2994
+    },
+    {
+      "arrival_us": 723377,
+      "cls": 2,
+      "deadline_us": 783290,
+      "id": 210,
+      "size_bits": 3508
+    },
+    {
+      "arrival_us": 723920,
+      "cls": 2,
+      "deadline_us": 797340,
+      "id": 211,
+      "size_bits": 2062
+    },
+    {
+      "arrival_us": 731887,
+      "cls": 1,
+      "deadline_us": 826592,
+      "id": 212,
+      "size_bits": 3374
+    },
+    {
+      "arrival_us": 737078,
+      "cls": 1,
+      "deadline_us": 814001,
+      "id": 213,
+      "size_bits": 7617
+    },
+    {
+      "arrival_us": 739243,
+      "cls": 1,
+      "deadline_us": 804877,
+      "id": 214,
+      "size_bits": 4658
+    },
+    {
+      "arrival_us": 742864,
+      "cls": 2,
+      "deadline_us": 809345,
+      "id": 215,
+      "size_bits": 2960
+    },
+    {
+      "arrival_us": 743346,
+      "cls": 1,
+      "deadline_us": 819133,
+      "id": 216,
+      "size_bits": 3376
+    },
+    {
+      "arrival_us": 743494,
+      "cls": 2,
+      "deadline_us": 826250,
+      "id": 217,
+      "size_bits": 4853
+    },
+    {
+      "arrival_us": 746727,
+      "cls": 1,
+      "deadline_us": 837364,
+      "id": 218,
+      "size_bits": 6222
+    },
+    {
+      "arrival_us": 751126,
+      "cls": 2,
+      "deadline_us": 846749,
+      "id": 219,
+      "size_bits": 2711
+    },
+    {
+      "arrival_us": 752074,
+      "cls": 2,
+      "deadline_us": 897103,
+      "id": 220,
+      "size_bits": 4346
+    },
+    {
+      "arrival_us": 754194,
+      "cls": 0,
+      "deadline_us": 787897,
+      "id": 221,
+      "size_bits": 7079
+    },
+    {
+      "arrival_us": 754805,
+      "cls": 0,
+      "deadline_us": 784060,
+      "id": 222,
+      "size_bits": 6195
+    },
+    {
+      "arrival_us": 755277,
+      "cls": 2,
+      "deadline_us": 843100,
+      "id": 223,
+      "size_bits": 4798
+    },
+    {
+      "arrival_us": 756264,
+      "cls": 1,
+      "deadline_us": 875337,
+      "id": 224,
+      "size_bits": 6608
+    },
+    {
+      "arrival_us": 761714,
+      "cls": 1,
+      "deadline_us": 891939,
+      "id": 225,
+      "size_bits": 3791
+    },
+    {
+      "arrival_us": 764297,
+      "cls": 2,
+      "deadline_us": 821180,
+      "id": 226,
+      "size_bits": 7830
+    },
+    {
+      "arrival_us": 770149,
+      "cls": 1,
+      "deadline_us": 917108,
+      "id": 227,
+      "size_bits": 6273
+    },
+    {
+      "arrival_us": 772087,
+      "cls": 0,
+      "deadline_us": 800406,
+      "id": 228,
+      "size_bits": 4013
+    },
+    {
+      "arrival_us": 774746,
+      "cls": 1,
+      "deadline_us": 854149,
+      "id": 229,
+      "size_bits": 4346
+    },
+    {
+      "arrival_us": 775808,
+      "cls": 1,
+      "deadline_us": 841929,
+      "id": 230,
+      "size_bits": 7642
+    },
+    {
+      "arrival_us": 780567,
+      "cls": 2,
+      "deadline_us": 897211,
+      "id": 231,
+      "size_bits": 6432
+    },
+    {
+      "arrival_us": 786702,
+      "cls": 2,
+      "deadline_us": 927317,
+      "id": 232,
+      "size_bits": 4841
+    },
+    {
+      "arrival_us": 789163,
+      "cls": 2,
+      "deadline_us": 889677,
+      "id": 233,
+      "size_bits": 3488
+    },
+    {
+      "arrival_us": 789831,
+      "cls": 1,
+      "deadline_us": 870848,
+      "id": 234,
+      "size_bits": 5993
+    },
+    {
+      "arrival_us": 793539,
+      "cls": 0,
+      "deadline_us": 816968,
+      "id": 235,
+      "size_bits": 5102
+    },
+    {
+      "arrival_us": 799555,
+      "cls": 1,
+      "deadline_us": 926645,
+      "id": 236,
+      "size_bits": 4227
+    },
+    {
+      "arrival_us": 801675,
+      "cls": 1,
+      "deadline_us": 879308,
+      "id": 237,
+      "size_bits": 2339
+    },
+    {
+      "arrival_us": 803097,
+      "cls": 1,
+      "deadline_us": 919418,
+      "id": 238,
+      "size_bits": 2913
+    },
+    {
+      "arrival_us": 805371,
+      "cls": 1,
+      "deadline_us": 893335,
+      "id": 239,
+      "size_bits": 6646
+    },
+    {
+      "arrival_us": 811964,
+      "cls": 0,
+      "deadline_us": 833677,
+      "id": 240,
+      "size_bits": 7498
+    },
+    {
+      "arrival_us": 819341,
+      "cls": 0,
+      "deadline_us": 831867,
+      "id": 241,
+      "size_bits": 6332
+    },
+    {
+      "arrival_us": 820602,
+      "cls": 2,
+      "deadline_us": 897644,
+      "id": 242,
+      "size_bits": 5530
+    },
+    {
+      "arrival_us": 822946,
+      "cls": 1,
+      "deadline_us": 950717,
+      "id": 243,
+      "size_bits": 5344
+    },
+    {
+      "arrival_us": 823006,
+      "cls": 1,
+      "deadline_us": 956335,
+      "id": 244,
+      "size_bits": 3814
+    },
+    {
+      "arrival_us": 825471,
+      "cls": 1,
+      "deadline_us": 888533,
+      "id": 245,
+      "size_bits": 2786
+    },
+    {
+      "arrival_us": 826154,
+      "cls": 1,
+      "deadline_us": 931065,
+      "id": 246,
+      "size_bits": 2841
+    },
+    {
+      "arrival_us": 826230,
+      "cls": 2,
+      "deadline_us": 969811,
+      "id": 247,
+      "size_bits": 2089
+    },
+    {
+      "arrival_us": 826413,
+      "cls": 1,
+      "deadline_us": 916457,
+      "id": 248,
+      "size_bits": 6297
+    },
+    {
+      "arrival_us": 839345,
+      "cls": 0,
+      "deadline_us": 857653,
+      "id": 249,
+      "size_bits": 2422
+    },
+    {
+      "arrival_us": 847887,
+      "cls": 1,
+      "deadline_us": 996977,
+      "id": 250,
+      "size_bits": 4069
+    },
+    {
+      "arrival_us": 856954,
+      "cls": 0,
+      "deadline_us": 889560,
+      "id": 251,
+      "size_bits": 6717
+    },
+    {
+      "arrival_us": 859288,
+      "cls": 1,
+      "deadline_us": 972686,
+      "id": 252,
+      "size_bits": 3970
+    },
+    {
+      "arrival_us": 859949,
+      "cls": 1,
+      "deadline_us": 994404,
+      "id": 253,
+      "size_bits": 5052
+    },
+    {
+      "arrival_us": 862083,
+      "cls": 2,
+      "deadline_us": 967813,
+      "id": 254,
+      "size_bits": 2497
+    },
+    {
+      "arrival_us": 865081,
+      "cls": 0,
+      "deadline_us": 881474,
+      "id": 255,
+      "size_bits": 5699
+    },
+    {
+      "arrival_us": 871669,
+      "cls": 1,
+      "deadline_us": 983836,
+      "id": 256,
+      "size_bits": 7782
+    },
+    {
+      "arrival_us": 874456,
+      "cls": 1,
+      "deadline_us": 1003772,
+      "id": 257,
+      "size_bits": 5082
+    },
+    {
+      "arrival_us": 887390,
+      "cls": 1,
+      "deadline_us": 1012600,
+      "id": 258,
+      "size_bits": 6228
+    },
+    {
+      "arrival_us": 888985,
+      "cls": 1,
+      "deadline_us": 1000579,
+      "id": 259,
+      "size_bits": 4360
+    },
+    {
+      "arrival_us": 890368,
+      "cls": 2,
+      "deadline_us": 966545,
+      "id": 260,
+      "size_bits": 7546
+    },
+    {
+      "arrival_us": 901184,
+      "cls": 2,
+      "deadline_us": 997876,
+      "id": 261,
+      "size_bits": 7195
+    },
+    {
+      "arrival_us": 901618,
+      "cls": 1,
+      "deadline_us": 952679,
+      "id": 262,
+      "size_bits": 5229
+    },
+    {
+      "arrival_us": 901682,
+      "cls": 0,
+      "deadline_us": 940613,
+      "id": 263,
+      "size_bits": 7047
+    },
+    {
+      "arrival_us": 903595,
+      "cls": 0,
+      "deadline_us": 936380,
+      "id": 264,
+      "size_bits": 4019
+    },
+    {
+      "arrival_us": 910653,
+      "cls": 1,
+      "deadline_us": 989802,
+      "id": 265,
+      "size_bits": 5366
+    },
+    {
+      "arrival_us": 914357,
+      "cls": 1,
+      "deadline_us": 1013058,
+      "id": 266,
+      "size_bits": 3234
+    },
+    {
+      "arrival_us": 914780,
+      "cls": 2,
+      "deadline_us": 1051765,
+      "id": 267,
+      "size_bits": 5751
+    },
+    {
+      "arrival_us": 916259,
+      "cls": 1,
+      "deadline_us": 1004733,
+      "id": 268,
+      "size_bits": 7723
+    },
+    {
+      "arrival_us": 921735,
+      "cls": 1,
+      "deadline_us": 1059476,
+      "id": 269,
+      "size_bits": 3142
+    },
+    {
+      "arrival_us": 934474,
+      "cls": 1,
+      "deadline_us": 1080323,
+      "id": 270,
+      "size_bits": 5141
+    },
+    {
+      "arrival_us": 938288,
+      "cls": 1,
+      "deadline_us": 1077047,
+      "id": 271,
+      "size_bits": 5657
+    },
+    {
+      "arrival_us": 942510,
+      "cls": 0,
+      "deadline_us": 961191,
+      "id": 272,
+      "size_bits": 7819
+    },
+    {
+      "arrival_us": 947164,
+      "cls": 0,
+      "deadline_us": 958992,
+      "id": 273,
+      "size_bits": 6495
+    },
+    {
+      "arrival_us": 951416,
+      "cls": 0,
+      "deadline_us": 970651,
+      "id": 274,
+      "size_bits": 6641
+    },
+    {
+      "arrival_us": 952746,
+      "cls": 2,
+      "deadline_us": 1056251,
+      "id": 275,
+      "size_bits": 2956
+    },
+    {
+      "arrival_us": 955485,
+      "cls": 2,
+      "deadline_us": 1090209,
+      "id": 276,
+      "size_bits": 5234
+    },
+    {
+      "arrival_us": 955501,
+      "cls": 2,
+      "deadline_us": 1056383,
+      "id": 277,
+      "size_bits": 3433
+    },
+    {
+      "arrival_us": 955587,
+      "cls": 2,
+      "deadline_us": 1104286,
+      "id": 278,
+      "size_bits": 4539
+    },
+    {
+      "arrival_us": 958312,
+      "cls": 1,
+      "deadline_us": 1054359,
+      "id": 279,
+      "size_bits": 5578
+    },
+    {
+      "arrival_us": 962104,
+      "cls": 0,
+      "deadline_us": 980557,
+      "id": 280,
+      "size_bits": 5856
+    },
+    {
+      "arrival_us": 964405,
+      "cls": 1,
+      "deadline_us": 1056585,
+      "id": 281,
+      "size_bits": 2274
+    },
+    {
+      "arrival_us": 966274,
+      "cls": 2,
+      "deadline_us": 1064021,
+      "id": 282,
+      "size_bits": 5164
+    },
+    {
+      "arrival_us": 970644,
+      "cls": 2,
+      "deadline_us": 1096439,
+      "id": 283,
+      "size_bits": 7309
+    },
+    {
+      "arrival_us": 971741,
+      "cls": 1,
+      "deadline_us": 1034509,
+      "id": 284,
+      "size_bits": 6807
+    },
+    {
+      "arrival_us": 976155,
+      "cls": 1,
+      "deadline_us": 1056640,
+      "id": 285,
+      "size_bits": 5998
+    },
+    {
+      "arrival_us": 976910,
+      "cls": 2,
+      "deadline_us": 1069917,
+      "id": 286,
+      "size_bits": 5698
+    },
+    {
+      "arrival_us": 980913,
+      "cls": 1,
+      "deadline_us": 1130571,
+      "id": 287,
+      "size_bits": 3330
+    },
+    {
+      "arrival_us": 982482,
+      "cls": 2,
+      "deadline_us": 1048427,
+      "id": 288,
+      "size_bits": 2097
+    },
+    {
+      "arrival_us": 984397,
+      "cls": 1,
+      "deadline_us": 1099732,
+      "id": 289,
+      "size_bits": 4272
+    },
+    {
+      "arrival_us": 984671,
+      "cls": 1,
+      "deadline_us": 1043876,
+      "id": 290,
+      "size_bits": 5213
+    },
+    {
+      "arrival_us": 986576,
+      "cls": 1,
+      "deadline_us": 1132532,
+      "id": 291,
+      "size_bits": 6407
+    },
+    {
+      "arrival_us": 986745,
+      "cls": 0,
+      "deadline_us": 997179,
+      "id": 292,
+      "size_bits": 3099
+    },
+    {
+      "arrival_us": 990162,
+      "cls": 1,
+      "deadline_us": 1106036,
+      "id": 293,
+      "size_bits": 4299
+    },
+    {
+      "arrival_us": 996060,
+      "cls": 0,
+      "deadline_us": 1009020,
+      "id": 294,
+      "size_bits": 7820
+    },
+    {
+      "arrival_us": 998327,
+      "cls": 2,
+      "deadline_us": 1129476,
+      "id": 295,
+      "size_bits": 2522
+    },
+    {
+      "arrival_us": 999234,
+      "cls": 0,
+      "deadline_us": 1010622,
+      "id": 296,
+      "size_bits": 6648
+    },
+    {
+      "arrival_us": 1001577,
+      "cls": 2,
+      "deadline_us": 1134183,
+      "id": 297,
+      "size_bits": 6842
+    },
+    {
+      "arrival_us": 1002132,
+      "cls": 1,
+      "deadline_us": 1151097,
+      "id": 298,
+      "size_bits": 7456
+    },
+    {
+      "arrival_us": 1005839,
+      "cls": 2,
+      "deadline_us": 1057034,
+      "id": 299,
+      "size_bits": 2722
+    },
+    {
+      "arrival_us": 1007789,
+      "cls": 1,
+      "deadline_us": 1142913,
+      "id": 300,
+      "size_bits": 2572
+    },
+    {
+      "arrival_us": 1009781,
+      "cls": 2,
+      "deadline_us": 1112600,
+      "id": 301,
+      "size_bits": 6917
+    },
+    {
+      "arrival_us": 1011446,
+      "cls": 0,
+      "deadline_us": 1047644,
+      "id": 302,
+      "size_bits": 3196
+    },
+    {
+      "arrival_us": 1012943,
+      "cls": 2,
+      "deadline_us": 1075527,
+      "id": 303,
+      "size_bits": 2054
+    },
+    {
+      "arrival_us": 1013940,
+      "cls": 2,
+      "deadline_us": 1093751,
+      "id": 304,
+      "size_bits": 4621
+    },
+    {
+      "arrival_us": 1022323,
+      "cls": 0,
+      "deadline_us": 1052350,
+      "id": 305,
+      "size_bits": 3346
+    },
+    {
+      "arrival_us": 1022348,
+      "cls": 1,
+      "deadline_us": 1091703,
+      "id": 306,
+      "size_bits": 7497
+    },
+    {
+      "arrival_us": 1026938,
+      "cls": 0,
+      "deadline_us": 1054535,
+      "id": 307,
+      "size_bits": 3562
+    },
+    {
+      "arrival_us": 1027403,
+      "cls": 2,
+      "deadline_us": 1160554,
+      "id": 308,
+      "size_bits": 3668
+    },
+    {
+      "arrival_us": 1031792,
+      "cls": 0,
+      "deadline_us": 1070970,
+      "id": 309,
+      "size_bits": 6074
+    },
+    {
+      "arrival_us": 1039905,
+      "cls": 1,
+      "deadline_us": 1161773,
+      "id": 310,
+      "size_bits": 7824
+    },
+    {
+      "arrival_us": 1042520,
+      "cls": 1,
+      "deadline_us": 1148516,
+      "id": 311,
+      "size_bits": 2887
+    },
+    {
+      "arrival_us": 1048072,
+      "cls": 2,
+      "deadline_us": 1138395,
+      "id": 312,
+      "size_bits": 6793
+    },
+    {
+      "arrival_us": 1054245,
+      "cls": 1,
+      "deadline_us": 1202064,
+      "id": 313,
+      "size_bits": 7546
+    },
+    {
+      "arrival_us": 1055335,
+      "cls": 1,
+      "deadline_us": 1131168,
+      "id": 314,
+      "size_bits": 6082
+    },
+    {
+      "arrival_us": 1056045,
+      "cls": 1,
+      "deadline_us": 1110823,
+      "id": 315,
+      "size_bits": 7786
+    },
+    {
+      "arrival_us": 1057421,
+      "cls": 0,
+      "deadline_us": 1074919,
+      "id": 316,
+      "size_bits": 3458
+    },
+    {
+      "arrival_us": 1062639,
+      "cls": 0,
+      "deadline_us": 1087478,
+      "id": 317,
+      "size_bits": 6375
+    },
+    {
+      "arrival_us": 1062947,
+      "cls": 0,
+      "deadline_us": 1100001,
+      "id": 318,
+      "size_bits": 7588
+    },
+    {
+      "arrival_us": 1064414,
+      "cls": 1,
+      "deadline_us": 1129278,
+      "id": 319,
+      "size_bits": 2898
+    },
+    {
+      "arrival_us": 1070875,
+      "cls": 1,
+      "deadline_us": 1194214,
+      "id": 320,
+      "size_bits": 3091
+    },
+    {
+      "arrival_us": 1071220,
+      "cls": 1,
+      "deadline_us": 1187162,
+      "id": 321,
+      "size_bits": 7082
+    },
+    {
+      "arrival_us": 1071277,
+      "cls": 2,
+      "deadline_us": 1137133,
+      "id": 322,
+      "size_bits": 7834
+    },
+    {
+      "arrival_us": 1071879,
+      "cls": 1,
+      "deadline_us": 1146645,
+      "id": 323,
+      "size_bits": 2499
+    },
+    {
+      "arrival_us": 1072562,
+      "cls": 1,
+      "deadline_us": 1172087,
+      "id": 324,
+      "size_bits": 7842
+    },
+    {
+      "arrival_us": 1074786,
+      "cls": 0,
+      "deadline_us": 1087902,
+      "id": 325,
+      "size_bits": 4757
+    },
+    {
+      "arrival_us": 1076620,
+      "cls": 2,
+      "deadline_us": 1146381,
+      "id": 326,
+      "size_bits": 7377
+    },
+    {
+      "arrival_us": 1077706,
+      "cls": 1,
+      "deadline_us": 1145882,
+      "id": 327,
+      "size_bits": 7623
+    },
+    {
+      "arrival_us": 1080160,
+      "cls": 1,
+      "deadline_us": 1183868,
+      "id": 328,
+      "size_bits": 6407
+    },
+    {
+      "arrival_us": 1083170,
+      "cls": 2,
+      "deadline_us": 1161880,
+      "id": 329,
+      "size_bits": 6547
+    },
+    {
+      "arrival_us": 1095353,
+      "cls": 1,
+      "deadline_us": 1168955,
+      "id": 330,
+      "size_bits": 5512
+    },
+    {
+      "arrival_us": 1103632,
+      "cls": 1,
+      "deadline_us": 1213729,
+      "id": 331,
+      "size_bits": 6280
+    },
+    {
+      "arrival_us": 1113632,
+      "cls": 1,
+      "deadline_us": 1202094,
+      "id": 332,
+      "size_bits": 7661
+    },
+    {
+      "arrival_us": 1115176,
+      "cls": 1,
+      "deadline_us": 1192622,
+      "id": 333,
+      "size_bits": 5732
+    },
+    {
+      "arrival_us": 1115239,
+      "cls": 1,
+      "deadline_us": 1224421,
+      "id": 334,
+      "size_bits": 2881
+    },
+    {
+      "arrival_us": 1117387,
+      "cls": 2,
+      "deadline_us": 1219894,
+      "id": 335,
+      "size_bits": 2836
+    },
+    {
+      "arrival_us": 1117610,
+      "cls": 1,
+      "deadline_us": 1258062,
+      "id": 336,
+      "size_bits": 5274
+    },
+    {
+      "arrival_us": 1117668,
+      "cls": 0,
+      "deadline_us": 1129328,
+      "id": 337,
+      "size_bits": 3177
+    },
+    {
+      "arrival_us": 1117731,
+      "cls": 2,
+      "deadline_us": 1244414,
+      "id": 338,
+      "size_bits": 4486
+    },
+    {
+      "arrival_us": 1118239,
+      "cls": 2,
+      "deadline_us": 1258831,
+      "id": 339,
+      "size_bits": 5464
+    },
+    {
+      "arrival_us": 1120475,
+      "cls": 2,
+      "deadline_us": 1186921,
+      "id": 340,
+      "size_bits": 6061
+    },
+    {
+      "arrival_us": 1122183,
+      "cls": 1,
+      "deadline_us": 1211647,
+      "id": 341,
+      "size_bits": 6362
+    },
+    {
+      "arrival_us": 1129087,
+      "cls": 1,
+      "deadline_us": 1199853,
+      "id": 342,
+      "size_bits": 4484
+    },
+    {
+      "arrival_us": 1131768,
+      "cls": 1,
+      "deadline_us": 1213189,
+      "id": 343,
+      "size_bits": 5909
+    },
+    {
+      "arrival_us": 1134325,
+      "cls": 2,
+      "deadline_us": 1236272,
+      "id": 344,
+      "size_bits": 4642
+    },
+    {
+      "arrival_us": 1136935,
+      "cls": 2,
+      "deadline_us": 1240898,
+      "id": 345,
+      "size_bits": 3840
+    },
+    {
+      "arrival_us": 1137247,
+      "cls": 1,
+      "deadline_us": 1196821,
+      "id": 346,
+      "size_bits": 4785
+    },
+    {
+      "arrival_us": 1139641,
+      "cls": 1,
+      "deadline_us": 1241953,
+      "id": 347,
+      "size_bits": 5473
+    },
+    {
+      "arrival_us": 1145169,
+      "cls": 1,
+      "deadline_us": 1285768,
+      "id": 348,
+      "size_bits": 5839
+    },
+    {
+      "arrival_us": 1146711,
+      "cls": 0,
+      "deadline_us": 1157647,
+      "id": 349,
+      "size_bits": 4942
+    },
+    {
+      "arrival_us": 1146757,
+      "cls": 0,
+      "deadline_us": 1161523,
+      "id": 350,
+      "size_bits": 2140
+    },
+    {
+      "arrival_us": 1148028,
+      "cls": 1,
+      "deadline_us": 1256741,
+      "id": 351,
+      "size_bits": 4159
+    },
+    {
+      "arrival_us": 1149457,
+      "cls": 1,
+      "deadline_us": 1244724,
+      "id": 352,
+      "size_bits": 3138
+    },
+    {
+      "arrival_us": 1149981,
+      "cls": 1,
+      "deadline_us": 1296683,
+      "id": 353,
+      "size_bits": 6492
+    },
+    {
+      "arrival_us": 1152091,
+      "cls": 2,
+      "deadline_us": 1294679,
+      "id": 354,
+      "size_bits": 6761
+    },
+    {
+      "arrival_us": 1159812,
+      "cls": 1,
+      "deadline_us": 1263320,
+      "id": 355,
+      "size_bits": 4276
+    },
+    {
+      "arrival_us": 1185459,
+      "cls": 1,
+      "deadline_us": 1253995,
+      "id": 356,
+      "size_bits": 3783
+    },
+    {
+      "arrival_us": 1188795,
+      "cls": 0,
+      "deadline_us": 1214134,
+      "id": 357,
+      "size_bits": 7714
+    },
+    {
+      "arrival_us": 1190463,
+      "cls": 1,
+      "deadline_us": 1287053,
+      "id": 358,
+      "size_bits": 6858
+    },
+    {
+      "arrival_us": 1191293,
+      "cls": 0,
+      "deadline_us": 1230948,
+      "id": 359,
+      "size_bits": 3888
+    },
+    {
+      "arrival_us": 1192785,
+      "cls": 1,
+      "deadline_us": 1342621,
+      "id": 360,
+      "size_bits": 6366
+    },
+    {
+      "arrival_us": 1192906,
+      "cls": 0,
+      "deadline_us": 1216406,
+      "id": 361,
+      "size_bits": 5803
+    },
+    {
+      "arrival_us": 1194467,
+      "cls": 0,
+      "deadline_us": 1206096,
+      "id": 362,
+      "size_bits": 4762
+    },
+    {
+      "arrival_us": 1204225,
+      "cls": 0,
+      "deadline_us": 1227457,
+      "id": 363,
+      "size_bits": 3537
+    },
+    {
+      "arrival_us": 1207102,
+      "cls": 1,
+      "deadline_us": 1274073,
+      "id": 364,
+      "size_bits": 6292
+    },
+    {
+      "arrival_us": 1221515,
+      "cls": 0,
+      "deadline_us": 1232791,
+      "id": 365,
+      "size_bits": 5505
+    },
+    {
+      "arrival_us": 1223271,
+      "cls": 1,
+      "deadline_us": 1353384,
+      "id": 366,
+      "size_bits": 3178
+    },
+    {
+      "arrival_us": 1228767,
+      "cls": 2,
+      "deadline_us": 1321138,
+      "id": 367,
+      "size_bits": 3747
+    },
+    {
+      "arrival_us": 1232143,
+      "cls": 1,
+      "deadline_us": 1330862,
+      "id": 368,
+      "size_bits": 4897
+    },
+    {
+      "arrival_us": 1233254,
+      "cls": 0,
+      "deadline_us": 1255686,
+      "id": 369,
+      "size_bits": 4725
+    },
+    {
+      "arrival_us": 1235109,
+      "cls": 1,
+      "deadline_us": 1359551,
+      "id": 370,
+      "size_bits": 3431
+    },
+    {
+      "arrival_us": 1238493,
+      "cls": 2,
+      "deadline_us": 1374232,
+      "id": 371,
+      "size_bits": 7906
+    },
+    {
+      "arrival_us": 1239702,
+      "cls": 1,
+      "deadline_us": 1368869,
+      "id": 372,
+      "size_bits": 4734
+    },
+    {
+      "arrival_us": 1242585,
+      "cls": 1,
+      "deadline_us": 1348545,
+      "id": 373,
+      "size_bits": 5624
+    },
+    {
+      "arrival_us": 1242585,
+      "cls": 1,
+      "deadline_us": 1297590,
+      "id": 374,
+      "size_bits": 2235
+    },
+    {
+      "arrival_us": 1255235,
+      "cls": 1,
+      "deadline_us": 1343626,
+      "id": 375,
+      "size_bits": 3626
+    },
+    {
+      "arrival_us": 1255346,
+      "cls": 0,
+      "deadline_us": 1275221,
+      "id": 376,
+      "size_bits": 7197
+    },
+    {
+      "arrival_us": 1255777,
+      "cls": 1,
+      "deadline_us": 1357654,
+      "id": 377,
+      "size_bits": 5086
+    },
+    {
+      "arrival_us": 1258250,
+      "cls": 2,
+      "deadline_us": 1398582,
+      "id": 378,
+      "size_bits": 6368
+    },
+    {
+      "arrival_us": 1265531,
+      "cls": 0,
+      "deadline_us": 1284431,
+      "id": 379,
+      "size_bits": 5206
+    },
+    {
+      "arrival_us": 1266124,
+      "cls": 1,
+      "deadline_us": 1398904,
+      "id": 380,
+      "size_bits": 3397
+    },
+    {
+      "arrival_us": 1267924,
+      "cls": 1,
+      "deadline_us": 1342142,
+      "id": 381,
+      "size_bits": 5786
+    },
+    {
+      "arrival_us": 1269085,
+      "cls": 2,
+      "deadline_us": 1326308,
+      "id": 382,
+      "size_bits": 5526
+    },
+    {
+      "arrival_us": 1277824,
+      "cls": 2,
+      "deadline_us": 1406747,
+      "id": 383,
+      "size_bits": 2423
+    },
+    {
+      "arrival_us": 1285254,
+      "cls": 1,
+      "deadline_us": 1341645,
+      "id": 384,
+      "size_bits": 4550
+    },
+    {
+      "arrival_us": 1286444,
+      "cls": 1,
+      "deadline_us": 1387962,
+      "id": 385,
+      "size_bits": 3287
+    },
+    {
+      "arrival_us": 1287844,
+      "cls": 2,
+      "deadline_us": 1418394,
+      "id": 386,
+      "size_bits": 7608
+    },
+    {
+      "arrival_us": 1296726,
+      "cls": 1,
+      "deadline_us": 1421003,
+      "id": 387,
+      "size_bits": 7017
+    },
+    {
+      "arrival_us": 1300194,
+      "cls": 1,
+      "deadline_us": 1379870,
+      "id": 388,
+      "size_bits": 2429
+    },
+    {
+      "arrival_us": 1300852,
+      "cls": 1,
+      "deadline_us": 1378408,
+      "id": 389,
+      "size_bits": 2834
+    },
+    {
+      "arrival_us": 1300935,
+      "cls": 1,
+      "deadline_us": 1356546,
+      "id": 390,
+      "size_bits": 3190
+    },
+    {
+      "arrival_us": 1303167,
+      "cls": 2,
+      "deadline_us": 1405655,
+      "id": 391,
+      "size_bits": 2308
+    },
+    {
+      "arrival_us": 1306821,
+      "cls": 1,
+      "deadline_us": 1441126,
+      "id": 392,
+      "size_bits": 2885
+    },
+    {
+      "arrival_us": 1311813,
+      "cls": 0,
+      "deadline_us": 1330399,
+      "id": 393,
+      "size_bits": 6849
+    },
+    {
+      "arrival_us": 1314579,
+      "cls": 1,
+      "deadline_us": 1432865,
+      "id": 394,
+      "size_bits": 2676
+    },
+    {
+      "arrival_us": 1316823,
+      "cls": 1,
+      "deadline_us": 1455868,
+      "id": 395,
+      "size_bits": 6154
+    },
+    {
+      "arrival_us": 1317921,
+      "cls": 1,
+      "deadline_us": 1407120,
+      "id": 396,
+      "size_bits": 5509
+    },
+    {
+      "arrival_us": 1323975,
+      "cls": 1,
+      "deadline_us": 1432031,
+      "id": 397,
+      "size_bits": 7902
+    },
+    {
+      "arrival_us": 1328106,
+      "cls": 1,
+      "deadline_us": 1378716,
+      "id": 398,
+      "size_bits": 4752
+    },
+    {
+      "arrival_us": 1338922,
+      "cls": 1,
+      "deadline_us": 1473341,
+      "id": 399,
+      "size_bits": 2278
+    },
+    {
+      "arrival_us": 1340551,
+      "cls": 1,
+      "deadline_us": 1426888,
+      "id": 400,
+      "size_bits": 4227
+    },
+    {
+      "arrival_us": 1347448,
+      "cls": 1,
+      "deadline_us": 1434188,
+      "id": 401,
+      "size_bits": 4552
+    },
+    {
+      "arrival_us": 1357916,
+      "cls": 2,
+      "deadline_us": 1441868,
+      "id": 402,
+      "size_bits": 4456
+    },
+    {
+      "arrival_us": 1358641,
+      "cls": 1,
+      "deadline_us": 1446588,
+      "id": 403,
+      "size_bits": 5803
+    },
+    {
+      "arrival_us": 1363344,
+      "cls": 1,
+      "deadline_us": 1458622,
+      "id": 404,
+      "size_bits": 3812
+    },
+    {
+      "arrival_us": 1371779,
+      "cls": 0,
+      "deadline_us": 1411217,
+      "id": 405,
+      "size_bits": 2503
+    },
+    {
+      "arrival_us": 1372526,
+      "cls": 1,
+      "deadline_us": 1484813,
+      "id": 406,
+      "size_bits": 6896
+    },
+    {
+      "arrival_us": 1375041,
+      "cls": 2,
+      "deadline_us": 1449013,
+      "id": 407,
+      "size_bits": 4750
+    },
+    {
+      "arrival_us": 1375774,
+      "cls": 1,
+      "deadline_us": 1468991,
+      "id": 408,
+      "size_bits": 5446
+    },
+    {
+      "arrival_us": 1376901,
+      "cls": 1,
+      "deadline_us": 1445303,
+      "id": 409,
+      "size_bits": 4951
+    },
+    {
+      "arrival_us": 1377068,
+      "cls": 1,
+      "deadline_us": 1498042,
+      "id": 410,
+      "size_bits": 7416
+    },
+    {
+      "arrival_us": 1380264,
+      "cls": 1,
+      "deadline_us": 1473532,
+      "id": 411,
+      "size_bits": 4003
+    },
+    {
+      "arrival_us": 1380924,
+      "cls": 2,
+      "deadline_us": 1461266,
+      "id": 412,
+      "size_bits": 5177
+    },
+    {
+      "arrival_us": 1382722,
+      "cls": 2,
+      "deadline_us": 1462382,
+      "id": 413,
+      "size_bits": 7766
+    },
+    {
+      "arrival_us": 1383778,
+      "cls": 1,
+      "deadline_us": 1461293,
+      "id": 414,
+      "size_bits": 2066
+    },
+    {
+      "arrival_us": 1385007,
+      "cls": 1,
+      "deadline_us": 1501907,
+      "id": 415,
+      "size_bits": 6173
+    },
+    {
+      "arrival_us": 1385304,
+      "cls": 1,
+      "deadline_us": 1529979,
+      "id": 416,
+      "size_bits": 2056
+    },
+    {
+      "arrival_us": 1394476,
+      "cls": 1,
+      "deadline_us": 1529344,
+      "id": 417,
+      "size_bits": 3652
+    },
+    {
+      "arrival_us": 1395756,
+      "cls": 2,
+      "deadline_us": 1502629,
+      "id": 418,
+      "size_bits": 6952
+    },
+    {
+      "arrival_us": 1402396,
+      "cls": 2,
+      "deadline_us": 1461460,
+      "id": 419,
+      "size_bits": 6866
+    },
+    {
+      "arrival_us": 1403417,
+      "cls": 1,
+      "deadline_us": 1483680,
+      "id": 420,
+      "size_bits": 5827
+    },
+    {
+      "arrival_us": 1409578,
+      "cls": 2,
+      "deadline_us": 1494226,
+      "id": 421,
+      "size_bits": 3773
+    },
+    {
+      "arrival_us": 1410824,
+      "cls": 2,
+      "deadline_us": 1483379,
+      "id": 422,
+      "size_bits": 6457
+    },
+    {
+      "arrival_us": 1415124,
+      "cls": 0,
+      "deadline_us": 1438031,
+      "id": 423,
+      "size_bits": 5023
+    },
+    {
+      "arrival_us": 1418438,
+      "cls": 0,
+      "deadline_us": 1445487,
+      "id": 424,
+      "size_bits": 4856
+    },
+    {
+      "arrival_us": 1418696,
+      "cls": 2,
+      "deadline_us": 1469402,
+      "id": 425,
+      "size_bits": 4720
+    },
+    {
+      "arrival_us": 1422282,
+      "cls": 1,
+      "deadline_us": 1565231,
+      "id": 426,
+      "size_bits": 5837
+    },
+    {
+      "arrival_us": 1425189,
+      "cls": 2,
+      "deadline_us": 1520291,
+      "id": 427,
+      "size_bits": 2020
+    },
+    {
+      "arrival_us": 1432446,
+      "cls": 1,
+      "deadline_us": 1485308,
+      "id": 428,
+      "size_bits": 6165
+    },
+    {
+      "arrival_us": 1435995,
+      "cls": 2,
+      "deadline_us": 1563825,
+      "id": 429,
+      "size_bits": 7358
+    },
+    {
+      "arrival_us": 1440943,
+      "cls": 1,
+      "deadline_us": 1545065,
+      "id": 430,
+      "size_bits": 7401
+    },
+    {
+      "arrival_us": 1452070,
+      "cls": 2,
+      "deadline_us": 1520444,
+      "id": 431,
+      "size_bits": 5100
+    },
+    {
+      "arrival_us": 1457858,
+      "cls": 1,
+      "deadline_us": 1564802,
+      "id": 432,
+      "size_bits": 7844
+    },
+    {
+      "arrival_us": 1463515,
+      "cls": 1,
+      "deadline_us": 1606850,
+      "id": 433,
+      "size_bits": 3001
+    },
+    {
+      "arrival_us": 1473367,
+      "cls": 1,
+      "deadline_us": 1585076,
+      "id": 434,
+      "size_bits": 2599
+    },
+    {
+      "arrival_us": 1488008,
+      "cls": 0,
+      "deadline_us": 1508175,
+      "id": 435,
+      "size_bits": 4326
+    },
+    {
+      "arrival_us": 1495743,
+      "cls": 1,
+      "deadline_us": 1563212,
+      "id": 436,
+      "size_bits": 2550
+    },
+    {
+      "arrival_us": 1496889,
+      "cls": 1,
+      "deadline_us": 1632662,
+      "id": 437,
+      "size_bits": 6989
+    },
+    {
+      "arrival_us": 1498846,
+      "cls": 0,
+      "deadline_us": 1524689,
+      "id": 438,
+      "size_bits": 6615
+    },
+    {
+      "arrival_us": 1508303,
+      "cls": 1,
+      "deadline_us": 1600082,
+      "id": 439,
+      "size_bits": 3744
+    },
+    {
+      "arrival_us": 1513168,
+      "cls": 2,
+      "deadline_us": 1564085,
+      "id": 440,
+      "size_bits": 4812
+    },
+    {
+      "arrival_us": 1520482,
+      "cls": 1,
+      "deadline_us": 1643228,
+      "id": 441,
+      "size_bits": 2443
+    },
+    {
+      "arrival_us": 1523389,
+      "cls": 1,
+      "deadline_us": 1647349,
+      "id": 442,
+      "size_bits": 2099
+    },
+    {
+      "arrival_us": 1529236,
+      "cls": 1,
+      "deadline_us": 1630526,
+      "id": 443,
+      "size_bits": 6139
+    },
+    {
+      "arrival_us": 1529276,
+      "cls": 2,
+      "deadline_us": 1597493,
+      "id": 444,
+      "size_bits": 3020
+    },
+    {
+      "arrival_us": 1529874,
+      "cls": 0,
+      "deadline_us": 1562952,
+      "id": 445,
+      "size_bits": 5737
+    },
+    {
+      "arrival_us": 1533965,
+      "cls": 2,
+      "deadline_us": 1615578,
+      "id": 446,
+      "size_bits": 3716
+    },
+    {
+      "arrival_us": 1536501,
+      "cls": 1,
+      "deadline_us": 1679451,
+      "id": 447,
+      "size_bits": 4784
+    },
+    {
+      "arrival_us": 1537507,
+      "cls": 1,
+      "deadline_us": 1645027,
+      "id": 448,
+      "size_bits": 2467
+    },
+    {
+      "arrival_us": 1547991,
+      "cls": 1,
+      "deadline_us": 1658954,
+      "id": 449,
+      "size_bits": 3852
+    },
+    {
+      "arrival_us": 1548060,
+      "cls": 0,
+      "deadline_us": 1566793,
+      "id": 450,
+      "size_bits": 5328
+    },
+    {
+      "arrival_us": 1549758,
+      "cls": 2,
+      "deadline_us": 1635549,
+      "id": 451,
+      "size_bits": 2195
+    },
+    {
+      "arrival_us": 1553192,
+      "cls": 0,
+      "deadline_us": 1590282,
+      "id": 452,
+      "size_bits": 7970
+    },
+    {
+      "arrival_us": 1560412,
+      "cls": 1,
+      "deadline_us": 1654729,
+      "id": 453,
+      "size_bits": 3859
+    },
+    {
+      "arrival_us": 1563554,
+      "cls": 2,
+      "deadline_us": 1642013,
+      "id": 454,
+      "size_bits": 4557
+    },
+    {
+      "arrival_us": 1563596,
+      "cls": 2,
+      "deadline_us": 1636745,
+      "id": 455,
+      "size_bits": 5114
+    },
+    {
+      "arrival_us": 1570809,
+      "cls": 0,
+      "deadline_us": 1596134,
+      "id": 456,
+      "size_bits": 2728
+    },
+    {
+      "arrival_us": 1572585,
+      "cls": 1,
+      "deadline_us": 1676918,
+      "id": 457,
+      "size_bits": 2200
+    },
+    {
+      "arrival_us": 1579079,
+      "cls": 1,
+      "deadline_us": 1648784,
+      "id": 458,
+      "size_bits": 2780
+    },
+    {
+      "arrival_us": 1580360,
+      "cls": 1,
+      "deadline_us": 1632941,
+      "id": 459,
+      "size_bits": 7894
+    },
+    {
+      "arrival_us": 1581051,
+      "cls": 1,
+      "deadline_us": 1646429,
+      "id": 460,
+      "size_bits": 6746
+    },
+    {
+      "arrival_us": 1581227,
+      "cls": 1,
+      "deadline_us": 1641916,
+      "id": 461,
+      "size_bits": 2465
+    },
+    {
+      "arrival_us": 1582980,
+      "cls": 0,
+      "deadline_us": 1606856,
+      "id": 462,
+      "size_bits": 6316
+    },
+    {
+      "arrival_us": 1583230,
+      "cls": 2,
+      "deadline_us": 1693929,
+      "id": 463,
+      "size_bits": 2225
+    },
+    {
+      "arrival_us": 1588411,
+      "cls": 2,
+      "deadline_us": 1686388,
+      "id": 464,
+      "size_bits": 4107
+    },
+    {
+      "arrival_us": 1591451,
+      "cls": 0,
+      "deadline_us": 1618300,
+      "id": 465,
+      "size_bits": 2039
+    },
+    {
+      "arrival_us": 1591470,
+      "cls": 2,
+      "deadline_us": 1701595,
+      "id": 466,
+      "size_bits": 6205
+    },
+    {
+      "arrival_us": 1604208,
+      "cls": 0,
+      "deadline_us": 1623395,
+      "id": 467,
+      "size_bits": 4758
+    },
+    {
+      "arrival_us": 1610237,
+      "cls": 1,
+      "deadline_us": 1739058,
+      "id": 468,
+      "size_bits": 5065
+    },
+    {
+      "arrival_us": 1610441,
+      "cls": 0,
+      "deadline_us": 1625222,
+      "id": 469,
+      "size_bits": 2999
+    },
+    {
+      "arrival_us": 1621424,
+      "cls": 1,
+      "deadline_us": 1764429,
+      "id": 470,
+      "size_bits": 5410
+    },
+    {
+      "arrival_us": 1623633,
+      "cls": 1,
+      "deadline_us": 1706069,
+      "id": 471,
+      "size_bits": 2898
+    },
+    {
+      "arrival_us": 1625118,
+      "cls": 1,
+      "deadline_us": 1676142,
+      "id": 472,
+      "size_bits": 3993
+    },
+    {
+      "arrival_us": 1629622,
+      "cls": 1,
+      "deadline_us": 1764084,
+      "id": 473,
+      "size_bits": 6298
+    },
+    {
+      "arrival_us": 1630387,
+      "cls": 0,
+      "deadline_us": 1662463,
+      "id": 474,
+      "size_bits": 7372
+    },
+    {
+      "arrival_us": 1636906,
+      "cls": 2,
+      "deadline_us": 1698691,
+      "id": 475,
+      "size_bits": 3736
+    },
+    {
+      "arrival_us": 1636981,
+      "cls": 2,
+      "deadline_us": 1759052,
+      "id": 476,
+      "size_bits": 3364
+    },
+    {
+      "arrival_us": 1642130,
+      "cls": 0,
+      "deadline_us": 1678994,
+      "id": 477,
+      "size_bits": 4140
+    },
+    {
+      "arrival_us": 1647094,
+      "cls": 1,
+      "deadline_us": 1783065,
+      "id": 478,
+      "size_bits": 7103
+    },
+    {
+      "arrival_us": 1653057,
+      "cls": 0,
+      "deadline_us": 1667938,
+      "id": 479,
+      "size_bits": 2597
+    },
+    {
+      "arrival_us": 1659194,
+      "cls": 2,
+      "deadline_us": 1796341,
+      "id": 480,
+      "size_bits": 5839
+    },
+    {
+      "arrival_us": 1659633,
+      "cls": 0,
+      "deadline_us": 1675141,
+      "id": 481,
+      "size_bits": 3444
+    },
+    {
+      "arrival_us": 1659806,
+      "cls": 1,
+      "deadline_us": 1751205,
+      "id": 482,
+      "size_bits": 2606
+    },
+    {
+      "arrival_us": 1662341,
+      "cls": 1,
+      "deadline_us": 1750890,
+      "id": 483,
+      "size_bits": 5750
+    },
+    {
+      "arrival_us": 1664246,
+      "cls": 2,
+      "deadline_us": 1771824,
+      "id": 484,
+      "size_bits": 4025
+    },
+    {
+      "arrival_us": 1671991,
+      "cls": 1,
+      "deadline_us": 1804820,
+      "id": 485,
+      "size_bits": 7008
+    },
+    {
+      "arrival_us": 1673658,
+      "cls": 2,
+      "deadline_us": 1805494,
+      "id": 486,
+      "size_bits": 4210
+    },
+    {
+      "arrival_us": 1673832,
+      "cls": 1,
+      "deadline_us": 1818465,
+      "id": 487,
+      "size_bits": 3102
+    },
+    {
+      "arrival_us": 1685836,
+      "cls": 2,
+      "deadline_us": 1801583,
+      "id": 488,
+      "size_bits": 7857
+    },
+    {
+      "arrival_us": 1686565,
+      "cls": 0,
+      "deadline_us": 1706263,
+      "id": 489,
+      "size_bits": 3429
+    },
+    {
+      "arrival_us": 1687720,
+      "cls": 1,
+      "deadline_us": 1794270,
+      "id": 490,
+      "size_bits": 3321
+    },
+    {
+      "arrival_us": 1689844,
+      "cls": 2,
+      "deadline_us": 1789757,
+      "id": 491,
+      "size_bits": 6139
+    },
+    {
+      "arrival_us": 1693018,
+      "cls": 1,
+      "deadline_us": 1833182,
+      "id": 492,
+      "size_bits": 3881
+    },
+    {
+      "arrival_us": 1696797,
+      "cls": 1,
+      "deadline_us": 1841014,
+      "id": 493,
+      "size_bits": 6854
+    },
+    {
+      "arrival_us": 1701317,
+      "cls": 1,
+      "deadline_us": 1843613,
+      "id": 494,
+      "size_bits": 6453
+    },
+    {
+      "arrival_us": 1706838,
+      "cls": 1,
+      "deadline_us": 1808306,
+      "id": 495,
+      "size_bits": 6619
+    },
+    {
+      "arrival_us": 1708913,
+      "cls": 2,
+      "deadline_us": 1836037,
+      "id": 496,
+      "size_bits": 7832
+    },
+    {
+      "arrival_us": 1709294,
+      "cls": 0,
+      "deadline_us": 1724902,
+      "id": 497,
+      "size_bits": 5645
+    },
+    {
+      "arrival_us": 1715543,
+      "cls": 0,
+      "deadline_us": 1750284,
+      "id": 498,
+      "size_bits": 5901
+    },
+    {
+      "arrival_us": 1715864,
+      "cls": 2,
+      "deadline_us": 1818211,
+      "id": 499,
+      "size_bits": 3445
+    },
+    {
+      "arrival_us": 1717378,
+      "cls": 1,
+      "deadline_us": 1849011,
+      "id": 500,
+      "size_bits": 5387
+    },
+    {
+      "arrival_us": 1719639,
+      "cls": 2,
+      "deadline_us": 1866502,
+      "id": 501,
+      "size_bits": 7959
+    },
+    {
+      "arrival_us": 1720701,
+      "cls": 0,
+      "deadline_us": 1755991,
+      "id": 502,
+      "size_bits": 5325
+    },
+    {
+      "arrival_us": 1722413,
+      "cls": 1,
+      "deadline_us": 1859653,
+      "id": 503,
+      "size_bits": 3180
+    },
+    {
+      "arrival_us": 1724194,
+      "cls": 1,
+      "deadline_us": 1782566,
+      "id": 504,
+      "size_bits": 3636
+    },
+    {
+      "arrival_us": 1728867,
+      "cls": 0,
+      "deadline_us": 1743847,
+      "id": 505,
+      "size_bits": 4552
+    },
+    {
+      "arrival_us": 1729585,
+      "cls": 1,
+      "deadline_us": 1840259,
+      "id": 506,
+      "size_bits": 2698
+    },
+    {
+      "arrival_us": 1740388,
+      "cls": 2,
+      "deadline_us": 1874991,
+      "id": 507,
+      "size_bits": 2793
+    },
+    {
+      "arrival_us": 1743458,
+      "cls": 1,
+      "deadline_us": 1802400,
+      "id": 508,
+      "size_bits": 6694
+    },
+    {
+      "arrival_us": 1749477,
+      "cls": 1,
+      "deadline_us": 1804863,
+      "id": 509,
+      "size_bits": 7610
+    },
+    {
+      "arrival_us": 1752564,
+      "cls": 0,
+      "deadline_us": 1763143,
+      "id": 510,
+      "size_bits": 7491
+    },
+    {
+      "arrival_us": 1755401,
+      "cls": 1,
+      "deadline_us": 1881096,
+      "id": 511,
+      "size_bits": 6128
+    },
+    {
+      "arrival_us": 1759840,
+      "cls": 2,
+      "deadline_us": 1903380,
+      "id": 512,
+      "size_bits": 2060
+    },
+    {
+      "arrival_us": 1762964,
+      "cls": 2,
+      "deadline_us": 1872747,
+      "id": 513,
+      "size_bits": 3694
+    },
+    {
+      "arrival_us": 1768005,
+      "cls": 2,
+      "deadline_us": 1915563,
+      "id": 514,
+      "size_bits": 2819
+    },
+    {
+      "arrival_us": 1768897,
+      "cls": 1,
+      "deadline_us": 1867322,
+      "id": 515,
+      "size_bits": 3955
+    },
+    {
+      "arrival_us": 1774944,
+      "cls": 1,
+      "deadline_us": 1898008,
+      "id": 516,
+      "size_bits": 6581
+    },
+    {
+      "arrival_us": 1779748,
+      "cls": 0,
+      "deadline_us": 1818426,
+      "id": 517,
+      "size_bits": 6618
+    },
+    {
+      "arrival_us": 1782178,
+      "cls": 2,
+      "deadline_us": 1870380,
+      "id": 518,
+      "size_bits": 3990
+    },
+    {
+      "arrival_us": 1782471,
+      "cls": 1,
+      "deadline_us": 1865099,
+      "id": 519,
+      "size_bits": 7286
+    },
+    {
+      "arrival_us": 1784255,
+      "cls": 1,
+      "deadline_us": 1852652,
+      "id": 520,
+      "size_bits": 6717
+    },
+    {
+      "arrival_us": 1786666,
+      "cls": 0,
+      "deadline_us": 1824410,
+      "id": 521,
+      "size_bits": 5255
+    },
+    {
+      "arrival_us": 1794197,
+      "cls": 2,
+      "deadline_us": 1897585,
+      "id": 522,
+      "size_bits": 5397
+    },
+    {
+      "arrival_us": 1796017,
+      "cls": 2,
+      "deadline_us": 1934960,
+      "id": 523,
+      "size_bits": 3217
+    },
+    {
+      "arrival_us": 1802627,
+      "cls": 1,
+      "deadline_us": 1916307,
+      "id": 524,
+      "size_bits": 2321
+    },
+    {
+      "arrival_us": 1806515,
+      "cls": 1,
+      "deadline_us": 1890955,
+      "id": 525,
+      "size_bits": 7004
+    },
+    {
+      "arrival_us": 1806594,
+      "cls": 2,
+      "deadline_us": 1881538,
+      "id": 526,
+      "size_bits": 5153
+    },
+    {
+      "arrival_us": 1806795,
+      "cls": 1,
+      "deadline_us": 1887683,
+      "id": 527,
+      "size_bits": 2954
+    },
+    {
+      "arrival_us": 1807666,
+      "cls": 2,
+      "deadline_us": 1890255,
+      "id": 528,
+      "size_bits": 4290
+    },
+    {
+      "arrival_us": 1809910,
+      "cls": 1,
+      "deadline_us": 1872278,
+      "id": 529,
+      "size_bits": 6136
+    },
+    {
+      "arrival_us": 1810964,
+      "cls": 1,
+      "deadline_us": 1889837,
+      "id": 530,
+      "size_bits": 4828
+    },
+    {
+      "arrival_us": 1817951,
+      "cls": 2,
+      "deadline_us": 1919742,
+      "id": 531,
+      "size_bits": 7545
+    },
+    {
+      "arrival_us": 1818638,
+      "cls": 1,
+      "deadline_us": 1923193,
+      "id": 532,
+      "size_bits": 7697
+    },
+    {
+      "arrival_us": 1821414,
+      "cls": 1,
+      "deadline_us": 1873701,
+      "id": 533,
+      "size_bits": 3209
+    },
+    {
+      "arrival_us": 1821872,
+      "cls": 0,
+      "deadline_us": 1836640,
+      "id": 534,
+      "size_bits": 5359
+    },
+    {
+      "arrival_us": 1823399,
+      "cls": 1,
+      "deadline_us": 1911547,
+      "id": 535,
+      "size_bits": 4370
+    },
+    {
+      "arrival_us": 1829693,
+      "cls": 1,
+      "deadline_us": 1936751,
+      "id": 536,
+      "size_bits": 5616
+    },
+    {
+      "arrival_us": 1842473,
+      "cls": 2,
+      "deadline_us": 1981820,
+      "id": 537,
+      "size_bits": 4503
+    },
+    {
+      "arrival_us": 1842803,
+      "cls": 1,
+      "deadline_us": 1950376,
+      "id": 538,
+      "size_bits": 5547
+    },
+    {
+      "arrival_us": 1847131,
+      "cls": 2,
+      "deadline_us": 1907085,
+      "id": 539,
+      "size_bits": 5210
+    },
+    {
+      "arrival_us": 1852271,
+      "cls": 1,
+      "deadline_us": 1944637,
+      "id": 540,
+      "size_bits": 2196
+    },
+    {
+      "arrival_us": 1857852,
+      "cls": 2,
+      "deadline_us": 1955669,
+      "id": 541,
+      "size_bits": 2717
+    },
+    {
+      "arrival_us": 1860178,
+      "cls": 2,
+      "deadline_us": 1979713,
+      "id": 542,
+      "size_bits": 6090
+    },
+    {
+      "arrival_us": 1862556,
+      "cls": 0,
+      "deadline_us": 1874261,
+      "id": 543,
+      "size_bits": 6626
+    },
+    {
+      "arrival_us": 1865567,
+      "cls": 1,
+      "deadline_us": 1984968,
+      "id": 544,
+      "size_bits": 6503
+    },
+    {
+      "arrival_us": 1875156,
+      "cls": 0,
+      "deadline_us": 1886340,
+      "id": 545,
+      "size_bits": 5220
+    },
+    {
+      "arrival_us": 1875611,
+      "cls": 1,
+      "deadline_us": 1971220,
+      "id": 546,
+      "size_bits": 7823
+    },
+    {
+      "arrival_us": 1876983,
+      "cls": 1,
+      "deadline_us": 1927884,
+      "id": 547,
+      "size_bits": 7325
+    },
+    {
+      "arrival_us": 1882138,
+      "cls": 1,
+      "deadline_us": 1978365,
+      "id": 548,
+      "size_bits": 5931
+    },
+    {
+      "arrival_us": 1888475,
+      "cls": 1,
+      "deadline_us": 2003134,
+      "id": 549,
+      "size_bits": 7282
+    },
+    {
+      "arrival_us": 1893999,
+      "cls": 1,
+      "deadline_us": 1945090,
+      "id": 550,
+      "size_bits": 3714
+    },
+    {
+      "arrival_us": 1904629,
+      "cls": 1,
+      "deadline_us": 2051307,
+      "id": 551,
+      "size_bits": 2337
+    },
+    {
+      "arrival_us": 1910543,
+      "cls": 0,
+      "deadline_us": 1938984,
+      "id": 552,
+      "size_bits": 6488
+    },
+    {
+      "arrival_us": 1919546,
+      "cls": 2,
+      "deadline_us": 2005722,
+      "id": 553,
+      "size_bits": 2357
+    },
+    {
+      "arrival_us": 1929004,
+      "cls": 2,
+      "deadline_us": 2068861,
+      "id": 554,
+      "size_bits": 7577
+    },
+    {
+      "arrival_us": 1934230,
+      "cls": 1,
+      "deadline_us": 2077715,
+      "id": 555,
+      "size_bits": 5188
+    },
+    {
+      "arrival_us": 1938589,
+      "cls": 0,
+      "deadline_us": 1964193,
+      "id": 556,
+      "size_bits": 7176
+    },
+    {
+      "arrival_us": 1940547,
+      "cls": 2,
+      "deadline_us": 2005895,
+      "id": 557,
+      "size_bits": 4868
+    },
+    {
+      "arrival_us": 1953055,
+      "cls": 2,
+      "deadline_us": 2034640,
+      "id": 558,
+      "size_bits": 7945
+    },
+    {
+      "arrival_us": 1959456,
+      "cls": 2,
+      "deadline_us": 2016528,
+      "id": 559,
+      "size_bits": 2321
+    },
+    {
+      "arrival_us": 1959558,
+      "cls": 0,
+      "deadline_us": 1987861,
+      "id": 560,
+      "size_bits": 4482
+    },
+    {
+      "arrival_us": 1959631,
+      "cls": 1,
+      "deadline_us": 2039416,
+      "id": 561,
+      "size_bits": 6018
+    },
+    {
+      "arrival_us": 1970667,
+      "cls": 1,
+      "deadline_us": 2111677,
+      "id": 562,
+      "size_bits": 4005
+    },
+    {
+      "arrival_us": 1972357,
+      "cls": 0,
+      "deadline_us": 1996608,
+      "id": 563,
+      "size_bits": 4278
+    },
+    {
+      "arrival_us": 1972869,
+      "cls": 0,
+      "deadline_us": 2003181,
+      "id": 564,
+      "size_bits": 5632
+    },
+    {
+      "arrival_us": 1976173,
+      "cls": 1,
+      "deadline_us": 2036252,
+      "id": 565,
+      "size_bits": 7002
+    },
+    {
+      "arrival_us": 1976226,
+      "cls": 1,
+      "deadline_us": 2106913,
+      "id": 566,
+      "size_bits": 4812
+    },
+    {
+      "arrival_us": 1982523,
+      "cls": 2,
+      "deadline_us": 2120738,
+      "id": 567,
+      "size_bits": 4021
+    },
+    {
+      "arrival_us": 1983606,
+      "cls": 2,
+      "deadline_us": 2131276,
+      "id": 568,
+      "size_bits": 6671
+    },
+    {
+      "arrival_us": 1986919,
+      "cls": 1,
+      "deadline_us": 2106124,
+      "id": 569,
+      "size_bits": 4594
+    },
+    {
+      "arrival_us": 1990670,
+      "cls": 2,
+      "deadline_us": 2074425,
+      "id": 570,
+      "size_bits": 7251
+    },
+    {
+      "arrival_us": 1997703,
+      "cls": 1,
+      "deadline_us": 2070716,
+      "id": 571,
+      "size_bits": 3406
+    },
+    {
+      "arrival_us": 1998191,
+      "cls": 1,
+      "deadline_us": 2097729,
+      "id": 572,
+      "size_bits": 2824
+    },
+    {
+      "arrival_us": 2002783,
+      "cls": 1,
+      "deadline_us": 2142417,
+      "id": 573,
+      "size_bits": 6279
+    },
+    {
+      "arrival_us": 2021322,
+      "cls": 0,
+      "deadline_us": 2050132,
+      "id": 574,
+      "size_bits": 4773
+    },
+    {
+      "arrival_us": 2028276,
+      "cls": 2,
+      "deadline_us": 2149130,
+      "id": 575,
+      "size_bits": 6081
+    },
+    {
+      "arrival_us": 2031229,
+      "cls": 1,
+      "deadline_us": 2083613,
+      "id": 576,
+      "size_bits": 4431
+    },
+    {
+      "arrival_us": 2032660,
+      "cls": 0,
+      "deadline_us": 2071118,
+      "id": 577,
+      "size_bits": 6838
+    },
+    {
+      "arrival_us": 2034250,
+      "cls": 2,
+      "deadline_us": 2156571,
+      "id": 578,
+      "size_bits": 5117
+    },
+    {
+      "arrival_us": 2037031,
+      "cls": 0,
+      "deadline_us": 2056611,
+      "id": 579,
+      "size_bits": 2728
+    },
+    {
+      "arrival_us": 2041317,
+      "cls": 1,
+      "deadline_us": 2121968,
+      "id": 580,
+      "size_bits": 6244
+    },
+    {
+      "arrival_us": 2042167,
+      "cls": 2,
+      "deadline_us": 2158126,
+      "id": 581,
+      "size_bits": 2745
+    },
+    {
+      "arrival_us": 2046176,
+      "cls": 2,
+      "deadline_us": 2151406,
+      "id": 582,
+      "size_bits": 5122
+    },
+    {
+      "arrival_us": 2051635,
+      "cls": 1,
+      "deadline_us": 2169113,
+      "id": 583,
+      "size_bits": 2085
+    },
+    {
+      "arrival_us": 2055602,
+      "cls": 1,
+      "deadline_us": 2154049,
+      "id": 584,
+      "size_bits": 3373
+    },
+    {
+      "arrival_us": 2055637,
+      "cls": 2,
+      "deadline_us": 2167236,
+      "id": 585,
+      "size_bits": 3763
+    },
+    {
+      "arrival_us": 2062379,
+      "cls": 1,
+      "deadline_us": 2179475,
+      "id": 586,
+      "size_bits": 7785
+    },
+    {
+      "arrival_us": 2064561,
+      "cls": 1,
+      "deadline_us": 2173155,
+      "id": 587,
+      "size_bits": 5513
+    },
+    {
+      "arrival_us": 2074220,
+      "cls": 0,
+      "deadline_us": 2097481,
+      "id": 588,
+      "size_bits": 4574
+    },
+    {
+      "arrival_us": 2075167,
+      "cls": 0,
+      "deadline_us": 2086073,
+      "id": 589,
+      "size_bits": 4970
+    },
+    {
+      "arrival_us": 2076128,
+      "cls": 1,
+      "deadline_us": 2220942,
+      "id": 590,
+      "size_bits": 2436
+    },
+    {
+      "arrival_us": 2076202,
+      "cls": 1,
+      "deadline_us": 2129979,
+      "id": 591,
+      "size_bits": 3658
+    },
+    {
+      "arrival_us": 2077142,
+      "cls": 2,
+      "deadline_us": 2188152,
+      "id": 592,
+      "size_bits": 5729
+    },
+    {
+      "arrival_us": 2078271,
+      "cls": 1,
+      "deadline_us": 2201905,
+      "id": 593,
+      "size_bits": 4569
+    },
+    {
+      "arrival_us": 2078721,
+      "cls": 1,
+      "deadline_us": 2201577,
+      "id": 594,
+      "size_bits": 7432
+    },
+    {
+      "arrival_us": 2080812,
+      "cls": 2,
+      "deadline_us": 2176461,
+      "id": 595,
+      "size_bits": 7995
+    },
+    {
+      "arrival_us": 2082181,
+      "cls": 0,
+      "deadline_us": 2098331,
+      "id": 596,
+      "size_bits": 7715
+    },
+    {
+      "arrival_us": 2082432,
+      "cls": 2,
+      "deadline_us": 2198595,
+      "id": 597,
+      "size_bits": 4717
+    },
+    {
+      "arrival_us": 2086698,
+      "cls": 2,
+      "deadline_us": 2196084,
+      "id": 598,
+      "size_bits": 6735
+    },
+    {
+      "arrival_us": 2089716,
+      "cls": 2,
+      "deadline_us": 2162999,
+      "id": 599,
+      "size_bits": 7274
+    },
+    {
+      "arrival_us": 2095288,
+      "cls": 1,
+      "deadline_us": 2207372,
+      "id": 600,
+      "size_bits": 4362
+    },
+    {
+      "arrival_us": 2096258,
+      "cls": 0,
+      "deadline_us": 2131544,
+      "id": 601,
+      "size_bits": 4594
+    },
+    {
+      "arrival_us": 2101031,
+      "cls": 1,
+      "deadline_us": 2168789,
+      "id": 602,
+      "size_bits": 5846
+    },
+    {
+      "arrival_us": 2101445,
+      "cls": 1,
+      "deadline_us": 2227878,
+      "id": 603,
+      "size_bits": 2243
+    },
+    {
+      "arrival_us": 2104096,
+      "cls": 2,
+      "deadline_us": 2204035,
+      "id": 604,
+      "size_bits": 3527
+    },
+    {
+      "arrival_us": 2105010,
+      "cls": 2,
+      "deadline_us": 2178503,
+      "id": 605,
+      "size_bits": 7003
+    },
+    {
+      "arrival_us": 2106007,
+      "cls": 0,
+      "deadline_us": 2120717,
+      "id": 606,
+      "size_bits": 5488
+    },
+    {
+      "arrival_us": 2109672,
+      "cls": 1,
+      "deadline_us": 2172168,
+      "id": 607,
+      "size_bits": 4257
+    },
+    {
+      "arrival_us": 2111341,
+      "cls": 0,
+      "deadline_us": 2134773,
+      "id": 608,
+      "size_bits": 7305
+    },
+    {
+      "arrival_us": 2118682,
+      "cls": 1,
+      "deadline_us": 2252428,
+      "id": 609,
+      "size_bits": 7566
+    },
+    {
+      "arrival_us": 2119693,
+      "cls": 0,
+      "deadline_us": 2133887,
+      "id": 610,
+      "size_bits": 6761
+    },
+    {
+      "arrival_us": 2129876,
+      "cls": 1,
+      "deadline_us": 2251766,
+      "id": 611,
+      "size_bits": 6709
+    },
+    {
+      "arrival_us": 2135668,
+      "cls": 1,
+      "deadline_us": 2256536,
+      "id": 612,
+      "size_bits": 6594
+    },
+    {
+      "arrival_us": 2137551,
+      "cls": 0,
+      "deadline_us": 2161795,
+      "id": 613,
+      "size_bits": 5081
+    },
+    {
+      "arrival_us": 2138716,
+      "cls": 1,
+      "deadline_us": 2263835,
+      "id": 614,
+      "size_bits": 3143
+    },
+    {
+      "arrival_us": 2138837,
+      "cls": 0,
+      "deadline_us": 2177068,
+      "id": 615,
+      "size_bits": 3130
+    },
+    {
+      "arrival_us": 2143045,
+      "cls": 1,
+      "deadline_us": 2274362,
+      "id": 616,
+      "size_bits": 7821
+    },
+    {
+      "arrival_us": 2148220,
+      "cls": 2,
+      "deadline_us": 2249927,
+      "id": 617,
+      "size_bits": 7395
+    },
+    {
+      "arrival_us": 2152806,
+      "cls": 1,
+      "deadline_us": 2301479,
+      "id": 618,
+      "size_bits": 4177
+    },
+    {
+      "arrival_us": 2154577,
+      "cls": 0,
+      "deadline_us": 2193944,
+      "id": 619,
+      "size_bits": 5399
+    },
+    {
+      "arrival_us": 2157437,
+      "cls": 1,
+      "deadline_us": 2220608,
+      "id": 620,
+      "size_bits": 4448
+    },
+    {
+      "arrival_us": 2165532,
+      "cls": 1,
+      "deadline_us": 2306230,
+      "id": 621,
+      "size_bits": 5658
+    },
+    {
+      "arrival_us": 2166853,
+      "cls": 1,
+      "deadline_us": 2231069,
+      "id": 622,
+      "size_bits": 6721
+    },
+    {
+      "arrival_us": 2171482,
+      "cls": 1,
+      "deadline_us": 2304943,
+      "id": 623,
+      "size_bits": 6070
+    },
+    {
+      "arrival_us": 2185226,
+      "cls": 1,
+      "deadline_us": 2293347,
+      "id": 624,
+      "size_bits": 5883
+    },
+    {
+      "arrival_us": 2187154,
+      "cls": 1,
+      "deadline_us": 2302005,
+      "id": 625,
+      "size_bits": 4212
+    },
+    {
+      "arrival_us": 2189034,
+      "cls": 1,
+      "deadline_us": 2278670,
+      "id": 626,
+      "size_bits": 5750
+    },
+    {
+      "arrival_us": 2191450,
+      "cls": 1,
+      "deadline_us": 2266278,
+      "id": 627,
+      "size_bits": 7714
+    },
+    {
+      "arrival_us": 2191874,
+      "cls": 2,
+      "deadline_us": 2332408,
+      "id": 628,
+      "size_bits": 4480
+    },
+    {
+      "arrival_us": 2196905,
+      "cls": 1,
+      "deadline_us": 2285669,
+      "id": 629,
+      "size_bits": 3873
+    },
+    {
+      "arrival_us": 2202144,
+      "cls": 1,
+      "deadline_us": 2346387,
+      "id": 630,
+      "size_bits": 6414
+    },
+    {
+      "arrival_us": 2202807,
+      "cls": 2,
+      "deadline_us": 2352734,
+      "id": 631,
+      "size_bits": 4342
+    },
+    {
+      "arrival_us": 2204290,
+      "cls": 1,
+      "deadline_us": 2346852,
+      "id": 632,
+      "size_bits": 5172
+    },
+    {
+      "arrival_us": 2206452,
+      "cls": 2,
+      "deadline_us": 2352367,
+      "id": 633,
+      "size_bits": 3766
+    },
+    {
+      "arrival_us": 2209579,
+      "cls": 1,
+      "deadline_us": 2338331,
+      "id": 634,
+      "size_bits": 6526
+    },
+    {
+      "arrival_us": 2214633,
+      "cls": 2,
+      "deadline_us": 2292578,
+      "id": 635,
+      "size_bits": 7515
+    },
+    {
+      "arrival_us": 2220204,
+      "cls": 2,
+      "deadline_us": 2353979,
+      "id": 636,
+      "size_bits": 5245
+    },
+    {
+      "arrival_us": 2220470,
+      "cls": 2,
+      "deadline_us": 2347424,
+      "id": 637,
+      "size_bits": 4104
+    },
+    {
+      "arrival_us": 2223998,
+      "cls": 1,
+      "deadline_us": 2323214,
+      "id": 638,
+      "size_bits": 3262
+    },
+    {
+      "arrival_us": 2231003,
+      "cls": 1,
+      "deadline_us": 2308414,
+      "id": 639,
+      "size_bits": 4820
+    },
+    {
+      "arrival_us": 2232600,
+      "cls": 1,
+      "deadline_us": 2338096,
+      "id": 640,
+      "size_bits": 4905
+    },
+    {
+      "arrival_us": 2238790,
+      "cls": 1,
+      "deadline_us": 2350010,
+      "id": 641,
+      "size_bits": 2291
+    },
+    {
+      "arrival_us": 2239149,
+      "cls": 1,
+      "deadline_us": 2294770,
+      "id": 642,
+      "size_bits": 2495
+    },
+    {
+      "arrival_us": 2248977,
+      "cls": 1,
+      "deadline_us": 2397242,
+      "id": 643,
+      "size_bits": 5927
+    },
+    {
+      "arrival_us": 2255690,
+      "cls": 0,
+      "deadline_us": 2272537,
+      "id": 644,
+      "size_bits": 4183
+    },
+    {
+      "arrival_us": 2257314,
+      "cls": 1,
+      "deadline_us": 2364619,
+      "id": 645,
+      "size_bits": 2067
+    },
+    {
+      "arrival_us": 2260399,
+      "cls": 2,
+      "deadline_us": 2396540,
+      "id": 646,
+      "size_bits": 3323
+    },
+    {
+      "arrival_us": 2260718,
+      "cls": 0,
+      "deadline_us": 2279345,
+      "id": 647,
+      "size_bits": 4631
+    },
+    {
+      "arrival_us": 2261024,
+      "cls": 2,
+      "deadline_us": 2377237,
+      "id": 648,
+      "size_bits": 6937
+    },
+    {
+      "arrival_us": 2268755,
+      "cls": 1,
+      "deadline_us": 2381011,
+      "id": 649,
+      "size_bits": 2944
+    },
+    {
+      "arrival_us": 2273751,
+      "cls": 0,
+      "deadline_us": 2290354,
+      "id": 650,
+      "size_bits": 4334
+    },
+    {
+      "arrival_us": 2277690,
+      "cls": 1,
+      "deadline_us": 2385429,
+      "id": 651,
+      "size_bits": 4845
+    },
+    {
+      "arrival_us": 2278430,
+      "cls": 1,
+      "deadline_us": 2332412,
+      "id": 652,
+      "size_bits": 4081
+    },
+    {
+      "arrival_us": 2280008,
+      "cls": 2,
+      "deadline_us": 2346357,
+      "id": 653,
+      "size_bits": 5795
+    },
+    {
+      "arrival_us": 2280033,
+      "cls": 0,
+      "deadline_us": 2297564,
+      "id": 654,
+      "size_bits": 7061
+    },
+    {
+      "arrival_us": 2281840,
+      "cls": 0,
+      "deadline_us": 2321700,
+      "id": 655,
+      "size_bits": 6985
+    },
+    {
+      "arrival_us": 2285708,
+      "cls": 2,
+      "deadline_us": 2372079,
+      "id": 656,
+      "size_bits": 6610
+    },
+    {
+      "arrival_us": 2286889,
+      "cls": 1,
+      "deadline_us": 2357070,
+      "id": 657,
+      "size_bits": 6531
+    },
+    {
+      "arrival_us": 2290473,
+      "cls": 2,
+      "deadline_us": 2429682,
+      "id": 658,
+      "size_bits": 3118
+    },
+    {
+      "arrival_us": 2292352,
+      "cls": 2,
+      "deadline_us": 2379667,
+      "id": 659,
+      "size_bits": 6130
+    },
+    {
+      "arrival_us": 2302414,
+      "cls": 1,
+      "deadline_us": 2392034,
+      "id": 660,
+      "size_bits": 2218
+    },
+    {
+      "arrival_us": 2303365,
+      "cls": 2,
+      "deadline_us": 2404090,
+      "id": 661,
+      "size_bits": 4181
+    },
+    {
+      "arrival_us": 2305689,
+      "cls": 1,
+      "deadline_us": 2371915,
+      "id": 662,
+      "size_bits": 5595
+    },
+    {
+      "arrival_us": 2310971,
+      "cls": 2,
+      "deadline_us": 2398931,
+      "id": 663,
+      "size_bits": 6890
+    },
+    {
+      "arrival_us": 2324957,
+      "cls": 2,
+      "deadline_us": 2432010,
+      "id": 664,
+      "size_bits": 7024
+    },
+    {
+      "arrival_us": 2333143,
+      "cls": 2,
+      "deadline_us": 2410181,
+      "id": 665,
+      "size_bits": 5277
+    },
+    {
+      "arrival_us": 2339137,
+      "cls": 2,
+      "deadline_us": 2467724,
+      "id": 666,
+      "size_bits": 6346
+    },
+    {
+      "arrival_us": 2340284,
+      "cls": 2,
+      "deadline_us": 2394475,
+      "id": 667,
+      "size_bits": 3008
+    },
+    {
+      "arrival_us": 2342678,
+      "cls": 1,
+      "deadline_us": 2471537,
+      "id": 668,
+      "size_bits": 5830
+    },
+    {
+      "arrival_us": 2342723,
+      "cls": 2,
+      "deadline_us": 2411658,
+      "id": 669,
+      "size_bits": 6923
+    },
+    {
+      "arrival_us": 2345840,
+      "cls": 0,
+      "deadline_us": 2380423,
+      "id": 670,
+      "size_bits": 7912
+    },
+    {
+      "arrival_us": 2349512,
+      "cls": 0,
+      "deadline_us": 2381631,
+      "id": 671,
+      "size_bits": 7879
+    },
+    {
+      "arrival_us": 2352777,
+      "cls": 2,
+      "deadline_us": 2415043,
+      "id": 672,
+      "size_bits": 2858
+    },
+    {
+      "arrival_us": 2362628,
+      "cls": 1,
+      "deadline_us": 2507541,
+      "id": 673,
+      "size_bits": 4946
+    },
+    {
+      "arrival_us": 2367081,
+      "cls": 2,
+      "deadline_us": 2438745,
+      "id": 674,
+      "size_bits": 5442
+    },
+    {
+      "arrival_us": 2370404,
+      "cls": 2,
+      "deadline_us": 2503002,
+      "id": 675,
+      "size_bits": 2865
+    },
+    {
+      "arrival_us": 2373153,
+      "cls": 1,
+      "deadline_us": 2442538,
+      "id": 676,
+      "size_bits": 6598
+    },
+    {
+      "arrival_us": 2381066,
+      "cls": 2,
+      "deadline_us": 2476272,
+      "id": 677,
+      "size_bits": 3192
+    },
+    {
+      "arrival_us": 2386176,
+      "cls": 2,
+      "deadline_us": 2494230,
+      "id": 678,
+      "size_bits": 4299
+    },
+    {
+      "arrival_us": 2387080,
+      "cls": 1,
+      "deadline_us": 2487904,
+      "id": 679,
+      "size_bits": 5516
+    },
+    {
+      "arrival_us": 2388775,
+      "cls": 1,
+      "deadline_us": 2501949,
+      "id": 680,
+      "size_bits": 3299
+    },
+    {
+      "arrival_us": 2391771,
+      "cls": 2,
+      "deadline_us": 2459839,
+      "id": 681,
+      "size_bits": 3967
+    },
+    {
+      "arrival_us": 2402627,
+      "cls": 2,
+      "deadline_us": 2542480,
+      "id": 682,
+      "size_bits": 6758
+    },
+    {
+      "arrival_us": 2407827,
+      "cls": 0,
+      "deadline_us": 2447609,
+      "id": 683,
+      "size_bits": 4163
+    },
+    {
+      "arrival_us": 2409714,
+      "cls": 1,
+      "deadline_us": 2506598,
+      "id": 684,
+      "size_bits": 6806
+    },
+    {
+      "arrival_us": 2411996,
+      "cls": 1,
+      "deadline_us": 2560486,
+      "id": 685,
+      "size_bits": 2810
+    },
+    {
+      "arrival_us": 2412386,
+      "cls": 0,
+      "deadline_us": 2449914,
+      "id": 686,
+      "size_bits": 3553
+    },
+    {
+      "arrival_us": 2418395,
+      "cls": 1,
+      "deadline_us": 2544170,
+      "id": 687,
+      "size_bits": 2677
+    },
+    {
+      "arrival_us": 2422196,
+      "cls": 2,
+      "deadline_us": 2549123,
+      "id": 688,
+      "size_bits": 6639
+    },
+    {
+      "arrival_us": 2433093,
+      "cls": 0,
+      "deadline_us": 2462932,
+      "id": 689,
+      "size_bits": 5500
+    },
+    {
+      "arrival_us": 2434953,
+      "cls": 1,
+      "deadline_us": 2528739,
+      "id": 690,
+      "size_bits": 2083
+    },
+    {
+      "arrival_us": 2444359,
+      "cls": 0,
+      "deadline_us": 2458035,
+      "id": 691,
+      "size_bits": 3409
+    },
+    {
+      "arrival_us": 2446322,
+      "cls": 1,
+      "deadline_us": 2564410,
+      "id": 692,
+      "size_bits": 5348
+    },
+    {
+      "arrival_us": 2448359,
+      "cls": 1,
+      "deadline_us": 2515077,
+      "id": 693,
+      "size_bits": 6882
+    },
+    {
+      "arrival_us": 2450497,
+      "cls": 1,
+      "deadline_us": 2524202,
+      "id": 694,
+      "size_bits": 7225
+    },
+    {
+      "arrival_us": 2451223,
+      "cls": 2,
+      "deadline_us": 2538808,
+      "id": 695,
+      "size_bits": 2342
+    },
+    {
+      "arrival_us": 2453346,
+      "cls": 2,
+      "deadline_us": 2514352,
+      "id": 696,
+      "size_bits": 5329
+    },
+    {
+      "arrival_us": 2457393,
+      "cls": 1,
+      "deadline_us": 2582296,
+      "id": 697,
+      "size_bits": 6329
+    },
+    {
+      "arrival_us": 2459858,
+      "cls": 1,
+      "deadline_us": 2542882,
+      "id": 698,
+      "size_bits": 4379
+    },
+    {
+      "arrival_us": 2460010,
+      "cls": 2,
+      "deadline_us": 2520335,
+      "id": 699,
+      "size_bits": 7845
+    },
+    {
+      "arrival_us": 2461215,
+      "cls": 2,
+      "deadline_us": 2529614,
+      "id": 700,
+      "size_bits": 7845
+    },
+    {
+      "arrival_us": 2462037,
+      "cls": 1,
+      "deadline_us": 2584633,
+      "id": 701,
+      "size_bits": 5608
+    },
+    {
+      "arrival_us": 2474981,
+      "cls": 1,
+      "deadline_us": 2604854,
+      "id": 702,
+      "size_bits": 3985
+    },
+    {
+      "arrival_us": 2477267,
+      "cls": 1,
+      "deadline_us": 2605403,
+      "id": 703,
+      "size_bits": 5268
+    },
+    {
+      "arrival_us": 2478476,
+      "cls": 2,
+      "deadline_us": 2603897,
+      "id": 704,
+      "size_bits": 7689
+    },
+    {
+      "arrival_us": 2478938,
+      "cls": 2,
+      "deadline_us": 2576226,
+      "id": 705,
+      "size_bits": 4907
+    },
+    {
+      "arrival_us": 2480433,
+      "cls": 2,
+      "deadline_us": 2597683,
+      "id": 706,
+      "size_bits": 6349
+    },
+    {
+      "arrival_us": 2495625,
+      "cls": 2,
+      "deadline_us": 2602827,
+      "id": 707,
+      "size_bits": 6087
+    },
+    {
+      "arrival_us": 2496002,
+      "cls": 2,
+      "deadline_us": 2562721,
+      "id": 708,
+      "size_bits": 2109
+    },
+    {
+      "arrival_us": 2499571,
+      "cls": 1,
+      "deadline_us": 2597519,
+      "id": 709,
+      "size_bits": 5644
+    },
+    {
+      "arrival_us": 2501130,
+      "cls": 2,
+      "deadline_us": 2552891,
+      "id": 710,
+      "size_bits": 7749
+    },
+    {
+      "arrival_us": 2501648,
+      "cls": 2,
+      "deadline_us": 2610958,
+      "id": 711,
+      "size_bits": 6124
+    },
+    {
+      "arrival_us": 2511656,
+      "cls": 0,
+      "deadline_us": 2542469,
+      "id": 712,
+      "size_bits": 5353
+    },
+    {
+      "arrival_us": 2513548,
+      "cls": 2,
+      "deadline_us": 2650552,
+      "id": 713,
+      "size_bits": 2276
+    },
+    {
+      "arrival_us": 2514604,
+      "cls": 1,
+      "deadline_us": 2621512,
+      "id": 714,
+      "size_bits": 2377
+    },
+    {
+      "arrival_us": 2517245,
+      "cls": 1,
+      "deadline_us": 2646112,
+      "id": 715,
+      "size_bits": 3635
+    },
+    {
+      "arrival_us": 2521195,
+      "cls": 1,
+      "deadline_us": 2634000,
+      "id": 716,
+      "size_bits": 6038
+    },
+    {
+      "arrival_us": 2521616,
+      "cls": 1,
+      "deadline_us": 2587489,
+      "id": 717,
+      "size_bits": 5996
+    },
+    {
+      "arrival_us": 2521902,
+      "cls": 0,
+      "deadline_us": 2557868,
+      "id": 718,
+      "size_bits": 2644
+    },
+    {
+      "arrival_us": 2525139,
+      "cls": 1,
+      "deadline_us": 2670113,
+      "id": 719,
+      "size_bits": 5674
+    },
+    {
+      "arrival_us": 2529298,
+      "cls": 0,
+      "deadline_us": 2549467,
+      "id": 720,
+      "size_bits": 5382
+    },
+    {
+      "arrival_us": 2530887,
+      "cls": 2,
+      "deadline_us": 2605627,
+      "id": 721,
+      "size_bits": 5833
+    },
+    {
+      "arrival_us": 2536170,
+      "cls": 1,
+      "deadline_us": 2650214,
+      "id": 722,
+      "size_bits": 6165
+    },
+    {
+      "arrival_us": 2541844,
+      "cls": 2,
+      "deadline_us": 2618190,
+      "id": 723,
+      "size_bits": 3588
+    },
+    {
+      "arrival_us": 2546246,
+      "cls": 1,
+      "deadline_us": 2690541,
+      "id": 724,
+      "size_bits": 7134
+    },
+    {
+      "arrival_us": 2546967,
+      "cls": 0,
+      "deadline_us": 2561799,
+      "id": 725,
+      "size_bits": 5329
+    },
+    {
+      "arrival_us": 2548285,
+      "cls": 0,
+      "deadline_us": 2572810,
+      "id": 726,
+      "size_bits": 7932
+    },
+    {
+      "arrival_us": 2549854,
+      "cls": 1,
+      "deadline_us": 2679085,
+      "id": 727,
+      "size_bits": 7155
+    },
+    {
+      "arrival_us": 2549898,
+      "cls": 1,
+      "deadline_us": 2652171,
+      "id": 728,
+      "size_bits": 6410
+    },
+    {
+      "arrival_us": 2550647,
+      "cls": 0,
+      "deadline_us": 2590268,
+      "id": 729,
+      "size_bits": 5298
+    },
+    {
+      "arrival_us": 2553463,
+      "cls": 1,
+      "deadline_us": 2616614,
+      "id": 730,
+      "size_bits": 4230
+    },
+    {
+      "arrival_us": 2558127,
+      "cls": 1,
+      "deadline_us": 2659422,
+      "id": 731,
+      "size_bits": 7882
+    },
+    {
+      "arrival_us": 2561169,
+      "cls": 0,
+      "deadline_us": 2599314,
+      "id": 732,
+      "size_bits": 7747
+    },
+    {
+      "arrival_us": 2568720,
+      "cls": 2,
+      "deadline_us": 2668595,
+      "id": 733,
+      "size_bits": 7298
+    },
+    {
+      "arrival_us": 2569941,
+      "cls": 1,
+      "deadline_us": 2717774,
+      "id": 734,
+      "size_bits": 5974
+    },
+    {
+      "arrival_us": 2573371,
+      "cls": 2,
+      "deadline_us": 2639849,
+      "id": 735,
+      "size_bits": 5187
+    },
+    {
+      "arrival_us": 2576620,
+      "cls": 0,
+      "deadline_us": 2602028,
+      "id": 736,
+      "size_bits": 3750
+    },
+    {
+      "arrival_us": 2576828,
+      "cls": 1,
+      "deadline_us": 2724021,
+      "id": 737,
+      "size_bits": 2761
+    },
+    {
+      "arrival_us": 2578944,
+      "cls": 1,
+      "deadline_us": 2725229,
+      "id": 738,
+      "size_bits": 5797
+    },
+    {
+      "arrival_us": 2579056,
+      "cls": 1,
+      "deadline_us": 2653305,
+      "id": 739,
+      "size_bits": 4201
+    },
+    {
+      "arrival_us": 2584199,
+      "cls": 1,
+      "deadline_us": 2695874,
+      "id": 740,
+      "size_bits": 3290
+    },
+    {
+      "arrival_us": 2585622,
+      "cls": 1,
+      "deadline_us": 2646663,
+      "id": 741,
+      "size_bits": 7836
+    },
+    {
+      "arrival_us": 2598351,
+      "cls": 2,
+      "deadline_us": 2674801,
+      "id": 742,
+      "size_bits": 7992
+    },
+    {
+      "arrival_us": 2605260,
+      "cls": 2,
+      "deadline_us": 2675933,
+      "id": 743,
+      "size_bits": 4917
+    },
+    {
+      "arrival_us": 2609591,
+      "cls": 1,
+      "deadline_us": 2700849,
+      "id": 744,
+      "size_bits": 4879
+    },
+    {
+      "arrival_us": 2611219,
+      "cls": 1,
+      "deadline_us": 2751469,
+      "id": 745,
+      "size_bits": 2723
+    },
+    {
+      "arrival_us": 2613418,
+      "cls": 1,
+      "deadline_us": 2669541,
+      "id": 746,
+      "size_bits": 2494
+    },
+    {
+      "arrival_us": 2625956,
+      "cls": 1,
+      "deadline_us": 2766238,
+      "id": 747,
+      "size_bits": 5216
+    },
+    {
+      "arrival_us": 2626054,
+      "cls": 1,
+      "deadline_us": 2747140,
+      "id": 748,
+      "size_bits": 5001
+    },
+    {
+      "arrival_us": 2626438,
+      "cls": 1,
+      "deadline_us": 2730557,
+      "id": 749,
+      "size_bits": 6313
+    },
+    {
+      "arrival_us": 2633091,
+      "cls": 2,
+      "deadline_us": 2745114,
+      "id": 750,
+      "size_bits": 2089
+    },
+    {
+      "arrival_us": 2634352,
+      "cls": 0,
+      "deadline_us": 2655605,
+      "id": 751,
+      "size_bits": 2024
+    },
+    {
+      "arrival_us": 2636917,
+      "cls": 1,
+      "deadline_us": 2706513,
+      "id": 752,
+      "size_bits": 3490
+    },
+    {
+      "arrival_us": 2644215,
+      "cls": 2,
+      "deadline_us": 2760506,
+      "id": 753,
+      "size_bits": 7846
+    },
+    {
+      "arrival_us": 2646249,
+      "cls": 1,
+      "deadline_us": 2761670,
+      "id": 754,
+      "size_bits": 3102
+    },
+    {
+      "arrival_us": 2649135,
+      "cls": 0,
+      "deadline_us": 2683028,
+      "id": 755,
+      "size_bits": 5975
+    },
+    {
+      "arrival_us": 2649568,
+      "cls": 1,
+      "deadline_us": 2699921,
+      "id": 756,
+      "size_bits": 6713
+    },
+    {
+      "arrival_us": 2650692,
+      "cls": 1,
+      "deadline_us": 2785908,
+      "id": 757,
+      "size_bits": 5148
+    },
+    {
+      "arrival_us": 2660303,
+      "cls": 2,
+      "deadline_us": 2754032,
+      "id": 758,
+      "size_bits": 6272
+    },
+    {
+      "arrival_us": 2661885,
+      "cls": 1,
+      "deadline_us": 2715252,
+      "id": 759,
+      "size_bits": 2661
+    },
+    {
+      "arrival_us": 2661999,
+      "cls": 2,
+      "deadline_us": 2755474,
+      "id": 760,
+      "size_bits": 3362
+    },
+    {
+      "arrival_us": 2662519,
+      "cls": 2,
+      "deadline_us": 2798439,
+      "id": 761,
+      "size_bits": 5571
+    },
+    {
+      "arrival_us": 2663318,
+      "cls": 0,
+      "deadline_us": 2690414,
+      "id": 762,
+      "size_bits": 6474
+    },
+    {
+      "arrival_us": 2667220,
+      "cls": 1,
+      "deadline_us": 2734966,
+      "id": 763,
+      "size_bits": 4536
+    },
+    {
+      "arrival_us": 2667677,
+      "cls": 0,
+      "deadline_us": 2684829,
+      "id": 764,
+      "size_bits": 4750
+    },
+    {
+      "arrival_us": 2671094,
+      "cls": 1,
+      "deadline_us": 2752073,
+      "id": 765,
+      "size_bits": 2682
+    },
+    {
+      "arrival_us": 2672664,
+      "cls": 0,
+      "deadline_us": 2688875,
+      "id": 766,
+      "size_bits": 6052
+    },
+    {
+      "arrival_us": 2675669,
+      "cls": 2,
+      "deadline_us": 2812741,
+      "id": 767,
+      "size_bits": 4460
+    },
+    {
+      "arrival_us": 2677081,
+      "cls": 2,
+      "deadline_us": 2749781,
+      "id": 768,
+      "size_bits": 7170
+    },
+    {
+      "arrival_us": 2680596,
+      "cls": 1,
+      "deadline_us": 2757183,
+      "id": 769,
+      "size_bits": 6573
+    },
+    {
+      "arrival_us": 2683852,
+      "cls": 1,
+      "deadline_us": 2771554,
+      "id": 770,
+      "size_bits": 2668
+    },
+    {
+      "arrival_us": 2691823,
+      "cls": 1,
+      "deadline_us": 2834527,
+      "id": 771,
+      "size_bits": 4787
+    },
+    {
+      "arrival_us": 2693985,
+      "cls": 1,
+      "deadline_us": 2780087,
+      "id": 772,
+      "size_bits": 4821
+    },
+    {
+      "arrival_us": 2697102,
+      "cls": 0,
+      "deadline_us": 2723981,
+      "id": 773,
+      "size_bits": 4516
+    },
+    {
+      "arrival_us": 2706647,
+      "cls": 1,
+      "deadline_us": 2853800,
+      "id": 774,
+      "size_bits": 3524
+    },
+    {
+      "arrival_us": 2707527,
+      "cls": 1,
+      "deadline_us": 2824885,
+      "id": 775,
+      "size_bits": 7863
+    },
+    {
+      "arrival_us": 2713509,
+      "cls": 2,
+      "deadline_us": 2827417,
+      "id": 776,
+      "size_bits": 3284
+    },
+    {
+      "arrival_us": 2714479,
+      "cls": 1,
+      "deadline_us": 2790186,
+      "id": 777,
+      "size_bits": 3015
+    },
+    {
+      "arrival_us": 2717655,
+      "cls": 0,
+      "deadline_us": 2748008,
+      "id": 778,
+      "size_bits": 2865
+    },
+    {
+      "arrival_us": 2730189,
+      "cls": 2,
+      "deadline_us": 2836938,
+      "id": 779,
+      "size_bits": 6741
+    },
+    {
+      "arrival_us": 2731001,
+      "cls": 2,
+      "deadline_us": 2846215,
+      "id": 780,
+      "size_bits": 3282
+    },
+    {
+      "arrival_us": 2732931,
+      "cls": 2,
+      "deadline_us": 2880134,
+      "id": 781,
+      "size_bits": 5083
+    },
+    {
+      "arrival_us": 2733423,
+      "cls": 2,
+      "deadline_us": 2811328,
+      "id": 782,
+      "size_bits": 3246
+    },
+    {
+      "arrival_us": 2733563,
+      "cls": 2,
+      "deadline_us": 2862268,
+      "id": 783,
+      "size_bits": 6049
+    },
+    {
+      "arrival_us": 2735314,
+      "cls": 2,
+      "deadline_us": 2864657,
+      "id": 784,
+      "size_bits": 4504
+    },
+    {
+      "arrival_us": 2735671,
+      "cls": 2,
+      "deadline_us": 2854356,
+      "id": 785,
+      "size_bits": 2909
+    },
+    {
+      "arrival_us": 2738961,
+      "cls": 2,
+      "deadline_us": 2793734,
+      "id": 786,
+      "size_bits": 3245
+    },
+    {
+      "arrival_us": 2742634,
+      "cls": 0,
+      "deadline_us": 2766267,
+      "id": 787,
+      "size_bits": 2405
+    },
+    {
+      "arrival_us": 2744809,
+      "cls": 1,
+      "deadline_us": 2813570,
+      "id": 788,
+      "size_bits": 2362
+    },
+    {
+      "arrival_us": 2749092,
+      "cls": 1,
+      "deadline_us": 2853140,
+      "id": 789,
+      "size_bits": 7476
+    },
+    {
+      "arrival_us": 2750170,
+      "cls": 0,
+      "deadline_us": 2783280,
+      "id": 790,
+      "size_bits": 7596
+    },
+    {
+      "arrival_us": 2750975,
+      "cls": 1,
+      "deadline_us": 2845633,
+      "id": 791,
+      "size_bits": 4034
+    },
+    {
+      "arrival_us": 2754584,
+      "cls": 0,
+      "deadline_us": 2783539,
+      "id": 792,
+      "size_bits": 5228
+    },
+    {
+      "arrival_us": 2763032,
+      "cls": 1,
+      "deadline_us": 2906363,
+      "id": 793,
+      "size_bits": 4630
+    },
+    {
+      "arrival_us": 2764812,
+      "cls": 2,
+      "deadline_us": 2825091,
+      "id": 794,
+      "size_bits": 3589
+    },
+    {
+      "arrival_us": 2766598,
+      "cls": 0,
+      "deadline_us": 2803118,
+      "id": 795,
+      "size_bits": 5483
+    },
+    {
+      "arrival_us": 2770662,
+      "cls": 2,
+      "deadline_us": 2908981,
+      "id": 796,
+      "size_bits": 5606
+    },
+    {
+      "arrival_us": 2772308,
+      "cls": 1,
+      "deadline_us": 2918385,
+      "id": 797,
+      "size_bits": 2201
+    },
+    {
+      "arrival_us": 2773219,
+      "cls": 1,
+      "deadline_us": 2868951,
+      "id": 798,
+      "size_bits": 5113
+    },
+    {
+      "arrival_us": 2776327,
+      "cls": 1,
+      "deadline_us": 2914899,
+      "id": 799,
+      "size_bits": 3072
+    },
+    {
+      "arrival_us": 2778418,
+      "cls": 1,
+      "deadline_us": 2920704,
+      "id": 800,
+      "size_bits": 6901
+    },
+    {
+      "arrival_us": 2787863,
+      "cls": 2,
+      "deadline_us": 2935809,
+      "id": 801,
+      "size_bits": 4467
+    },
+    {
+      "arrival_us": 2791505,
+      "cls": 2,
+      "deadline_us": 2905504,
+      "id": 802,
+      "size_bits": 7994
+    },
+    {
+      "arrival_us": 2794684,
+      "cls": 1,
+      "deadline_us": 2893823,
+      "id": 803,
+      "size_bits": 2458
+    },
+    {
+      "arrival_us": 2800502,
+      "cls": 0,
+      "deadline_us": 2817711,
+      "id": 804,
+      "size_bits": 6229
+    },
+    {
+      "arrival_us": 2805662,
+      "cls": 1,
+      "deadline_us": 2902463,
+      "id": 805,
+      "size_bits": 6369
+    },
+    {
+      "arrival_us": 2808658,
+      "cls": 1,
+      "deadline_us": 2896717,
+      "id": 806,
+      "size_bits": 4231
+    },
+    {
+      "arrival_us": 2814034,
+      "cls": 1,
+      "deadline_us": 2938356,
+      "id": 807,
+      "size_bits": 2894
+    },
+    {
+      "arrival_us": 2818033,
+      "cls": 2,
+      "deadline_us": 2879755,
+      "id": 808,
+      "size_bits": 3894
+    },
+    {
+      "arrival_us": 2819883,
+      "cls": 1,
+      "deadline_us": 2965782,
+      "id": 809,
+      "size_bits": 5870
+    },
+    {
+      "arrival_us": 2821789,
+      "cls": 1,
+      "deadline_us": 2923474,
+      "id": 810,
+      "size_bits": 7845
+    },
+    {
+      "arrival_us": 2823827,
+      "cls": 1,
+      "deadline_us": 2879754,
+      "id": 811,
+      "size_bits": 6935
+    },
+    {
+      "arrival_us": 2826236,
+      "cls": 1,
+      "deadline_us": 2936134,
+      "id": 812,
+      "size_bits": 5761
+    },
+    {
+      "arrival_us": 2827923,
+      "cls": 2,
+      "deadline_us": 2941732,
+      "id": 813,
+      "size_bits": 6587
+    },
+    {
+      "arrival_us": 2831589,
+      "cls": 2,
+      "deadline_us": 2954555,
+      "id": 814,
+      "size_bits": 3280
+    },
+    {
+      "arrival_us": 2836390,
+      "cls": 1,
+      "deadline_us": 2917385,
+      "id": 815,
+      "size_bits": 2484
+    },
+    {
+      "arrival_us": 2838274,
+      "cls": 0,
+      "deadline_us": 2871688,
+      "id": 816,
+      "size_bits": 6016
+    },
+    {
+      "arrival_us": 2839841,
+      "cls": 2,
+      "deadline_us": 2927427,
+      "id": 817,
+      "size_bits": 7189
+    },
+    {
+      "arrival_us": 2843507,
+      "cls": 1,
+      "deadline_us": 2939744,
+      "id": 818,
+      "size_bits": 7945
+    },
+    {
+      "arrival_us": 2850242,
+      "cls": 1,
+      "deadline_us": 2921178,
+      "id": 819,
+      "size_bits": 6229
+    },
+    {
+      "arrival_us": 2862691,
+      "cls": 1,
+      "deadline_us": 2951654,
+      "id": 820,
+      "size_bits": 3318
+    },
+    {
+      "arrival_us": 2870271,
+      "cls": 1,
+      "deadline_us": 2978824,
+      "id": 821,
+      "size_bits": 3745
+    },
+    {
+      "arrival_us": 2873300,
+      "cls": 1,
+      "deadline_us": 2988402,
+      "id": 822,
+      "size_bits": 4232
+    },
+    {
+      "arrival_us": 2875562,
+      "cls": 0,
+      "deadline_us": 2908557,
+      "id": 823,
+      "size_bits": 2114
+    },
+    {
+      "arrival_us": 2877491,
+      "cls": 0,
+      "deadline_us": 2904597,
+      "id": 824,
+      "size_bits": 2687
+    },
+    {
+      "arrival_us": 2881502,
+      "cls": 1,
+      "deadline_us": 2988882,
+      "id": 825,
+      "size_bits": 7983
+    },
+    {
+      "arrival_us": 2892299,
+      "cls": 0,
+      "deadline_us": 2923339,
+      "id": 826,
+      "size_bits": 2188
+    },
+    {
+      "arrival_us": 2895177,
+      "cls": 1,
+      "deadline_us": 3030120,
+      "id": 827,
+      "size_bits": 3328
+    },
+    {
+      "arrival_us": 2900536,
+      "cls": 1,
+      "deadline_us": 2966385,
+      "id": 828,
+      "size_bits": 5834
+    },
+    {
+      "arrival_us": 2908821,
+      "cls": 1,
+      "deadline_us": 3000716,
+      "id": 829,
+      "size_bits": 4031
+    },
+    {
+      "arrival_us": 2910697,
+      "cls": 1,
+      "deadline_us": 3011169,
+      "id": 830,
+      "size_bits": 7839
+    },
+    {
+      "arrival_us": 2911560,
+      "cls": 2,
+      "deadline_us": 3049513,
+      "id": 831,
+      "size_bits": 3394
+    },
+    {
+      "arrival_us": 2911753,
+      "cls": 1,
+      "deadline_us": 3056089,
+      "id": 832,
+      "size_bits": 3056
+    },
+    {
+      "arrival_us": 2917291,
+      "cls": 1,
+      "deadline_us": 2991426,
+      "id": 833,
+      "size_bits": 5473
+    },
+    {
+      "arrival_us": 2920036,
+      "cls": 2,
+      "deadline_us": 2989221,
+      "id": 834,
+      "size_bits": 2387
+    },
+    {
+      "arrival_us": 2922341,
+      "cls": 1,
+      "deadline_us": 3015784,
+      "id": 835,
+      "size_bits": 7184
+    },
+    {
+      "arrival_us": 2928432,
+      "cls": 1,
+      "deadline_us": 3045992,
+      "id": 836,
+      "size_bits": 6550
+    },
+    {
+      "arrival_us": 2929144,
+      "cls": 0,
+      "deadline_us": 2946440,
+      "id": 837,
+      "size_bits": 7111
+    },
+    {
+      "arrival_us": 2929270,
+      "cls": 0,
+      "deadline_us": 2964786,
+      "id": 838,
+      "size_bits": 6666
+    },
+    {
+      "arrival_us": 2934010,
+      "cls": 2,
+      "deadline_us": 3082864,
+      "id": 839,
+      "size_bits": 4713
+    },
+    {
+      "arrival_us": 2935574,
+      "cls": 2,
+      "deadline_us": 3081487,
+      "id": 840,
+      "size_bits": 2005
+    },
+    {
+      "arrival_us": 2944466,
+      "cls": 2,
+      "deadline_us": 3006396,
+      "id": 841,
+      "size_bits": 4218
+    },
+    {
+      "arrival_us": 2947945,
+      "cls": 2,
+      "deadline_us": 3059936,
+      "id": 842,
+      "size_bits": 7925
+    },
+    {
+      "arrival_us": 2948829,
+      "cls": 1,
+      "deadline_us": 3064543,
+      "id": 843,
+      "size_bits": 3727
+    },
+    {
+      "arrival_us": 2949826,
+      "cls": 1,
+      "deadline_us": 3057483,
+      "id": 844,
+      "size_bits": 6760
+    },
+    {
+      "arrival_us": 2962302,
+      "cls": 1,
+      "deadline_us": 3047434,
+      "id": 845,
+      "size_bits": 2512
+    },
+    {
+      "arrival_us": 2967076,
+      "cls": 1,
+      "deadline_us": 3044963,
+      "id": 846,
+      "size_bits": 7857
+    },
+    {
+      "arrival_us": 2967375,
+      "cls": 1,
+      "deadline_us": 3095829,
+      "id": 847,
+      "size_bits": 5245
+    },
+    {
+      "arrival_us": 2967737,
+      "cls": 1,
+      "deadline_us": 3076703,
+      "id": 848,
+      "size_bits": 5725
+    },
+    {
+      "arrival_us": 2969211,
+      "cls": 0,
+      "deadline_us": 2983017,
+      "id": 849,
+      "size_bits": 3412
+    },
+    {
+      "arrival_us": 2972084,
+      "cls": 2,
+      "deadline_us": 3025545,
+      "id": 850,
+      "size_bits": 4483
+    },
+    {
+      "arrival_us": 2972142,
+      "cls": 1,
+      "deadline_us": 3078741,
+      "id": 851,
+      "size_bits": 3754
+    },
+    {
+      "arrival_us": 2972404,
+      "cls": 1,
+      "deadline_us": 3047791,
+      "id": 852,
+      "size_bits": 5501
+    },
+    {
+      "arrival_us": 2974867,
+      "cls": 1,
+      "deadline_us": 3096230,
+      "id": 853,
+      "size_bits": 4066
+    },
+    {
+      "arrival_us": 2978189,
+      "cls": 1,
+      "deadline_us": 3053525,
+      "id": 854,
+      "size_bits": 7137
+    },
+    {
+      "arrival_us": 2981006,
+      "cls": 1,
+      "deadline_us": 3075896,
+      "id": 855,
+      "size_bits": 3516
+    },
+    {
+      "arrival_us": 2981868,
+      "cls": 1,
+      "deadline_us": 3043161,
+      "id": 856,
+      "size_bits": 6732
+    },
+    {
+      "arrival_us": 2985288,
+      "cls": 2,
+      "deadline_us": 3093632,
+      "id": 857,
+      "size_bits": 2595
+    },
+    {
+      "arrival_us": 2989145,
+      "cls": 2,
+      "deadline_us": 3049378,
+      "id": 858,
+      "size_bits": 7265
+    },
+    {
+      "arrival_us": 2990076,
+      "cls": 2,
+      "deadline_us": 3074312,
+      "id": 859,
+      "size_bits": 5736
+    },
+    {
+      "arrival_us": 2990153,
+      "cls": 1,
+      "deadline_us": 3049587,
+      "id": 860,
+      "size_bits": 7048
+    },
+    {
+      "arrival_us": 2995202,
+      "cls": 1,
+      "deadline_us": 3076252,
+      "id": 861,
+      "size_bits": 4290
+    },
+    {
+      "arrival_us": 2995477,
+      "cls": 1,
+      "deadline_us": 3085969,
+      "id": 862,
+      "size_bits": 3199
+    },
+    {
+      "arrival_us": 2996473,
+      "cls": 1,
+      "deadline_us": 3054023,
+      "id": 863,
+      "size_bits": 7701
+    },
+    {
+      "arrival_us": 3000340,
+      "cls": 0,
+      "deadline_us": 3016548,
+      "id": 864,
+      "size_bits": 5661
+    },
+    {
+      "arrival_us": 3003162,
+      "cls": 1,
+      "deadline_us": 3114105,
+      "id": 865,
+      "size_bits": 2278
+    },
+    {
+      "arrival_us": 3003220,
+      "cls": 1,
+      "deadline_us": 3060716,
+      "id": 866,
+      "size_bits": 4546
+    },
+    {
+      "arrival_us": 3003275,
+      "cls": 1,
+      "deadline_us": 3058687,
+      "id": 867,
+      "size_bits": 4202
+    },
+    {
+      "arrival_us": 3012896,
+      "cls": 2,
+      "deadline_us": 3112962,
+      "id": 868,
+      "size_bits": 6934
+    },
+    {
+      "arrival_us": 3017649,
+      "cls": 2,
+      "deadline_us": 3095900,
+      "id": 869,
+      "size_bits": 6116
+    },
+    {
+      "arrival_us": 3017772,
+      "cls": 1,
+      "deadline_us": 3131151,
+      "id": 870,
+      "size_bits": 4007
+    },
+    {
+      "arrival_us": 3020209,
+      "cls": 1,
+      "deadline_us": 3151905,
+      "id": 871,
+      "size_bits": 2171
+    },
+    {
+      "arrival_us": 3021206,
+      "cls": 1,
+      "deadline_us": 3075570,
+      "id": 872,
+      "size_bits": 7935
+    },
+    {
+      "arrival_us": 3022154,
+      "cls": 0,
+      "deadline_us": 3048207,
+      "id": 873,
+      "size_bits": 3410
+    },
+    {
+      "arrival_us": 3022195,
+      "cls": 1,
+      "deadline_us": 3115917,
+      "id": 874,
+      "size_bits": 6838
+    },
+    {
+      "arrival_us": 3022935,
+      "cls": 1,
+      "deadline_us": 3142220,
+      "id": 875,
+      "size_bits": 2186
+    },
+    {
+      "arrival_us": 3023017,
+      "cls": 1,
+      "deadline_us": 3102390,
+      "id": 876,
+      "size_bits": 3181
+    },
+    {
+      "arrival_us": 3027178,
+      "cls": 2,
+      "deadline_us": 3176472,
+      "id": 877,
+      "size_bits": 6927
+    },
+    {
+      "arrival_us": 3028254,
+      "cls": 2,
+      "deadline_us": 3090787,
+      "id": 878,
+      "size_bits": 4813
+    },
+    {
+      "arrival_us": 3028311,
+      "cls": 0,
+      "deadline_us": 3053635,
+      "id": 879,
+      "size_bits": 3589
+    },
+    {
+      "arrival_us": 3028642,
+      "cls": 1,
+      "deadline_us": 3126544,
+      "id": 880,
+      "size_bits": 3521
+    },
+    {
+      "arrival_us": 3045553,
+      "cls": 1,
+      "deadline_us": 3167972,
+      "id": 881,
+      "size_bits": 3416
+    },
+    {
+      "arrival_us": 3046787,
+      "cls": 1,
+      "deadline_us": 3176161,
+      "id": 882,
+      "size_bits": 2922
+    },
+    {
+      "arrival_us": 3050358,
+      "cls": 1,
+      "deadline_us": 3121669,
+      "id": 883,
+      "size_bits": 4049
+    },
+    {
+      "arrival_us": 3050362,
+      "cls": 1,
+      "deadline_us": 3142176,
+      "id": 884,
+      "size_bits": 4423
+    },
+    {
+      "arrival_us": 3051963,
+      "cls": 0,
+      "deadline_us": 3068113,
+      "id": 885,
+      "size_bits": 6157
+    },
+    {
+      "arrival_us": 3054540,
+      "cls": 2,
+      "deadline_us": 3180211,
+      "id": 886,
+      "size_bits": 6313
+    },
+    {
+      "arrival_us": 3063154,
+      "cls": 2,
+      "deadline_us": 3165465,
+      "id": 887,
+      "size_bits": 5545
+    },
+    {
+      "arrival_us": 3065539,
+      "cls": 2,
+      "deadline_us": 3202664,
+      "id": 888,
+      "size_bits": 3831
+    },
+    {
+      "arrival_us": 3065774,
+      "cls": 0,
+      "deadline_us": 3098043,
+      "id": 889,
+      "size_bits": 2862
+    },
+    {
+      "arrival_us": 3072790,
+      "cls": 1,
+      "deadline_us": 3178606,
+      "id": 890,
+      "size_bits": 7806
+    },
+    {
+      "arrival_us": 3074720,
+      "cls": 1,
+      "deadline_us": 3185038,
+      "id": 891,
+      "size_bits": 6459
+    },
+    {
+      "arrival_us": 3076057,
+      "cls": 1,
+      "deadline_us": 3218653,
+      "id": 892,
+      "size_bits": 3452
+    },
+    {
+      "arrival_us": 3088702,
+      "cls": 2,
+      "deadline_us": 3227881,
+      "id": 893,
+      "size_bits": 5103
+    },
+    {
+      "arrival_us": 3088919,
+      "cls": 1,
+      "deadline_us": 3158423,
+      "id": 894,
+      "size_bits": 5653
+    },
+    {
+      "arrival_us": 3089609,
+      "cls": 0,
+      "deadline_us": 3111668,
+      "id": 895,
+      "size_bits": 4494
+    },
+    {
+      "arrival_us": 3091135,
+      "cls": 0,
+      "deadline_us": 3124425,
+      "id": 896,
+      "size_bits": 5665
+    },
+    {
+      "arrival_us": 3094671,
+      "cls": 1,
+      "deadline_us": 3239213,
+      "id": 897,
+      "size_bits": 6617
+    },
+    {
+      "arrival_us": 3109566,
+      "cls": 1,
+      "deadline_us": 3219108,
+      "id": 898,
+      "size_bits": 7926
+    },
+    {
+      "arrival_us": 3110153,
+      "cls": 2,
+      "deadline_us": 3168027,
+      "id": 899,
+      "size_bits": 2327
+    },
+    {
+      "arrival_us": 3111351,
+      "cls": 1,
+      "deadline_us": 3203451,
+      "id": 900,
+      "size_bits": 2692
+    },
+    {
+      "arrival_us": 3114172,
+      "cls": 1,
+      "deadline_us": 3198771,
+      "id": 901,
+      "size_bits": 3963
+    },
+    {
+      "arrival_us": 3121566,
+      "cls": 2,
+      "deadline_us": 3263152,
+      "id": 902,
+      "size_bits": 7065
+    },
+    {
+      "arrival_us": 3125498,
+      "cls": 2,
+      "deadline_us": 3268488,
+      "id": 903,
+      "size_bits": 3840
+    },
+    {
+      "arrival_us": 3127849,
+      "cls": 2,
+      "deadline_us": 3264340,
+      "id": 904,
+      "size_bits": 4840
+    },
+    {
+      "arrival_us": 3132537,
+      "cls": 0,
+      "deadline_us": 3167314,
+      "id": 905,
+      "size_bits": 4391
+    },
+    {
+      "arrival_us": 3134515,
+      "cls": 1,
+      "deadline_us": 3247600,
+      "id": 906,
+      "size_bits": 2187
+    },
+    {
+      "arrival_us": 3140690,
+      "cls": 0,
+      "deadline_us": 3152733,
+      "id": 907,
+      "size_bits": 7464
+    },
+    {
+      "arrival_us": 3147534,
+      "cls": 2,
+      "deadline_us": 3268024,
+      "id": 908,
+      "size_bits": 5619
+    },
+    {
+      "arrival_us": 3148813,
+      "cls": 2,
+      "deadline_us": 3282794,
+      "id": 909,
+      "size_bits": 6825
+    },
+    {
+      "arrival_us": 3158681,
+      "cls": 1,
+      "deadline_us": 3264729,
+      "id": 910,
+      "size_bits": 3680
+    },
+    {
+      "arrival_us": 3161457,
+      "cls": 0,
+      "deadline_us": 3172330,
+      "id": 911,
+      "size_bits": 7078
+    },
+    {
+      "arrival_us": 3169864,
+      "cls": 0,
+      "deadline_us": 3196336,
+      "id": 912,
+      "size_bits": 3320
+    },
+    {
+      "arrival_us": 3170114,
+      "cls": 1,
+      "deadline_us": 3252690,
+      "id": 913,
+      "size_bits": 5878
+    },
+    {
+      "arrival_us": 3172481,
+      "cls": 0,
+      "deadline_us": 3197491,
+      "id": 914,
+      "size_bits": 2496
+    },
+    {
+      "arrival_us": 3173407,
+      "cls": 1,
+      "deadline_us": 3310450,
+      "id": 915,
+      "size_bits": 3424
+    },
+    {
+      "arrival_us": 3173886,
+      "cls": 2,
+      "deadline_us": 3247031,
+      "id": 916,
+      "size_bits": 6000
+    },
+    {
+      "arrival_us": 3177277,
+      "cls": 1,
+      "deadline_us": 3230809,
+      "id": 917,
+      "size_bits": 2259
+    },
+    {
+      "arrival_us": 3185036,
+      "cls": 1,
+      "deadline_us": 3289660,
+      "id": 918,
+      "size_bits": 4305
+    },
+    {
+      "arrival_us": 3193627,
+      "cls": 1,
+      "deadline_us": 3267275,
+      "id": 919,
+      "size_bits": 2833
+    },
+    {
+      "arrival_us": 3194347,
+      "cls": 1,
+      "deadline_us": 3323375,
+      "id": 920,
+      "size_bits": 2614
+    },
+    {
+      "arrival_us": 3201892,
+      "cls": 1,
+      "deadline_us": 3272331,
+      "id": 921,
+      "size_bits": 6007
+    },
+    {
+      "arrival_us": 3211386,
+      "cls": 2,
+      "deadline_us": 3300516,
+      "id": 922,
+      "size_bits": 7766
+    },
+    {
+      "arrival_us": 3218230,
+      "cls": 2,
+      "deadline_us": 3284968,
+      "id": 923,
+      "size_bits": 3369
+    },
+    {
+      "arrival_us": 3221621,
+      "cls": 0,
+      "deadline_us": 3242354,
+      "id": 924,
+      "size_bits": 5481
+    },
+    {
+      "arrival_us": 3222240,
+      "cls": 0,
+      "deadline_us": 3244819,
+      "id": 925,
+      "size_bits": 2998
+    },
+    {
+      "arrival_us": 3223810,
+      "cls": 0,
+      "deadline_us": 3259040,
+      "id": 926,
+      "size_bits": 7573
+    },
+    {
+      "arrival_us": 3224468,
+      "cls": 1,
+      "deadline_us": 3362822,
+      "id": 927,
+      "size_bits": 2771
+    },
+    {
+      "arrival_us": 3225737,
+      "cls": 2,
+      "deadline_us": 3332483,
+      "id": 928,
+      "size_bits": 6233
+    },
+    {
+      "arrival_us": 3226840,
+      "cls": 0,
+      "deadline_us": 3242726,
+      "id": 929,
+      "size_bits": 4127
+    },
+    {
+      "arrival_us": 3227384,
+      "cls": 0,
+      "deadline_us": 3265177,
+      "id": 930,
+      "size_bits": 4130
+    },
+    {
+      "arrival_us": 3231217,
+      "cls": 1,
+      "deadline_us": 3318300,
+      "id": 931,
+      "size_bits": 7672
+    },
+    {
+      "arrival_us": 3231943,
+      "cls": 1,
+      "deadline_us": 3379169,
+      "id": 932,
+      "size_bits": 5117
+    },
+    {
+      "arrival_us": 3234097,
+      "cls": 1,
+      "deadline_us": 3366055,
+      "id": 933,
+      "size_bits": 7443
+    },
+    {
+      "arrival_us": 3234659,
+      "cls": 1,
+      "deadline_us": 3294380,
+      "id": 934,
+      "size_bits": 4154
+    },
+    {
+      "arrival_us": 3235340,
+      "cls": 1,
+      "deadline_us": 3368413,
+      "id": 935,
+      "size_bits": 5865
+    },
+    {
+      "arrival_us": 3240766,
+      "cls": 1,
+      "deadline_us": 3356843,
+      "id": 936,
+      "size_bits": 7595
+    },
+    {
+      "arrival_us": 3247106,
+      "cls": 2,
+      "deadline_us": 3342293,
+      "id": 937,
+      "size_bits": 2461
+    },
+    {
+      "arrival_us": 3248896,
+      "cls": 1,
+      "deadline_us": 3368916,
+      "id": 938,
+      "size_bits": 6531
+    },
+    {
+      "arrival_us": 3249665,
+      "cls": 1,
+      "deadline_us": 3329473,
+      "id": 939,
+      "size_bits": 4722
+    },
+    {
+      "arrival_us": 3260558,
+      "cls": 1,
+      "deadline_us": 3354227,
+      "id": 940,
+      "size_bits": 6232
+    },
+    {
+      "arrival_us": 3265333,
+      "cls": 1,
+      "deadline_us": 3347722,
+      "id": 941,
+      "size_bits": 2788
+    },
+    {
+      "arrival_us": 3270463,
+      "cls": 1,
+      "deadline_us": 3380009,
+      "id": 942,
+      "size_bits": 4948
+    },
+    {
+      "arrival_us": 3278638,
+      "cls": 1,
+      "deadline_us": 3410534,
+      "id": 943,
+      "size_bits": 6671
+    },
+    {
+      "arrival_us": 3285788,
+      "cls": 1,
+      "deadline_us": 3430893,
+      "id": 944,
+      "size_bits": 2107
+    },
+    {
+      "arrival_us": 3288038,
+      "cls": 0,
+      "deadline_us": 3306598,
+      "id": 945,
+      "size_bits": 6198
+    },
+    {
+      "arrival_us": 3294638,
+      "cls": 0,
+      "deadline_us": 3310990,
+      "id": 946,
+      "size_bits": 2752
+    },
+    {
+      "arrival_us": 3297897,
+      "cls": 1,
+      "deadline_us": 3407314,
+      "id": 947,
+      "size_bits": 7077
+    },
+    {
+      "arrival_us": 3301177,
+      "cls": 2,
+      "deadline_us": 3362789,
+      "id": 948,
+      "size_bits": 5146
+    },
+    {
+      "arrival_us": 3302547,
+      "cls": 2,
+      "deadline_us": 3383772,
+      "id": 949,
+      "size_bits": 3005
+    },
+    {
+      "arrival_us": 3309559,
+      "cls": 0,
+      "deadline_us": 3332907,
+      "id": 950,
+      "size_bits": 2659
+    },
+    {
+      "arrival_us": 3309653,
+      "cls": 0,
+      "deadline_us": 3346466,
+      "id": 951,
+      "size_bits": 2596
+    },
+    {
+      "arrival_us": 3312078,
+      "cls": 0,
+      "deadline_us": 3336325,
+      "id": 952,
+      "size_bits": 2234
+    },
+    {
+      "arrival_us": 3314428,
+      "cls": 0,
+      "deadline_us": 3352289,
+      "id": 953,
+      "size_bits": 4758
+    },
+    {
+      "arrival_us": 3321537,
+      "cls": 2,
+      "deadline_us": 3378729,
+      "id": 954,
+      "size_bits": 3098
+    },
+    {
+      "arrival_us": 3332141,
+      "cls": 1,
+      "deadline_us": 3431434,
+      "id": 955,
+      "size_bits": 4543
+    },
+    {
+      "arrival_us": 3334359,
+      "cls": 1,
+      "deadline_us": 3418576,
+      "id": 956,
+      "size_bits": 2721
+    },
+    {
+      "arrival_us": 3334538,
+      "cls": 1,
+      "deadline_us": 3421222,
+      "id": 957,
+      "size_bits": 3093
+    },
+    {
+      "arrival_us": 3335420,
+      "cls": 1,
+      "deadline_us": 3398800,
+      "id": 958,
+      "size_bits": 4435
+    },
+    {
+      "arrival_us": 3338256,
+      "cls": 1,
+      "deadline_us": 3440964,
+      "id": 959,
+      "size_bits": 6016
+    },
+    {
+      "arrival_us": 3340497,
+      "cls": 0,
+      "deadline_us": 3362086,
+      "id": 960,
+      "size_bits": 2326
+    },
+    {
+      "arrival_us": 3343119,
+      "cls": 0,
+      "deadline_us": 3380203,
+      "id": 961,
+      "size_bits": 3605
+    },
+    {
+      "arrival_us": 3346151,
+      "cls": 1,
+      "deadline_us": 3471337,
+      "id": 962,
+      "size_bits": 7938
+    },
+    {
+      "arrival_us": 3348011,
+      "cls": 1,
+      "deadline_us": 3469073,
+      "id": 963,
+      "size_bits": 7751
+    },
+    {
+      "arrival_us": 3349980,
+      "cls": 0,
+      "deadline_us": 3359998,
+      "id": 964,
+      "size_bits": 3453
+    },
+    {
+      "arrival_us": 3351005,
+      "cls": 2,
+      "deadline_us": 3421810,
+      "id": 965,
+      "size_bits": 3731
+    },
+    {
+      "arrival_us": 3351864,
+      "cls": 0,
+      "deadline_us": 3390358,
+      "id": 966,
+      "size_bits": 6133
+    },
+    {
+      "arrival_us": 3352444,
+      "cls": 1,
+      "deadline_us": 3472416,
+      "id": 967,
+      "size_bits": 3215
+    },
+    {
+      "arrival_us": 3359567,
+      "cls": 0,
+      "deadline_us": 3384433,
+      "id": 968,
+      "size_bits": 6208
+    },
+    {
+      "arrival_us": 3362244,
+      "cls": 2,
+      "deadline_us": 3471587,
+      "id": 969,
+      "size_bits": 5235
+    },
+    {
+      "arrival_us": 3362680,
+      "cls": 1,
+      "deadline_us": 3485007,
+      "id": 970,
+      "size_bits": 7524
+    },
+    {
+      "arrival_us": 3363084,
+      "cls": 1,
+      "deadline_us": 3442160,
+      "id": 971,
+      "size_bits": 3723
+    },
+    {
+      "arrival_us": 3385748,
+      "cls": 1,
+      "deadline_us": 3529929,
+      "id": 972,
+      "size_bits": 4773
+    },
+    {
+      "arrival_us": 3389932,
+      "cls": 0,
+      "deadline_us": 3412416,
+      "id": 973,
+      "size_bits": 3071
+    },
+    {
+      "arrival_us": 3389962,
+      "cls": 1,
+      "deadline_us": 3510855,
+      "id": 974,
+      "size_bits": 3680
+    },
+    {
+      "arrival_us": 3393769,
+      "cls": 1,
+      "deadline_us": 3496949,
+      "id": 975,
+      "size_bits": 7496
+    },
+    {
+      "arrival_us": 3396799,
+      "cls": 0,
+      "deadline_us": 3419090,
+      "id": 976,
+      "size_bits": 4895
+    },
+    {
+      "arrival_us": 3401291,
+      "cls": 0,
+      "deadline_us": 3439710,
+      "id": 977,
+      "size_bits": 3466
+    },
+    {
+      "arrival_us": 3407801,
+      "cls": 2,
+      "deadline_us": 3540181,
+      "id": 978,
+      "size_bits": 7735
+    },
+    {
+      "arrival_us": 3408284,
+      "cls": 1,
+      "deadline_us": 3548241,
+      "id": 979,
+      "size_bits": 3761
+    },
+    {
+      "arrival_us": 3414468,
+      "cls": 1,
+      "deadline_us": 3481214,
+      "id": 980,
+      "size_bits": 3821
+    },
+    {
+      "arrival_us": 3420317,
+      "cls": 1,
+      "deadline_us": 3551413,
+      "id": 981,
+      "size_bits": 2295
+    },
+    {
+      "arrival_us": 3422547,
+      "cls": 0,
+      "deadline_us": 3433237,
+      "id": 982,
+      "size_bits": 7799
+    },
+    {
+      "arrival_us": 3423770,
+      "cls": 2,
+      "deadline_us": 3558140,
+      "id": 983,
+      "size_bits": 4141
+    },
+    {
+      "arrival_us": 3424804,
+      "cls": 1,
+      "deadline_us": 3529164,
+      "id": 984,
+      "size_bits": 2908
+    },
+    {
+      "arrival_us": 3431397,
+      "cls": 1,
+      "deadline_us": 3527488,
+      "id": 985,
+      "size_bits": 7956
+    },
+    {
+      "arrival_us": 3431781,
+      "cls": 0,
+      "deadline_us": 3450705,
+      "id": 986,
+      "size_bits": 2470
+    },
+    {
+      "arrival_us": 3432594,
+      "cls": 1,
+      "deadline_us": 3568933,
+      "id": 987,
+      "size_bits": 4644
+    },
+    {
+      "arrival_us": 3434158,
+      "cls": 1,
+      "deadline_us": 3511097,
+      "id": 988,
+      "size_bits": 4767
+    },
+    {
+      "arrival_us": 3434511,
+      "cls": 1,
+      "deadline_us": 3550762,
+      "id": 989,
+      "size_bits": 4718
+    },
+    {
+      "arrival_us": 3436927,
+      "cls": 2,
+      "deadline_us": 3581291,
+      "id": 990,
+      "size_bits": 6704
+    },
+    {
+      "arrival_us": 3440367,
+      "cls": 1,
+      "deadline_us": 3530888,
+      "id": 991,
+      "size_bits": 7718
+    },
+    {
+      "arrival_us": 3442100,
+      "cls": 0,
+      "deadline_us": 3465674,
+      "id": 992,
+      "size_bits": 3614
+    },
+    {
+      "arrival_us": 3444654,
+      "cls": 1,
+      "deadline_us": 3538714,
+      "id": 993,
+      "size_bits": 5646
+    },
+    {
+      "arrival_us": 3445789,
+      "cls": 0,
+      "deadline_us": 3459661,
+      "id": 994,
+      "size_bits": 5075
+    },
+    {
+      "arrival_us": 3447503,
+      "cls": 1,
+      "deadline_us": 3577783,
+      "id": 995,
+      "size_bits": 7080
+    },
+    {
+      "arrival_us": 3447916,
+      "cls": 2,
+      "deadline_us": 3513725,
+      "id": 996,
+      "size_bits": 5334
+    },
+    {
+      "arrival_us": 3448164,
+      "cls": 1,
+      "deadline_us": 3511551,
+      "id": 997,
+      "size_bits": 5769
+    },
+    {
+      "arrival_us": 3449412,
+      "cls": 1,
+      "deadline_us": 3552543,
+      "id": 998,
+      "size_bits": 2230
+    },
+    {
+      "arrival_us": 3453002,
+      "cls": 1,
+      "deadline_us": 3585195,
+      "id": 999,
+      "size_bits": 3803
+    },
+    {
+      "arrival_us": 3456557,
+      "cls": 1,
+      "deadline_us": 3593380,
+      "id": 1000,
+      "size_bits": 6050
+    },
+    {
+      "arrival_us": 3460888,
+      "cls": 1,
+      "deadline_us": 3533291,
+      "id": 1001,
+      "size_bits": 2008
+    },
+    {
+      "arrival_us": 3470818,
+      "cls": 1,
+      "deadline_us": 3544680,
+      "id": 1002,
+      "size_bits": 5294
+    },
+    {
+      "arrival_us": 3471674,
+      "cls": 1,
+      "deadline_us": 3613830,
+      "id": 1003,
+      "size_bits": 4598
+    },
+    {
+      "arrival_us": 3475820,
+      "cls": 0,
+      "deadline_us": 3510308,
+      "id": 1004,
+      "size_bits": 4869
+    },
+    {
+      "arrival_us": 3476230,
+      "cls": 1,
+      "deadline_us": 3543359,
+      "id": 1005,
+      "size_bits": 5058
+    },
+    {
+      "arrival_us": 3476965,
+      "cls": 1,
+      "deadline_us": 3565614,
+      "id": 1006,
+      "size_bits": 6191
+    },
+    {
+      "arrival_us": 3478478,
+      "cls": 1,
+      "deadline_us": 3602028,
+      "id": 1007,
+      "size_bits": 4824
+    },
+    {
+      "arrival_us": 3479784,
+      "cls": 0,
+      "deadline_us": 3494332,
+      "id": 1008,
+      "size_bits": 2020
+    },
+    {
+      "arrival_us": 3479864,
+      "cls": 1,
+      "deadline_us": 3584663,
+      "id": 1009,
+      "size_bits": 6565
+    },
+    {
+      "arrival_us": 3490870,
+      "cls": 2,
+      "deadline_us": 3628703,
+      "id": 1010,
+      "size_bits": 7258
+    },
+    {
+      "arrival_us": 3492335,
+      "cls": 0,
+      "deadline_us": 3524398,
+      "id": 1011,
+      "size_bits": 5092
+    },
+    {
+      "arrival_us": 3498207,
+      "cls": 1,
+      "deadline_us": 3609612,
+      "id": 1012,
+      "size_bits": 5162
+    },
+    {
+      "arrival_us": 3503169,
+      "cls": 2,
+      "deadline_us": 3565979,
+      "id": 1013,
+      "size_bits": 6957
+    },
+    {
+      "arrival_us": 3503364,
+      "cls": 1,
+      "deadline_us": 3559161,
+      "id": 1014,
+      "size_bits": 5720
+    },
+    {
+      "arrival_us": 3508124,
+      "cls": 0,
+      "deadline_us": 3542760,
+      "id": 1015,
+      "size_bits": 6281
+    },
+    {
+      "arrival_us": 3518200,
+      "cls": 0,
+      "deadline_us": 3536111,
+      "id": 1016,
+      "size_bits": 7268
+    },
+    {
+      "arrival_us": 3518812,
+      "cls": 1,
+      "deadline_us": 3636055,
+      "id": 1017,
+      "size_bits": 4029
+    },
+    {
+      "arrival_us": 3525528,
+      "cls": 1,
+      "deadline_us": 3625972,
+      "id": 1018,
+      "size_bits": 7166
+    },
+    {
+      "arrival_us": 3526798,
+      "cls": 2,
+      "deadline_us": 3644233,
+      "id": 1019,
+      "size_bits": 6162
+    },
+    {
+      "arrival_us": 3528856,
+      "cls": 2,
+      "deadline_us": 3668474,
+      "id": 1020,
+      "size_bits": 6280
+    },
+    {
+      "arrival_us": 3530272,
+      "cls": 1,
+      "deadline_us": 3637883,
+      "id": 1021,
+      "size_bits": 4979
+    },
+    {
+      "arrival_us": 3530678,
+      "cls": 1,
+      "deadline_us": 3607451,
+      "id": 1022,
+      "size_bits": 6557
+    },
+    {
+      "arrival_us": 3535039,
+      "cls": 1,
+      "deadline_us": 3658667,
+      "id": 1023,
+      "size_bits": 4545
+    },
+    {
+      "arrival_us": 3540268,
+      "cls": 1,
+      "deadline_us": 3623398,
+      "id": 1024,
+      "size_bits": 7318
+    },
+    {
+      "arrival_us": 3541534,
+      "cls": 1,
+      "deadline_us": 3640605,
+      "id": 1025,
+      "size_bits": 5211
+    },
+    {
+      "arrival_us": 3553063,
+      "cls": 1,
+      "deadline_us": 3682160,
+      "id": 1026,
+      "size_bits": 6307
+    },
+    {
+      "arrival_us": 3554296,
+      "cls": 2,
+      "deadline_us": 3666169,
+      "id": 1027,
+      "size_bits": 7465
+    },
+    {
+      "arrival_us": 3562409,
+      "cls": 2,
+      "deadline_us": 3633131,
+      "id": 1028,
+      "size_bits": 6554
+    },
+    {
+      "arrival_us": 3562936,
+      "cls": 0,
+      "deadline_us": 3602145,
+      "id": 1029,
+      "size_bits": 7043
+    },
+    {
+      "arrival_us": 3572105,
+      "cls": 1,
+      "deadline_us": 3679453,
+      "id": 1030,
+      "size_bits": 2789
+    },
+    {
+      "arrival_us": 3577737,
+      "cls": 2,
+      "deadline_us": 3675014,
+      "id": 1031,
+      "size_bits": 4938
+    },
+    {
+      "arrival_us": 3578421,
+      "cls": 1,
+      "deadline_us": 3644878,
+      "id": 1032,
+      "size_bits": 3657
+    },
+    {
+      "arrival_us": 3580826,
+      "cls": 1,
+      "deadline_us": 3706425,
+      "id": 1033,
+      "size_bits": 3404
+    },
+    {
+      "arrival_us": 3589348,
+      "cls": 2,
+      "deadline_us": 3687270,
+      "id": 1034,
+      "size_bits": 4945
+    },
+    {
+      "arrival_us": 3590465,
+      "cls": 2,
+      "deadline_us": 3654865,
+      "id": 1035,
+      "size_bits": 4877
+    },
+    {
+      "arrival_us": 3592875,
+      "cls": 1,
+      "deadline_us": 3732250,
+      "id": 1036,
+      "size_bits": 2595
+    },
+    {
+      "arrival_us": 3593409,
+      "cls": 1,
+      "deadline_us": 3714497,
+      "id": 1037,
+      "size_bits": 4283
+    },
+    {
+      "arrival_us": 3593446,
+      "cls": 1,
+      "deadline_us": 3735907,
+      "id": 1038,
+      "size_bits": 7193
+    },
+    {
+      "arrival_us": 3601943,
+      "cls": 0,
+      "deadline_us": 3634107,
+      "id": 1039,
+      "size_bits": 2984
+    },
+    {
+      "arrival_us": 3602683,
+      "cls": 2,
+      "deadline_us": 3722186,
+      "id": 1040,
+      "size_bits": 7193
+    },
+    {
+      "arrival_us": 3605552,
+      "cls": 0,
+      "deadline_us": 3630367,
+      "id": 1041,
+      "size_bits": 3671
+    },
+    {
+      "arrival_us": 3610023,
+      "cls": 0,
+      "deadline_us": 3644327,
+      "id": 1042,
+      "size_bits": 3441
+    },
+    {
+      "arrival_us": 3611784,
+      "cls": 2,
+      "deadline_us": 3723158,
+      "id": 1043,
+      "size_bits": 6770
+    },
+    {
+      "arrival_us": 3615701,
+      "cls": 2,
+      "deadline_us": 3689947,
+      "id": 1044,
+      "size_bits": 6777
+    },
+    {
+      "arrival_us": 3621392,
+      "cls": 0,
+      "deadline_us": 3650368,
+      "id": 1045,
+      "size_bits": 4867
+    },
+    {
+      "arrival_us": 3621713,
+      "cls": 0,
+      "deadline_us": 3650131,
+      "id": 1046,
+      "size_bits": 2975
+    },
+    {
+      "arrival_us": 3623253,
+      "cls": 1,
+      "deadline_us": 3727721,
+      "id": 1047,
+      "size_bits": 5064
+    },
+    {
+      "arrival_us": 3623531,
+      "cls": 1,
+      "deadline_us": 3712923,
+      "id": 1048,
+      "size_bits": 3386
+    },
+    {
+      "arrival_us": 3625642,
+      "cls": 1,
+      "deadline_us": 3710700,
+      "id": 1049,
+      "size_bits": 6112
+    },
+    {
+      "arrival_us": 3638182,
+      "cls": 2,
+      "deadline_us": 3715806,
+      "id": 1050,
+      "size_bits": 5048
+    },
+    {
+      "arrival_us": 3643334,
+      "cls": 1,
+      "deadline_us": 3769072,
+      "id": 1051,
+      "size_bits": 4450
+    },
+    {
+      "arrival_us": 3643437,
+      "cls": 0,
+      "deadline_us": 3670120,
+      "id": 1052,
+      "size_bits": 3623
+    },
+    {
+      "arrival_us": 3645014,
+      "cls": 0,
+      "deadline_us": 3664982,
+      "id": 1053,
+      "size_bits": 5085
+    },
+    {
+      "arrival_us": 3646800,
+      "cls": 2,
+      "deadline_us": 3773307,
+      "id": 1054,
+      "size_bits": 3662
+    },
+    {
+      "arrival_us": 3649654,
+      "cls": 0,
+      "deadline_us": 3675681,
+      "id": 1055,
+      "size_bits": 6632
+    },
+    {
+      "arrival_us": 3654699,
+      "cls": 0,
+      "deadline_us": 3678976,
+      "id": 1056,
+      "size_bits": 2402
+    },
+    {
+      "arrival_us": 3656446,
+      "cls": 1,
+      "deadline_us": 3744993,
+      "id": 1057,
+      "size_bits": 2406
+    },
+    {
+      "arrival_us": 3660664,
+      "cls": 1,
+      "deadline_us": 3758454,
+      "id": 1058,
+      "size_bits": 4443
+    },
+    {
+      "arrival_us": 3661480,
+      "cls": 1,
+      "deadline_us": 3754443,
+      "id": 1059,
+      "size_bits": 4179
+    },
+    {
+      "arrival_us": 3666074,
+      "cls": 0,
+      "deadline_us": 3695567,
+      "id": 1060,
+      "size_bits": 5364
+    },
+    {
+      "arrival_us": 3666484,
+      "cls": 1,
+      "deadline_us": 3720606,
+      "id": 1061,
+      "size_bits": 2999
+    },
+    {
+      "arrival_us": 3667666,
+      "cls": 1,
+      "deadline_us": 3775061,
+      "id": 1062,
+      "size_bits": 7348
+    },
+    {
+      "arrival_us": 3668403,
+      "cls": 1,
+      "deadline_us": 3807418,
+      "id": 1063,
+      "size_bits": 3184
+    },
+    {
+      "arrival_us": 3670636,
+      "cls": 0,
+      "deadline_us": 3708905,
+      "id": 1064,
+      "size_bits": 7162
+    },
+    {
+      "arrival_us": 3674343,
+      "cls": 1,
+      "deadline_us": 3779617,
+      "id": 1065,
+      "size_bits": 4944
+    },
+    {
+      "arrival_us": 3675768,
+      "cls": 1,
+      "deadline_us": 3794711,
+      "id": 1066,
+      "size_bits": 3423
+    },
+    {
+      "arrival_us": 3685012,
+      "cls": 1,
+      "deadline_us": 3772610,
+      "id": 1067,
+      "size_bits": 5425
+    },
+    {
+      "arrival_us": 3686139,
+      "cls": 0,
+      "deadline_us": 3703755,
+      "id": 1068,
+      "size_bits": 6596
+    },
+    {
+      "arrival_us": 3699330,
+      "cls": 1,
+      "deadline_us": 3801781,
+      "id": 1069,
+      "size_bits": 7485
+    },
+    {
+      "arrival_us": 3703579,
+      "cls": 1,
+      "deadline_us": 3761283,
+      "id": 1070,
+      "size_bits": 7864
+    },
+    {
+      "arrival_us": 3706460,
+      "cls": 1,
+      "deadline_us": 3778156,
+      "id": 1071,
+      "size_bits": 4439
+    },
+    {
+      "arrival_us": 3707051,
+      "cls": 1,
+      "deadline_us": 3766377,
+      "id": 1072,
+      "size_bits": 6727
+    },
+    {
+      "arrival_us": 3709605,
+      "cls": 1,
+      "deadline_us": 3763884,
+      "id": 1073,
+      "size_bits": 5231
+    },
+    {
+      "arrival_us": 3711459,
+      "cls": 1,
+      "deadline_us": 3807354,
+      "id": 1074,
+      "size_bits": 6581
+    },
+    {
+      "arrival_us": 3716440,
+      "cls": 1,
+      "deadline_us": 3865287,
+      "id": 1075,
+      "size_bits": 2803
+    },
+    {
+      "arrival_us": 3717116,
+      "cls": 0,
+      "deadline_us": 3733253,
+      "id": 1076,
+      "size_bits": 3575
+    },
+    {
+      "arrival_us": 3718411,
+      "cls": 1,
+      "deadline_us": 3817230,
+      "id": 1077,
+      "size_bits": 5181
+    },
+    {
+      "arrival_us": 3720003,
+      "cls": 2,
+      "deadline_us": 3852845,
+      "id": 1078,
+      "size_bits": 2539
+    },
+    {
+      "arrival_us": 3722198,
+      "cls": 2,
+      "deadline_us": 3793625,
+      "id": 1079,
+      "size_bits": 4846
+    },
+    {
+      "arrival_us": 3728918,
+      "cls": 2,
+      "deadline_us": 3851437,
+      "id": 1080,
+      "size_bits": 3599
+    },
+    {
+      "arrival_us": 3732197,
+      "cls": 0,
+      "deadline_us": 3744557,
+      "id": 1081,
+      "size_bits": 4740
+    },
+    {
+      "arrival_us": 3734140,
+      "cls": 1,
+      "deadline_us": 3873784,
+      "id": 1082,
+      "size_bits": 6954
+    },
+    {
+      "arrival_us": 3736818,
+      "cls": 1,
+      "deadline_us": 3879048,
+      "id": 1083,
+      "size_bits": 7001
+    },
+    {
+      "arrival_us": 3738969,
+      "cls": 2,
+      "deadline_us": 3861891,
+      "id": 1084,
+      "size_bits": 7131
+    },
+    {
+      "arrival_us": 3740269,
+      "cls": 2,
+      "deadline_us": 3818016,
+      "id": 1085,
+      "size_bits": 6826
+    },
+    {
+      "arrival_us": 3745388,
+      "cls": 1,
+      "deadline_us": 3894559,
+      "id": 1086,
+      "size_bits": 7495
+    },
+    {
+      "arrival_us": 3756640,
+      "cls": 2,
+      "deadline_us": 3881987,
+      "id": 1087,
+      "size_bits": 3838
+    },
+    {
+      "arrival_us": 3758708,
+      "cls": 2,
+      "deadline_us": 3875600,
+      "id": 1088,
+      "size_bits": 5421
+    },
+    {
+      "arrival_us": 3758802,
+      "cls": 1,
+      "deadline_us": 3810016,
+      "id": 1089,
+      "size_bits": 5305
+    },
+    {
+      "arrival_us": 3760104,
+      "cls": 1,
+      "deadline_us": 3832203,
+      "id": 1090,
+      "size_bits": 5705
+    },
+    {
+      "arrival_us": 3765159,
+      "cls": 1,
+      "deadline_us": 3888002,
+      "id": 1091,
+      "size_bits": 3703
+    },
+    {
+      "arrival_us": 3766009,
+      "cls": 1,
+      "deadline_us": 3876504,
+      "id": 1092,
+      "size_bits": 3367
+    },
+    {
+      "arrival_us": 3767632,
+      "cls": 2,
+      "deadline_us": 3837365,
+      "id": 1093,
+      "size_bits": 3391
+    },
+    {
+      "arrival_us": 3773392,
+      "cls": 2,
+      "deadline_us": 3875895,
+      "id": 1094,
+      "size_bits": 5831
+    },
+    {
+      "arrival_us": 3774704,
+      "cls": 1,
+      "deadline_us": 3847736,
+      "id": 1095,
+      "size_bits": 2077
+    },
+    {
+      "arrival_us": 3776691,
+      "cls": 2,
+      "deadline_us": 3888158,
+      "id": 1096,
+      "size_bits": 4504
+    },
+    {
+      "arrival_us": 3781357,
+      "cls": 2,
+      "deadline_us": 3902980,
+      "id": 1097,
+      "size_bits": 4513
+    },
+    {
+      "arrival_us": 3782732,
+      "cls": 1,
+      "deadline_us": 3865544,
+      "id": 1098,
+      "size_bits": 6558
+    },
+    {
+      "arrival_us": 3786149,
+      "cls": 2,
+      "deadline_us": 3929791,
+      "id": 1099,
+      "size_bits": 6653
+    },
+    {
+      "arrival_us": 3788413,
+      "cls": 2,
+      "deadline_us": 3920709,
+      "id": 1100,
+      "size_bits": 7107
+    },
+    {
+      "arrival_us": 3792983,
+      "cls": 2,
+      "deadline_us": 3941104,
+      "id": 1101,
+      "size_bits": 5376
+    },
+    {
+      "arrival_us": 3793518,
+      "cls": 2,
+      "deadline_us": 3855332,
+      "id": 1102,
+      "size_bits": 2009
+    },
+    {
+      "arrival_us": 3796565,
+      "cls": 0,
+      "deadline_us": 3830529,
+      "id": 1103,
+      "size_bits": 4664
+    },
+    {
+      "arrival_us": 3799464,
+      "cls": 1,
+      "deadline_us": 3920892,
+      "id": 1104,
+      "size_bits": 3490
+    },
+    {
+      "arrival_us": 3801255,
+      "cls": 0,
+      "deadline_us": 3819567,
+      "id": 1105,
+      "size_bits": 4717
+    },
+    {
+      "arrival_us": 3805525,
+      "cls": 1,
+      "deadline_us": 3948241,
+      "id": 1106,
+      "size_bits": 5669
+    },
+    {
+      "arrival_us": 3810575,
+      "cls": 1,
+      "deadline_us": 3932323,
+      "id": 1107,
+      "size_bits": 3277
+    },
+    {
+      "arrival_us": 3812400,
+      "cls": 1,
+      "deadline_us": 3951418,
+      "id": 1108,
+      "size_bits": 5156
+    },
+    {
+      "arrival_us": 3823293,
+      "cls": 1,
+      "deadline_us": 3900875,
+      "id": 1109,
+      "size_bits": 5024
+    },
+    {
+      "arrival_us": 3830345,
+      "cls": 1,
+      "deadline_us": 3967529,
+      "id": 1110,
+      "size_bits": 5622
+    },
+    {
+      "arrival_us": 3835300,
+      "cls": 0,
+      "deadline_us": 3855368,
+      "id": 1111,
+      "size_bits": 6068
+    },
+    {
+      "arrival_us": 3840153,
+      "cls": 0,
+      "deadline_us": 3860334,
+      "id": 1112,
+      "size_bits": 4615
+    },
+    {
+      "arrival_us": 3843232,
+      "cls": 2,
+      "deadline_us": 3975376,
+      "id": 1113,
+      "size_bits": 6025
+    },
+    {
+      "arrival_us": 3845673,
+      "cls": 0,
+      "deadline_us": 3869898,
+      "id": 1114,
+      "size_bits": 6820
+    },
+    {
+      "arrival_us": 3848955,
+      "cls": 1,
+      "deadline_us": 3936659,
+      "id": 1115,
+      "size_bits": 2238
+    },
+    {
+      "arrival_us": 3855002,
+      "cls": 1,
+      "deadline_us": 3954910,
+      "id": 1116,
+      "size_bits": 5599
+    },
+    {
+      "arrival_us": 3861471,
+      "cls": 1,
+      "deadline_us": 3932314,
+      "id": 1117,
+      "size_bits": 3013
+    },
+    {
+      "arrival_us": 3862913,
+      "cls": 2,
+      "deadline_us": 4006113,
+      "id": 1118,
+      "size_bits": 2961
+    },
+    {
+      "arrival_us": 3867075,
+      "cls": 1,
+      "deadline_us": 3936900,
+      "id": 1119,
+      "size_bits": 3278
+    },
+    {
+      "arrival_us": 3867077,
+      "cls": 0,
+      "deadline_us": 3878857,
+      "id": 1120,
+      "size_bits": 3998
+    },
+    {
+      "arrival_us": 3869206,
+      "cls": 2,
+      "deadline_us": 3933312,
+      "id": 1121,
+      "size_bits": 6570
+    },
+    {
+      "arrival_us": 3869327,
+      "cls": 1,
+      "deadline_us": 3935223,
+      "id": 1122,
+      "size_bits": 6952
+    },
+    {
+      "arrival_us": 3870894,
+      "cls": 1,
+      "deadline_us": 3963454,
+      "id": 1123,
+      "size_bits": 4333
+    },
+    {
+      "arrival_us": 3873506,
+      "cls": 1,
+      "deadline_us": 3991178,
+      "id": 1124,
+      "size_bits": 3444
+    },
+    {
+      "arrival_us": 3874526,
+      "cls": 0,
+      "deadline_us": 3909031,
+      "id": 1125,
+      "size_bits": 6391
+    },
+    {
+      "arrival_us": 3874784,
+      "cls": 1,
+      "deadline_us": 4013703,
+      "id": 1126,
+      "size_bits": 7655
+    },
+    {
+      "arrival_us": 3875856,
+      "cls": 2,
+      "deadline_us": 4002936,
+      "id": 1127,
+      "size_bits": 2097
+    },
+    {
+      "arrival_us": 3877104,
+      "cls": 1,
+      "deadline_us": 4018033,
+      "id": 1128,
+      "size_bits": 5781
+    },
+    {
+      "arrival_us": 3878604,
+      "cls": 1,
+      "deadline_us": 3931745,
+      "id": 1129,
+      "size_bits": 5816
+    },
+    {
+      "arrival_us": 3884373,
+      "cls": 1,
+      "deadline_us": 3937599,
+      "id": 1130,
+      "size_bits": 4454
+    },
+    {
+      "arrival_us": 3886552,
+      "cls": 0,
+      "deadline_us": 3900621,
+      "id": 1131,
+      "size_bits": 7858
+    },
+    {
+      "arrival_us": 3891122,
+      "cls": 0,
+      "deadline_us": 3925422,
+      "id": 1132,
+      "size_bits": 7006
+    },
+    {
+      "arrival_us": 3891941,
+      "cls": 1,
+      "deadline_us": 3943924,
+      "id": 1133,
+      "size_bits": 4416
+    },
+    {
+      "arrival_us": 3898634,
+      "cls": 2,
+      "deadline_us": 4008922,
+      "id": 1134,
+      "size_bits": 2076
+    },
+    {
+      "arrival_us": 3899989,
+      "cls": 1,
+      "deadline_us": 4017832,
+      "id": 1135,
+      "size_bits": 2166
+    },
+    {
+      "arrival_us": 3913062,
+      "cls": 1,
+      "deadline_us": 4027265,
+      "id": 1136,
+      "size_bits": 5291
+    },
+    {
+      "arrival_us": 3914582,
+      "cls": 0,
+      "deadline_us": 3952940,
+      "id": 1137,
+      "size_bits": 2024
+    },
+    {
+      "arrival_us": 3917130,
+      "cls": 1,
+      "deadline_us": 4008287,
+      "id": 1138,
+      "size_bits": 5161
+    },
+    {
+      "arrival_us": 3917502,
+      "cls": 0,
+      "deadline_us": 3928553,
+      "id": 1139,
+      "size_bits": 6868
+    },
+    {
+      "arrival_us": 3918867,
+      "cls": 1,
+      "deadline_us": 3986926,
+      "id": 1140,
+      "size_bits": 2828
+    },
+    {
+      "arrival_us": 3921834,
+      "cls": 0,
+      "deadline_us": 3938729,
+      "id": 1141,
+      "size_bits": 5018
+    },
+    {
+      "arrival_us": 3932098,
+      "cls": 2,
+      "deadline_us": 4001730,
+      "id": 1142,
+      "size_bits": 5636
+    },
+    {
+      "arrival_us": 3932767,
+      "cls": 1,
+      "deadline_us": 4020825,
+      "id": 1143,
+      "size_bits": 2307
+    },
+    {
+      "arrival_us": 3932793,
+      "cls": 0,
+      "deadline_us": 3959795,
+      "id": 1144,
+      "size_bits": 7193
+    },
+    {
+      "arrival_us": 3934387,
+      "cls": 1,
+      "deadline_us": 4062236,
+      "id": 1145,
+      "size_bits": 2608
+    },
+    {
+      "arrival_us": 3936220,
+      "cls": 2,
+      "deadline_us": 3996774,
+      "id": 1146,
+      "size_bits": 5842
+    },
+    {
+      "arrival_us": 3944132,
+      "cls": 1,
+      "deadline_us": 3997538,
+      "id": 1147,
+      "size_bits": 4844
+    },
+    {
+      "arrival_us": 3948993,
+      "cls": 1,
+      "deadline_us": 4000676,
+      "id": 1148,
+      "size_bits": 3271
+    },
+    {
+      "arrival_us": 3949995,
+      "cls": 1,
+      "deadline_us": 4098019,
+      "id": 1149,
+      "size_bits": 2528
+    },
+    {
+      "arrival_us": 3953036,
+      "cls": 2,
+      "deadline_us": 4008732,
+      "id": 1150,
+      "size_bits": 6488
+    },
+    {
+      "arrival_us": 3957229,
+      "cls": 1,
+      "deadline_us": 4045537,
+      "id": 1151,
+      "size_bits": 4032
+    },
+    {
+      "arrival_us": 3959030,
+      "cls": 2,
+      "deadline_us": 4072066,
+      "id": 1152,
+      "size_bits": 6147
+    },
+    {
+      "arrival_us": 3962234,
+      "cls": 2,
+      "deadline_us": 4013748,
+      "id": 1153,
+      "size_bits": 7757
+    },
+    {
+      "arrival_us": 3967058,
+      "cls": 1,
+      "deadline_us": 4113093,
+      "id": 1154,
+      "size_bits": 6444
+    },
+    {
+      "arrival_us": 3980589,
+      "cls": 0,
+      "deadline_us": 3998810,
+      "id": 1155,
+      "size_bits": 4583
+    },
+    {
+      "arrival_us": 3983255,
+      "cls": 1,
+      "deadline_us": 4048622,
+      "id": 1156,
+      "size_bits": 5699
+    },
+    {
+      "arrival_us": 3987923,
+      "cls": 1,
+      "deadline_us": 4125142,
+      "id": 1157,
+      "size_bits": 3718
+    },
+    {
+      "arrival_us": 3988138,
+      "cls": 2,
+      "deadline_us": 4078119,
+      "id": 1158,
+      "size_bits": 3987
+    },
+    {
+      "arrival_us": 3991607,
+      "cls": 2,
+      "deadline_us": 4133236,
+      "id": 1159,
+      "size_bits": 3285
+    },
+    {
+      "arrival_us": 3995562,
+      "cls": 0,
+      "deadline_us": 4027900,
+      "id": 1160,
+      "size_bits": 6630
+    },
+    {
+      "arrival_us": 3995685,
+      "cls": 0,
+      "deadline_us": 4015708,
+      "id": 1161,
+      "size_bits": 2127
+    },
+    {
+      "arrival_us": 3996036,
+      "cls": 0,
+      "deadline_us": 4009869,
+      "id": 1162,
+      "size_bits": 3943
+    },
+    {
+      "arrival_us": 4003208,
+      "cls": 2,
+      "deadline_us": 4106731,
+      "id": 1163,
+      "size_bits": 2497
+    },
+    {
+      "arrival_us": 4007760,
+      "cls": 0,
+      "deadline_us": 4027747,
+      "id": 1164,
+      "size_bits": 4651
+    },
+    {
+      "arrival_us": 4013185,
+      "cls": 1,
+      "deadline_us": 4089297,
+      "id": 1165,
+      "size_bits": 7302
+    },
+    {
+      "arrival_us": 4017252,
+      "cls": 2,
+      "deadline_us": 4140208,
+      "id": 1166,
+      "size_bits": 2806
+    },
+    {
+      "arrival_us": 4023065,
+      "cls": 2,
+      "deadline_us": 4083806,
+      "id": 1167,
+      "size_bits": 5976
+    },
+    {
+      "arrival_us": 4031961,
+      "cls": 1,
+      "deadline_us": 4102500,
+      "id": 1168,
+      "size_bits": 3743
+    },
+    {
+      "arrival_us": 4032507,
+      "cls": 1,
+      "deadline_us": 4142240,
+      "id": 1169,
+      "size_bits": 4960
+    },
+    {
+      "arrival_us": 4033345,
+      "cls": 1,
+      "deadline_us": 4169338,
+      "id": 1170,
+      "size_bits": 4856
+    },
+    {
+      "arrival_us": 4044260,
+      "cls": 0,
+      "deadline_us": 4073550,
+      "id": 1171,
+      "size_bits": 7374
+    },
+    {
+      "arrival_us": 4049447,
+      "cls": 1,
+      "deadline_us": 4134604,
+      "id": 1172,
+      "size_bits": 6091
+    },
+    {
+      "arrival_us": 4052711,
+      "cls": 1,
+      "deadline_us": 4153137,
+      "id": 1173,
+      "size_bits": 3546
+    },
+    {
+      "arrival_us": 4053289,
+      "cls": 2,
+      "deadline_us": 4202321,
+      "id": 1174,
+      "size_bits": 7125
+    },
+    {
+      "arrival_us": 4054327,
+      "cls": 0,
+      "deadline_us": 4067962,
+      "id": 1175,
+      "size_bits": 3990
+    },
+    {
+      "arrival_us": 4055682,
+      "cls": 1,
+      "deadline_us": 4163007,
+      "id": 1176,
+      "size_bits": 6208
+    },
+    {
+      "arrival_us": 4056493,
+      "cls": 0,
+      "deadline_us": 4090564,
+      "id": 1177,
+      "size_bits": 5628
+    },
+    {
+      "arrival_us": 4057039,
+      "cls": 2,
+      "deadline_us": 4155636,
+      "id": 1178,
+      "size_bits": 3289
+    },
+    {
+      "arrival_us": 4059224,
+      "cls": 1,
+      "deadline_us": 4148920,
+      "id": 1179,
+      "size_bits": 6297
+    },
+    {
+      "arrival_us": 4059569,
+      "cls": 2,
+      "deadline_us": 4207675,
+      "id": 1180,
+      "size_bits": 2409
+    },
+    {
+      "arrival_us": 4063900,
+      "cls": 1,
+      "deadline_us": 4189912,
+      "id": 1181,
+      "size_bits": 4650
+    },
+    {
+      "arrival_us": 4068006,
+      "cls": 1,
+      "deadline_us": 4149594,
+      "id": 1182,
+      "size_bits": 3824
+    },
+    {
+      "arrival_us": 4069161,
+      "cls": 0,
+      "deadline_us": 4106760,
+      "id": 1183,
+      "size_bits": 6367
+    },
+    {
+      "arrival_us": 4073241,
+      "cls": 1,
+      "deadline_us": 4201016,
+      "id": 1184,
+      "size_bits": 6037
+    },
+    {
+      "arrival_us": 4073349,
+      "cls": 2,
+      "deadline_us": 4167502,
+      "id": 1185,
+      "size_bits": 2412
+    },
+    {
+      "arrival_us": 4079444,
+      "cls": 0,
+      "deadline_us": 4097065,
+      "id": 1186,
+      "size_bits": 5240
+    },
+    {
+      "arrival_us": 4082166,
+      "cls": 1,
+      "deadline_us": 4142063,
+      "id": 1187,
+      "size_bits": 2098
+    },
+    {
+      "arrival_us": 4082448,
+      "cls": 0,
+      "deadline_us": 4096155,
+      "id": 1188,
+      "size_bits": 7950
+    },
+    {
+      "arrival_us": 4083670,
+      "cls": 0,
+      "deadline_us": 4098978,
+      "id": 1189,
+      "size_bits": 5210
+    },
+    {
+      "arrival_us": 4085083,
+      "cls": 1,
+      "deadline_us": 4196166,
+      "id": 1190,
+      "size_bits": 6848
+    },
+    {
+      "arrival_us": 4086006,
+      "cls": 0,
+      "deadline_us": 4108443,
+      "id": 1191,
+      "size_bits": 6631
+    },
+    {
+      "arrival_us": 4091505,
+      "cls": 0,
+      "deadline_us": 4127240,
+      "id": 1192,
+      "size_bits": 7305
+    },
+    {
+      "arrival_us": 4093475,
+      "cls": 1,
+      "deadline_us": 4176847,
+      "id": 1193,
+      "size_bits": 7998
+    },
+    {
+      "arrival_us": 4095176,
+      "cls": 1,
+      "deadline_us": 4232778,
+      "id": 1194,
+      "size_bits": 3130
+    },
+    {
+      "arrival_us": 4102016,
+      "cls": 1,
+      "deadline_us": 4183887,
+      "id": 1195,
+      "size_bits": 4992
+    },
+    {
+      "arrival_us": 4104934,
+      "cls": 1,
+      "deadline_us": 4251623,
+      "id": 1196,
+      "size_bits": 6062
+    },
+    {
+      "arrival_us": 4107476,
+      "cls": 0,
+      "deadline_us": 4143587,
+      "id": 1197,
+      "size_bits": 3615
+    },
+    {
+      "arrival_us": 4112748,
+      "cls": 0,
+      "deadline_us": 4144688,
+      "id": 1198,
+      "size_bits": 7590
+    },
+    {
+      "arrival_us": 4112764,
+      "cls": 1,
+      "deadline_us": 4226646,
+      "id": 1199,
+      "size_bits": 2095
+    },
+    {
+      "arrival_us": 4125239,
+      "cls": 1,
+      "deadline_us": 4201248,
+      "id": 1200,
+      "size_bits": 5368
+    },
+    {
+      "arrival_us": 4129708,
+      "cls": 1,
+      "deadline_us": 4210187,
+      "id": 1201,
+      "size_bits": 2667
+    },
+    {
+      "arrival_us": 4130649,
+      "cls": 1,
+      "deadline_us": 4239758,
+      "id": 1202,
+      "size_bits": 4323
+    },
+    {
+      "arrival_us": 4132243,
+      "cls": 1,
+      "deadline_us": 4271153,
+      "id": 1203,
+      "size_bits": 5727
+    },
+    {
+      "arrival_us": 4144022,
+      "cls": 2,
+      "deadline_us": 4247589,
+      "id": 1204,
+      "size_bits": 7489
+    },
+    {
+      "arrival_us": 4144223,
+      "cls": 1,
+      "deadline_us": 4290023,
+      "id": 1205,
+      "size_bits": 5346
+    },
+    {
+      "arrival_us": 4151838,
+      "cls": 1,
+      "deadline_us": 4247107,
+      "id": 1206,
+      "size_bits": 7987
+    },
+    {
+      "arrival_us": 4159373,
+      "cls": 0,
+      "deadline_us": 4190466,
+      "id": 1207,
+      "size_bits": 6742
+    },
+    {
+      "arrival_us": 4162009,
+      "cls": 2,
+      "deadline_us": 4219712,
+      "id": 1208,
+      "size_bits": 2851
+    },
+    {
+      "arrival_us": 4163057,
+      "cls": 1,
+      "deadline_us": 4243423,
+      "id": 1209,
+      "size_bits": 7247
+    },
+    {
+      "arrival_us": 4164134,
+      "cls": 2,
+      "deadline_us": 4265419,
+      "id": 1210,
+      "size_bits": 2562
+    },
+    {
+      "arrival_us": 4168539,
+      "cls": 0,
+      "deadline_us": 4201336,
+      "id": 1211,
+      "size_bits": 3034
+    },
+    {
+      "arrival_us": 4174512,
+      "cls": 1,
+      "deadline_us": 4248230,
+      "id": 1212,
+      "size_bits": 4028
+    },
+    {
+      "arrival_us": 4174891,
+      "cls": 1,
+      "deadline_us": 4286626,
+      "id": 1213,
+      "size_bits": 5388
+    },
+    {
+      "arrival_us": 4187469,
+      "cls": 0,
+      "deadline_us": 4226358,
+      "id": 1214,
+      "size_bits": 3167
+    },
+    {
+      "arrival_us": 4193114,
+      "cls": 2,
+      "deadline_us": 4282913,
+      "id": 1215,
+      "size_bits": 7596
+    },
+    {
+      "arrival_us": 4199498,
+      "cls": 1,
+      "deadline_us": 4288172,
+      "id": 1216,
+      "size_bits": 4918
+    },
+    {
+      "arrival_us": 4204448,
+      "cls": 1,
+      "deadline_us": 4349496,
+      "id": 1217,
+      "size_bits": 3687
+    },
+    {
+      "arrival_us": 4206717,
+      "cls": 2,
+      "deadline_us": 4315801,
+      "id": 1218,
+      "size_bits": 7277
+    },
+    {
+      "arrival_us": 4207548,
+      "cls": 2,
+      "deadline_us": 4320799,
+      "id": 1219,
+      "size_bits": 7772
+    },
+    {
+      "arrival_us": 4210496,
+      "cls": 0,
+      "deadline_us": 4238526,
+      "id": 1220,
+      "size_bits": 4762
+    },
+    {
+      "arrival_us": 4213536,
+      "cls": 2,
+      "deadline_us": 4327214,
+      "id": 1221,
+      "size_bits": 3211
+    },
+    {
+      "arrival_us": 4218067,
+      "cls": 2,
+      "deadline_us": 4319064,
+      "id": 1222,
+      "size_bits": 6925
+    },
+    {
+      "arrival_us": 4218967,
+      "cls": 0,
+      "deadline_us": 4241543,
+      "id": 1223,
+      "size_bits": 3275
+    },
+    {
+      "arrival_us": 4223400,
+      "cls": 1,
+      "deadline_us": 4288754,
+      "id": 1224,
+      "size_bits": 4455
+    },
+    {
+      "arrival_us": 4223830,
+      "cls": 0,
+      "deadline_us": 4255797,
+      "id": 1225,
+      "size_bits": 6063
+    },
+    {
+      "arrival_us": 4226099,
+      "cls": 1,
+      "deadline_us": 4348232,
+      "id": 1226,
+      "size_bits": 6582
+    },
+    {
+      "arrival_us": 4235364,
+      "cls": 2,
+      "deadline_us": 4363913,
+      "id": 1227,
+      "size_bits": 5103
+    },
+    {
+      "arrival_us": 4235912,
+      "cls": 2,
+      "deadline_us": 4367190,
+      "id": 1228,
+      "size_bits": 6298
+    },
+    {
+      "arrival_us": 4237273,
+      "cls": 1,
+      "deadline_us": 4309233,
+      "id": 1229,
+      "size_bits": 5896
+    },
+    {
+      "arrival_us": 4237967,
+      "cls": 2,
+      "deadline_us": 4362381,
+      "id": 1230,
+      "size_bits": 6435
+    },
+    {
+      "arrival_us": 4242627,
+      "cls": 1,
+      "deadline_us": 4300483,
+      "id": 1231,
+      "size_bits": 4431
+    },
+    {
+      "arrival_us": 4244500,
+      "cls": 2,
+      "deadline_us": 4344262,
+      "id": 1232,
+      "size_bits": 5081
+    },
+    {
+      "arrival_us": 4245333,
+      "cls": 2,
+      "deadline_us": 4305428,
+      "id": 1233,
+      "size_bits": 7852
+    },
+    {
+      "arrival_us": 4245750,
+      "cls": 2,
+      "deadline_us": 4376409,
+      "id": 1234,
+      "size_bits": 7287
+    },
+    {
+      "arrival_us": 4256724,
+      "cls": 2,
+      "deadline_us": 4354816,
+      "id": 1235,
+      "size_bits": 7744
+    },
+    {
+      "arrival_us": 4265233,
+      "cls": 2,
+      "deadline_us": 4316782,
+      "id": 1236,
+      "size_bits": 7371
+    },
+    {
+      "arrival_us": 4271611,
+      "cls": 1,
+      "deadline_us": 4358062,
+      "id": 1237,
+      "size_bits": 4921
+    },
+    {
+      "arrival_us": 4273029,
+      "cls": 1,
+      "deadline_us": 4339018,
+      "id": 1238,
+      "size_bits": 3044
+    },
+    {
+      "arrival_us": 4275161,
+      "cls": 2,
+      "deadline_us": 4359286,
+      "id": 1239,
+      "size_bits": 5984
+    },
+    {
+      "arrival_us": 4280175,
+      "cls": 1,
+      "deadline_us": 4344404,
+      "id": 1240,
+      "size_bits": 6690
+    },
+    {
+      "arrival_us": 4280210,
+      "cls": 1,
+      "deadline_us": 4378183,
+      "id": 1241,
+      "size_bits": 6545
+    },
+    {
+      "arrival_us": 4280576,
+      "cls": 0,
+      "deadline_us": 4320021,
+      "id": 1242,
+      "size_bits": 2018
+    },
+    {
+      "arrival_us": 4280840,
+      "cls": 1,
+      "deadline_us": 4394764,
+      "id": 1243,
+      "size_bits": 6953
+    },
+    {
+      "arrival_us": 4283475,
+      "cls": 1,
+      "deadline_us": 4349396,
+      "id": 1244,
+      "size_bits": 2889
+    },
+    {
+      "arrival_us": 4284628,
+      "cls": 1,
+      "deadline_us": 4408561,
+      "id": 1245,
+      "size_bits": 7133
+    },
+    {
+      "arrival_us": 4285081,
+      "cls": 0,
+      "deadline_us": 4320839,
+      "id": 1246,
+      "size_bits": 4184
+    },
+    {
+      "arrival_us": 4285086,
+      "cls": 2,
+      "deadline_us": 4336982,
+      "id": 1247,
+      "size_bits": 3790
+    },
+    {
+      "arrival_us": 4293194,
+      "cls": 1,
+      "deadline_us": 4388097,
+      "id": 1248,
+      "size_bits": 3697
+    },
+    {
+      "arrival_us": 4304216,
+      "cls": 1,
+      "deadline_us": 4422675,
+      "id": 1249,
+      "size_bits": 6376
+    },
+    {
+      "arrival_us": 4306666,
+      "cls": 0,
+      "deadline_us": 4320928,
+      "id": 1250,
+      "size_bits": 6312
+    },
+    {
+      "arrival_us": 4312505,
+      "cls": 1,
+      "deadline_us": 4413079,
+      "id": 1251,
+      "size_bits": 6964
+    },
+    {
+      "arrival_us": 4317509,
+      "cls": 2,
+      "deadline_us": 4457200,
+      "id": 1252,
+      "size_bits": 5079
+    },
+    {
+      "arrival_us": 4323347,
+      "cls": 1,
+      "deadline_us": 4427483,
+      "id": 1253,
+      "size_bits": 4717
+    },
+    {
+      "arrival_us": 4326367,
+      "cls": 2,
+      "deadline_us": 4444418,
+      "id": 1254,
+      "size_bits": 2042
+    },
+    {
+      "arrival_us": 4329302,
+      "cls": 1,
+      "deadline_us": 4444897,
+      "id": 1255,
+      "size_bits": 2455
+    },
+    {
+      "arrival_us": 4341199,
+      "cls": 2,
+      "deadline_us": 4473467,
+      "id": 1256,
+      "size_bits": 7740
+    },
+    {
+      "arrival_us": 4341721,
+      "cls": 0,
+      "deadline_us": 4353217,
+      "id": 1257,
+      "size_bits": 2194
+    },
+    {
+      "arrival_us": 4347156,
+      "cls": 1,
+      "deadline_us": 4479305,
+      "id": 1258,
+      "size_bits": 6834
+    },
+    {
+      "arrival_us": 4351743,
+      "cls": 2,
+      "deadline_us": 4451681,
+      "id": 1259,
+      "size_bits": 3436
+    },
+    {
+      "arrival_us": 4368214,
+      "cls": 0,
+      "deadline_us": 4396422,
+      "id": 1260,
+      "size_bits": 6353
+    },
+    {
+      "arrival_us": 4370883,
+      "cls": 0,
+      "deadline_us": 4394955,
+      "id": 1261,
+      "size_bits": 5823
+    },
+    {
+      "arrival_us": 4370965,
+      "cls": 0,
+      "deadline_us": 4389724,
+      "id": 1262,
+      "size_bits": 2738
+    },
+    {
+      "arrival_us": 4386816,
+      "cls": 2,
+      "deadline_us": 4450285,
+      "id": 1263,
+      "size_bits": 7025
+    },
+    {
+      "arrival_us": 4390559,
+      "cls": 2,
+      "deadline_us": 4446500,
+      "id": 1264,
+      "size_bits": 3725
+    },
+    {
+      "arrival_us": 4391338,
+      "cls": 1,
+      "deadline_us": 4508321,
+      "id": 1265,
+      "size_bits": 5423
+    },
+    {
+      "arrival_us": 4391721,
+      "cls": 0,
+      "deadline_us": 4413366,
+      "id": 1266,
+      "size_bits": 7817
+    },
+    {
+      "arrival_us": 4394100,
+      "cls": 2,
+      "deadline_us": 4448813,
+      "id": 1267,
+      "size_bits": 3282
+    },
+    {
+      "arrival_us": 4407577,
+      "cls": 2,
+      "deadline_us": 4509261,
+      "id": 1268,
+      "size_bits": 3830
+    },
+    {
+      "arrival_us": 4409574,
+      "cls": 2,
+      "deadline_us": 4535972,
+      "id": 1269,
+      "size_bits": 5085
+    },
+    {
+      "arrival_us": 4423632,
+      "cls": 1,
+      "deadline_us": 4547139,
+      "id": 1270,
+      "size_bits": 7841
+    },
+    {
+      "arrival_us": 4424909,
+      "cls": 1,
+      "deadline_us": 4486807,
+      "id": 1271,
+      "size_bits": 4690
+    },
+    {
+      "arrival_us": 4426059,
+      "cls": 2,
+      "deadline_us": 4549293,
+      "id": 1272,
+      "size_bits": 6231
+    },
+    {
+      "arrival_us": 4426673,
+      "cls": 1,
+      "deadline_us": 4569615,
+      "id": 1273,
+      "size_bits": 6312
+    },
+    {
+      "arrival_us": 4433083,
+      "cls": 2,
+      "deadline_us": 4553576,
+      "id": 1274,
+      "size_bits": 7898
+    },
+    {
+      "arrival_us": 4434086,
+      "cls": 1,
+      "deadline_us": 4548073,
+      "id": 1275,
+      "size_bits": 7240
+    },
+    {
+      "arrival_us": 4434846,
+      "cls": 1,
+      "deadline_us": 4525262,
+      "id": 1276,
+      "size_bits": 7693
+    },
+    {
+      "arrival_us": 4434901,
+      "cls": 2,
+      "deadline_us": 4502414,
+      "id": 1277,
+      "size_bits": 6233
+    },
+    {
+      "arrival_us": 4435353,
+      "cls": 2,
+      "deadline_us": 4510242,
+      "id": 1278,
+      "size_bits": 3040
+    },
+    {
+      "arrival_us": 4438181,
+      "cls": 2,
+      "deadline_us": 4500209,
+      "id": 1279,
+      "size_bits": 7377
+    },
+    {
+      "arrival_us": 4438475,
+      "cls": 2,
+      "deadline_us": 4509338,
+      "id": 1280,
+      "size_bits": 6226
+    },
+    {
+      "arrival_us": 4440723,
+      "cls": 0,
+      "deadline_us": 4478912,
+      "id": 1281,
+      "size_bits": 6891
+    },
+    {
+      "arrival_us": 4441720,
+      "cls": 1,
+      "deadline_us": 4516165,
+      "id": 1282,
+      "size_bits": 3059
+    },
+    {
+      "arrival_us": 4451447,
+      "cls": 2,
+      "deadline_us": 4577456,
+      "id": 1283,
+      "size_bits": 4697
+    },
+    {
+      "arrival_us": 4452849,
+      "cls": 2,
+      "deadline_us": 4586271,
+      "id": 1284,
+      "size_bits": 4678
+    },
+    {
+      "arrival_us": 4454523,
+      "cls": 1,
+      "deadline_us": 4548719,
+      "id": 1285,
+      "size_bits": 6073
+    },
+    {
+      "arrival_us": 4456799,
+      "cls": 0,
+      "deadline_us": 4478468,
+      "id": 1286,
+      "size_bits": 4848
+    },
+    {
+      "arrival_us": 4462072,
+      "cls": 1,
+      "deadline_us": 4535500,
+      "id": 1287,
+      "size_bits": 6722
+    },
+    {
+      "arrival_us": 4465479,
+      "cls": 1,
+      "deadline_us": 4590864,
+      "id": 1288,
+      "size_bits": 2522
+    },
+    {
+      "arrival_us": 4467313,
+      "cls": 2,
+      "deadline_us": 4556859,
+      "id": 1289,
+      "size_bits": 6569
+    },
+    {
+      "arrival_us": 4472892,
+      "cls": 0,
+      "deadline_us": 4505783,
+      "id": 1290,
+      "size_bits": 4228
+    },
+    {
+      "arrival_us": 4473485,
+      "cls": 2,
+      "deadline_us": 4585743,
+      "id": 1291,
+      "size_bits": 5339
+    },
+    {
+      "arrival_us": 4477230,
+      "cls": 2,
+      "deadline_us": 4569040,
+      "id": 1292,
+      "size_bits": 7293
+    },
+    {
+      "arrival_us": 4484825,
+      "cls": 2,
+      "deadline_us": 4571451,
+      "id": 1293,
+      "size_bits": 6137
+    },
+    {
+      "arrival_us": 4485468,
+      "cls": 2,
+      "deadline_us": 4598453,
+      "id": 1294,
+      "size_bits": 6957
+    },
+    {
+      "arrival_us": 4487167,
+      "cls": 0,
+      "deadline_us": 4516235,
+      "id": 1295,
+      "size_bits": 2803
+    },
+    {
+      "arrival_us": 4489376,
+      "cls": 2,
+      "deadline_us": 4557758,
+      "id": 1296,
+      "size_bits": 3465
+    },
+    {
+      "arrival_us": 4495204,
+      "cls": 1,
+      "deadline_us": 4577872,
+      "id": 1297,
+      "size_bits": 4128
+    },
+    {
+      "arrival_us": 4502081,
+      "cls": 2,
+      "deadline_us": 4614664,
+      "id": 1298,
+      "size_bits": 3233
+    },
+    {
+      "arrival_us": 4502895,
+      "cls": 0,
+      "deadline_us": 4523188,
+      "id": 1299,
+      "size_bits": 2658
+    },
+    {
+      "arrival_us": 4507052,
+      "cls": 1,
+      "deadline_us": 4608500,
+      "id": 1300,
+      "size_bits": 7577
+    },
+    {
+      "arrival_us": 4509182,
+      "cls": 1,
+      "deadline_us": 4565008,
+      "id": 1301,
+      "size_bits": 2920
+    },
+    {
+      "arrival_us": 4512619,
+      "cls": 1,
+      "deadline_us": 4619121,
+      "id": 1302,
+      "size_bits": 3880
+    },
+    {
+      "arrival_us": 4516592,
+      "cls": 2,
+      "deadline_us": 4569033,
+      "id": 1303,
+      "size_bits": 2948
+    },
+    {
+      "arrival_us": 4516638,
+      "cls": 1,
+      "deadline_us": 4578125,
+      "id": 1304,
+      "size_bits": 7716
+    },
+    {
+      "arrival_us": 4522283,
+      "cls": 1,
+      "deadline_us": 4620891,
+      "id": 1305,
+      "size_bits": 4967
+    },
+    {
+      "arrival_us": 4523121,
+      "cls": 1,
+      "deadline_us": 4607457,
+      "id": 1306,
+      "size_bits": 6477
+    },
+    {
+      "arrival_us": 4523338,
+      "cls": 2,
+      "deadline_us": 4627867,
+      "id": 1307,
+      "size_bits": 4588
+    },
+    {
+      "arrival_us": 4523898,
+      "cls": 1,
+      "deadline_us": 4585684,
+      "id": 1308,
+      "size_bits": 5156
+    },
+    {
+      "arrival_us": 4531392,
+      "cls": 2,
+      "deadline_us": 4627175,
+      "id": 1309,
+      "size_bits": 6732
+    },
+    {
+      "arrival_us": 4539784,
+      "cls": 0,
+      "deadline_us": 4554350,
+      "id": 1310,
+      "size_bits": 2443
+    },
+    {
+      "arrival_us": 4541896,
+      "cls": 1,
+      "deadline_us": 4610809,
+      "id": 1311,
+      "size_bits": 5530
+    },
+    {
+      "arrival_us": 4542852,
+      "cls": 2,
+      "deadline_us": 4642490,
+      "id": 1312,
+      "size_bits": 5985
+    },
+    {
+      "arrival_us": 4549765,
+      "cls": 1,
+      "deadline_us": 4642139,
+      "id": 1313,
+      "size_bits": 4017
+    },
+    {
+      "arrival_us": 4559260,
+      "cls": 2,
+      "deadline_us": 4703993,
+      "id": 1314,
+      "size_bits": 3860
+    },
+    {
+      "arrival_us": 4563034,
+      "cls": 1,
+      "deadline_us": 4657365,
+      "id": 1315,
+      "size_bits": 7585
+    },
+    {
+      "arrival_us": 4565961,
+      "cls": 2,
+      "deadline_us": 4685010,
+      "id": 1316,
+      "size_bits": 7194
+    },
+    {
+      "arrival_us": 4572222,
+      "cls": 2,
+      "deadline_us": 4674884,
+      "id": 1317,
+      "size_bits": 5146
+    },
+    {
+      "arrival_us": 4582491,
+      "cls": 2,
+      "deadline_us": 4664074,
+      "id": 1318,
+      "size_bits": 3977
+    },
+    {
+      "arrival_us": 4586414,
+      "cls": 1,
+      "deadline_us": 4689032,
+      "id": 1319,
+      "size_bits": 4262
+    },
+    {
+      "arrival_us": 4591857,
+      "cls": 1,
+      "deadline_us": 4645855,
+      "id": 1320,
+      "size_bits": 5144
+    },
+    {
+      "arrival_us": 4594067,
+      "cls": 1,
+      "deadline_us": 4742694,
+      "id": 1321,
+      "size_bits": 7902
+    },
+    {
+      "arrival_us": 4594819,
+      "cls": 2,
+      "deadline_us": 4728645,
+      "id": 1322,
+      "size_bits": 3442
+    },
+    {
+      "arrival_us": 4598103,
+      "cls": 1,
+      "deadline_us": 4666648,
+      "id": 1323,
+      "size_bits": 7286
+    },
+    {
+      "arrival_us": 4599461,
+      "cls": 1,
+      "deadline_us": 4719527,
+      "id": 1324,
+      "size_bits": 2854
+    },
+    {
+      "arrival_us": 4602306,
+      "cls": 2,
+      "deadline_us": 4702357,
+      "id": 1325,
+      "size_bits": 5242
+    },
+    {
+      "arrival_us": 4607574,
+      "cls": 1,
+      "deadline_us": 4722737,
+      "id": 1326,
+      "size_bits": 7982
+    },
+    {
+      "arrival_us": 4607624,
+      "cls": 2,
+      "deadline_us": 4747759,
+      "id": 1327,
+      "size_bits": 6398
+    },
+    {
+      "arrival_us": 4622875,
+      "cls": 2,
+      "deadline_us": 4696045,
+      "id": 1328,
+      "size_bits": 4467
+    },
+    {
+      "arrival_us": 4623533,
+      "cls": 1,
+      "deadline_us": 4693859,
+      "id": 1329,
+      "size_bits": 6178
+    },
+    {
+      "arrival_us": 4625608,
+      "cls": 1,
+      "deadline_us": 4696456,
+      "id": 1330,
+      "size_bits": 7084
+    },
+    {
+      "arrival_us": 4626353,
+      "cls": 0,
+      "deadline_us": 4636631,
+      "id": 1331,
+      "size_bits": 6234
+    },
+    {
+      "arrival_us": 4631612,
+      "cls": 0,
+      "deadline_us": 4643536,
+      "id": 1332,
+      "size_bits": 4098
+    },
+    {
+      "arrival_us": 4636079,
+      "cls": 1,
+      "deadline_us": 4779301,
+      "id": 1333,
+      "size_bits": 7443
+    },
+    {
+      "arrival_us": 4637574,
+      "cls": 1,
+      "deadline_us": 4786354,
+      "id": 1334,
+      "size_bits": 6540
+    },
+    {
+      "arrival_us": 4639825,
+      "cls": 0,
+      "deadline_us": 4676674,
+      "id": 1335,
+      "size_bits": 6721
+    },
+    {
+      "arrival_us": 4642247,
+      "cls": 1,
+      "deadline_us": 4771816,
+      "id": 1336,
+      "size_bits": 7045
+    },
+    {
+      "arrival_us": 4646244,
+      "cls": 1,
+      "deadline_us": 4733107,
+      "id": 1337,
+      "size_bits": 4254
+    },
+    {
+      "arrival_us": 4648091,
+      "cls": 1,
+      "deadline_us": 4725817,
+      "id": 1338,
+      "size_bits": 6931
+    },
+    {
+      "arrival_us": 4648525,
+      "cls": 1,
+      "deadline_us": 4702444,
+      "id": 1339,
+      "size_bits": 2780
+    },
+    {
+      "arrival_us": 4650758,
+      "cls": 1,
+      "deadline_us": 4780666,
+      "id": 1340,
+      "size_bits": 6716
+    },
+    {
+      "arrival_us": 4651075,
+      "cls": 2,
+      "deadline_us": 4746060,
+      "id": 1341,
+      "size_bits": 2835
+    },
+    {
+      "arrival_us": 4653544,
+      "cls": 0,
+      "deadline_us": 4676286,
+      "id": 1342,
+      "size_bits": 6597
+    },
+    {
+      "arrival_us": 4654396,
+      "cls": 1,
+      "deadline_us": 4801191,
+      "id": 1343,
+      "size_bits": 6312
+    },
+    {
+      "arrival_us": 4657533,
+      "cls": 2,
+      "deadline_us": 4776107,
+      "id": 1344,
+      "size_bits": 4117
+    },
+    {
+      "arrival_us": 4668474,
+      "cls": 1,
+      "deadline_us": 4797413,
+      "id": 1345,
+      "size_bits": 2173
+    },
+    {
+      "arrival_us": 4668619,
+      "cls": 2,
+      "deadline_us": 4765415,
+      "id": 1346,
+      "size_bits": 4323
+    },
+    {
+      "arrival_us": 4672222,
+      "cls": 1,
+      "deadline_us": 4742304,
+      "id": 1347,
+      "size_bits": 7779
+    },
+    {
+      "arrival_us": 4672459,
+      "cls": 1,
+      "deadline_us": 4766642,
+      "id": 1348,
+      "size_bits": 4551
+    },
+    {
+      "arrival_us": 4676858,
+      "cls": 2,
+      "deadline_us": 4758915,
+      "id": 1349,
+      "size_bits": 5644
+    },
+    {
+      "arrival_us": 4684235,
+      "cls": 1,
+      "deadline_us": 4750587,
+      "id": 1350,
+      "size_bits": 5729
+    },
+    {
+      "arrival_us": 4685010,
+      "cls": 1,
+      "deadline_us": 4759730,
+      "id": 1351,
+      "size_bits": 7247
+    },
+    {
+      "arrival_us": 4692545,
+      "cls": 1,
+      "deadline_us": 4812105,
+      "id": 1352,
+      "size_bits": 3123
+    },
+    {
+      "arrival_us": 4699265,
+      "cls": 1,
+      "deadline_us": 4824378,
+      "id": 1353,
+      "size_bits": 7722
+    },
+    {
+      "arrival_us": 4702815,
+      "cls": 1,
+      "deadline_us": 4773252,
+      "id": 1354,
+      "size_bits": 2746
+    },
+    {
+      "arrival_us": 4704206,
+      "cls": 0,
+      "deadline_us": 4732220,
+      "id": 1355,
+      "size_bits": 5588
+    },
+    {
+      "arrival_us": 4710035,
+      "cls": 1,
+      "deadline_us": 4826273,
+      "id": 1356,
+      "size_bits": 7251
+    },
+    {
+      "arrival_us": 4711625,
+      "cls": 1,
+      "deadline_us": 4829637,
+      "id": 1357,
+      "size_bits": 4285
+    },
+    {
+      "arrival_us": 4712654,
+      "cls": 0,
+      "deadline_us": 4734506,
+      "id": 1358,
+      "size_bits": 6994
+    },
+    {
+      "arrival_us": 4715848,
+      "cls": 2,
+      "deadline_us": 4781533,
+      "id": 1359,
+      "size_bits": 2674
+    },
+    {
+      "arrival_us": 4716481,
+      "cls": 1,
+      "deadline_us": 4836075,
+      "id": 1360,
+      "size_bits": 2260
+    },
+    {
+      "arrival_us": 4716808,
+      "cls": 0,
+      "deadline_us": 4738634,
+      "id": 1361,
+      "size_bits": 5204
+    },
+    {
+      "arrival_us": 4718068,
+      "cls": 1,
+      "deadline_us": 4848803,
+      "id": 1362,
+      "size_bits": 4443
+    },
+    {
+      "arrival_us": 4719056,
+      "cls": 0,
+      "deadline_us": 4751207,
+      "id": 1363,
+      "size_bits": 4603
+    },
+    {
+      "arrival_us": 4720213,
+      "cls": 0,
+      "deadline_us": 4733907,
+      "id": 1364,
+      "size_bits": 2033
+    },
+    {
+      "arrival_us": 4727212,
+      "cls": 0,
+      "deadline_us": 4738795,
+      "id": 1365,
+      "size_bits": 5780
+    },
+    {
+      "arrival_us": 4728082,
+      "cls": 1,
+      "deadline_us": 4850057,
+      "id": 1366,
+      "size_bits": 3692
+    },
+    {
+      "arrival_us": 4728993,
+      "cls": 1,
+      "deadline_us": 4851650,
+      "id": 1367,
+      "size_bits": 2939
+    },
+    {
+      "arrival_us": 4730557,
+      "cls": 2,
+      "deadline_us": 4821231,
+      "id": 1368,
+      "size_bits": 2524
+    },
+    {
+      "arrival_us": 4735808,
+      "cls": 2,
+      "deadline_us": 4816125,
+      "id": 1369,
+      "size_bits": 2983
+    },
+    {
+      "arrival_us": 4738916,
+      "cls": 0,
+      "deadline_us": 4760452,
+      "id": 1370,
+      "size_bits": 2806
+    },
+    {
+      "arrival_us": 4741597,
+      "cls": 1,
+      "deadline_us": 4867988,
+      "id": 1371,
+      "size_bits": 4808
+    },
+    {
+      "arrival_us": 4742221,
+      "cls": 1,
+      "deadline_us": 4797407,
+      "id": 1372,
+      "size_bits": 3372
+    },
+    {
+      "arrival_us": 4746728,
+      "cls": 2,
+      "deadline_us": 4829455,
+      "id": 1373,
+      "size_bits": 3125
+    },
+    {
+      "arrival_us": 4747714,
+      "cls": 1,
+      "deadline_us": 4811907,
+      "id": 1374,
+      "size_bits": 7403
+    },
+    {
+      "arrival_us": 4748333,
+      "cls": 0,
+      "deadline_us": 4767448,
+      "id": 1375,
+      "size_bits": 4092
+    },
+    {
+      "arrival_us": 4750046,
+      "cls": 2,
+      "deadline_us": 4813100,
+      "id": 1376,
+      "size_bits": 4127
+    },
+    {
+      "arrival_us": 4750127,
+      "cls": 2,
+      "deadline_us": 4893084,
+      "id": 1377,
+      "size_bits": 7344
+    },
+    {
+      "arrival_us": 4750952,
+      "cls": 2,
+      "deadline_us": 4831420,
+      "id": 1378,
+      "size_bits": 6831
+    },
+    {
+      "arrival_us": 4751110,
+      "cls": 0,
+      "deadline_us": 4762461,
+      "id": 1379,
+      "size_bits": 6540
+    },
+    {
+      "arrival_us": 4755023,
+      "cls": 2,
+      "deadline_us": 4813425,
+      "id": 1380,
+      "size_bits": 5498
+    },
+    {
+      "arrival_us": 4755485,
+      "cls": 2,
+      "deadline_us": 4816029,
+      "id": 1381,
+      "size_bits": 2613
+    },
+    {
+      "arrival_us": 4756565,
+      "cls": 0,
+      "deadline_us": 4767260,
+      "id": 1382,
+      "size_bits": 6807
+    },
+    {
+      "arrival_us": 4766949,
+      "cls": 1,
+      "deadline_us": 4904910,
+      "id": 1383,
+      "size_bits": 7482
+    },
+    {
+      "arrival_us": 4767769,
+      "cls": 2,
+      "deadline_us": 4900206,
+      "id": 1384,
+      "size_bits": 3372
+    },
+    {
+      "arrival_us": 4768418,
+      "cls": 1,
+      "deadline_us": 4882989,
+      "id": 1385,
+      "size_bits": 5185
+    },
+    {
+      "arrival_us": 4780303,
+      "cls": 1,
+      "deadline_us": 4865346,
+      "id": 1386,
+      "size_bits": 6227
+    },
+    {
+      "arrival_us": 4781472,
+      "cls": 1,
+      "deadline_us": 4837045,
+      "id": 1387,
+      "size_bits": 2121
+    },
+    {
+      "arrival_us": 4789930,
+      "cls": 2,
+      "deadline_us": 4890449,
+      "id": 1388,
+      "size_bits": 6968
+    },
+    {
+      "arrival_us": 4796375,
+      "cls": 1,
+      "deadline_us": 4942899,
+      "id": 1389,
+      "size_bits": 4182
+    },
+    {
+      "arrival_us": 4801844,
+      "cls": 2,
+      "deadline_us": 4868071,
+      "id": 1390,
+      "size_bits": 2021
+    },
+    {
+      "arrival_us": 4804968,
+      "cls": 1,
+      "deadline_us": 4950898,
+      "id": 1391,
+      "size_bits": 3726
+    },
+    {
+      "arrival_us": 4810679,
+      "cls": 0,
+      "deadline_us": 4833354,
+      "id": 1392,
+      "size_bits": 2525
+    },
+    {
+      "arrival_us": 4814813,
+      "cls": 1,
+      "deadline_us": 4958898,
+      "id": 1393,
+      "size_bits": 3951
+    },
+    {
+      "arrival_us": 4815538,
+      "cls": 0,
+      "deadline_us": 4840633,
+      "id": 1394,
+      "size_bits": 5194
+    },
+    {
+      "arrival_us": 4821063,
+      "cls": 1,
+      "deadline_us": 4876055,
+      "id": 1395,
+      "size_bits": 3194
+    },
+    {
+      "arrival_us": 4830140,
+      "cls": 1,
+      "deadline_us": 4888657,
+      "id": 1396,
+      "size_bits": 3205
+    },
+    {
+      "arrival_us": 4833859,
+      "cls": 2,
+      "deadline_us": 4897711,
+      "id": 1397,
+      "size_bits": 2840
+    },
+    {
+      "arrival_us": 4834974,
+      "cls": 1,
+      "deadline_us": 4979924,
+      "id": 1398,
+      "size_bits": 5077
+    },
+    {
+      "arrival_us": 4838194,
+      "cls": 2,
+      "deadline_us": 4953935,
+      "id": 1399,
+      "size_bits": 5842
+    },
+    {
+      "arrival_us": 4841409,
+      "cls": 2,
+      "deadline_us": 4952815,
+      "id": 1400,
+      "size_bits": 7513
+    },
+    {
+      "arrival_us": 4850858,
+      "cls": 1,
+      "deadline_us": 4992882,
+      "id": 1401,
+      "size_bits": 3131
+    },
+    {
+      "arrival_us": 4851690,
+      "cls": 2,
+      "deadline_us": 4956466,
+      "id": 1402,
+      "size_bits": 2215
+    },
+    {
+      "arrival_us": 4854938,
+      "cls": 1,
+      "deadline_us": 4976368,
+      "id": 1403,
+      "size_bits": 4030
+    },
+    {
+      "arrival_us": 4858309,
+      "cls": 0,
+      "deadline_us": 4882631,
+      "id": 1404,
+      "size_bits": 5869
+    },
+    {
+      "arrival_us": 4865954,
+      "cls": 1,
+      "deadline_us": 5008159,
+      "id": 1405,
+      "size_bits": 6708
+    },
+    {
+      "arrival_us": 4867576,
+      "cls": 1,
+      "deadline_us": 5017527,
+      "id": 1406,
+      "size_bits": 4117
+    },
+    {
+      "arrival_us": 4868788,
+      "cls": 1,
+      "deadline_us": 5007800,
+      "id": 1407,
+      "size_bits": 2532
+    },
+    {
+      "arrival_us": 4869437,
+      "cls": 1,
+      "deadline_us": 5005040,
+      "id": 1408,
+      "size_bits": 5660
+    },
+    {
+      "arrival_us": 4870073,
+      "cls": 1,
+      "deadline_us": 4986308,
+      "id": 1409,
+      "size_bits": 6480
+    },
+    {
+      "arrival_us": 4876176,
+      "cls": 1,
+      "deadline_us": 4979037,
+      "id": 1410,
+      "size_bits": 5834
+    },
+    {
+      "arrival_us": 4884020,
+      "cls": 0,
+      "deadline_us": 4912017,
+      "id": 1411,
+      "size_bits": 7349
+    },
+    {
+      "arrival_us": 4889081,
+      "cls": 0,
+      "deadline_us": 4908562,
+      "id": 1412,
+      "size_bits": 2356
+    },
+    {
+      "arrival_us": 4891300,
+      "cls": 1,
+      "deadline_us": 5032868,
+      "id": 1413,
+      "size_bits": 2929
+    },
+    {
+      "arrival_us": 4892104,
+      "cls": 1,
+      "deadline_us": 5005920,
+      "id": 1414,
+      "size_bits": 7743
+    },
+    {
+      "arrival_us": 4892919,
+      "cls": 2,
+      "deadline_us": 5004106,
+      "id": 1415,
+      "size_bits": 6522
+    },
+    {
+      "arrival_us": 4896074,
+      "cls": 1,
+      "deadline_us": 4960900,
+      "id": 1416,
+      "size_bits": 3448
+    },
+    {
+      "arrival_us": 4903585,
+      "cls": 0,
+      "deadline_us": 4937418,
+      "id": 1417,
+      "size_bits": 7597
+    },
+    {
+      "arrival_us": 4904212,
+      "cls": 2,
+      "deadline_us": 5022396,
+      "id": 1418,
+      "size_bits": 2455
+    },
+    {
+      "arrival_us": 4918687,
+      "cls": 1,
+      "deadline_us": 4987183,
+      "id": 1419,
+      "size_bits": 4462
+    },
+    {
+      "arrival_us": 4920921,
+      "cls": 1,
+      "deadline_us": 5035120,
+      "id": 1420,
+      "size_bits": 2063
+    },
+    {
+      "arrival_us": 4921493,
+      "cls": 2,
+      "deadline_us": 5018115,
+      "id": 1421,
+      "size_bits": 6101
+    },
+    {
+      "arrival_us": 4923870,
+      "cls": 1,
+      "deadline_us": 5002898,
+      "id": 1422,
+      "size_bits": 6110
+    },
+    {
+      "arrival_us": 4937572,
+      "cls": 1,
+      "deadline_us": 4989409,
+      "id": 1423,
+      "size_bits": 7222
+    },
+    {
+      "arrival_us": 4940221,
+      "cls": 1,
+      "deadline_us": 5090101,
+      "id": 1424,
+      "size_bits": 4506
+    },
+    {
+      "arrival_us": 4953400,
+      "cls": 1,
+      "deadline_us": 5061787,
+      "id": 1425,
+      "size_bits": 2972
+    },
+    {
+      "arrival_us": 4953901,
+      "cls": 2,
+      "deadline_us": 5041108,
+      "id": 1426,
+      "size_bits": 5042
+    },
+    {
+      "arrival_us": 4954661,
+      "cls": 1,
+      "deadline_us": 5035934,
+      "id": 1427,
+      "size_bits": 7896
+    },
+    {
+      "arrival_us": 4956232,
+      "cls": 1,
+      "deadline_us": 5033710,
+      "id": 1428,
+      "size_bits": 6591
+    },
+    {
+      "arrival_us": 4962097,
+      "cls": 1,
+      "deadline_us": 5031802,
+      "id": 1429,
+      "size_bits": 7986
+    },
+    {
+      "arrival_us": 4973799,
+      "cls": 0,
+      "deadline_us": 5006655,
+      "id": 1430,
+      "size_bits": 7549
+    },
+    {
+      "arrival_us": 4974024,
+      "cls": 2,
+      "deadline_us": 5102512,
+      "id": 1431,
+      "size_bits": 7297
+    },
+    {
+      "arrival_us": 4975558,
+      "cls": 0,
+      "deadline_us": 4991157,
+      "id": 1432,
+      "size_bits": 5762
+    },
+    {
+      "arrival_us": 4981708,
+      "cls": 2,
+      "deadline_us": 5115595,
+      "id": 1433,
+      "size_bits": 2022
+    },
+    {
+      "arrival_us": 4983541,
+      "cls": 1,
+      "deadline_us": 5120944,
+      "id": 1434,
+      "size_bits": 7077
+    },
+    {
+      "arrival_us": 4984980,
+      "cls": 1,
+      "deadline_us": 5081514,
+      "id": 1435,
+      "size_bits": 5850
+    },
+    {
+      "arrival_us": 4987079,
+      "cls": 2,
+      "deadline_us": 5037640,
+      "id": 1436,
+      "size_bits": 3980
+    },
+    {
+      "arrival_us": 4994966,
+      "cls": 0,
+      "deadline_us": 5009105,
+      "id": 1437,
+      "size_bits": 7732
+    },
+    {
+      "arrival_us": 4995209,
+      "cls": 1,
+      "deadline_us": 5108418,
+      "id": 1438,
+      "size_bits": 2176
+    }
+  ],
+  "partition": "train",
+  "schema_version": 1,
+  "seed": 202
+}

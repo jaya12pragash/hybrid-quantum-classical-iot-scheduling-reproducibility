@@ -1,0 +1,19 @@
+\begin{table*}[t]
+\centering
+\caption{Packet outcomes on held-out traces; decision delay is modeled.}
+\begin{tabular}{lrrrrrr}
+\toprule
+Policy & Timely & Late & Expiry & Shed & Pending & Total \\
+\midrule
+EDF & 1434 & 1556 & 1485 & 0 & 81 & 4556 \\
+LLF & 1373 & 1427 & 1675 & 0 & 81 & 4556 \\
+Threshold Best-Effort Shedding & 2526 & 491 & 327 & 1161 & 51 & 4556 \\
+Matched MLP (0 ms modeled delay) & 2715 & 205 & 289 & 1325 & 22 & 4556 \\
+Matched MLP (15 ms modeled delay) & 247 & 496 & 2997 & 739 & 77 & 4556 \\
+Guarded MLP (15 ms nonurgent delay) & 1073 & 223 & 2826 & 355 & 79 & 4556 \\
+Trained VQC (0 ms modeled delay) & 2861 & 99 & 1540 & 20 & 36 & 4556 \\
+Trained VQC (15 ms modeled delay) & 410 & 339 & 3700 & 24 & 83 & 4556 \\
+Guarded VQC (15 ms nonurgent delay) & 1119 & 176 & 3157 & 22 & 82 & 4556 \\
+\bottomrule
+\end{tabular}
+\end{table*}

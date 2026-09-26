@@ -1,0 +1,82 @@
+seed,policy,class,total,TIMELY,LATE,DROPPED_EXPIRY,DROPPED_SHED,PENDING
+777,EDF,0,328,83,118,125,0,2
+777,EDF,1,821,223,304,279,0,15
+777,EDF,2,457,111,154,183,0,9
+777,LLF,0,328,74,114,138,0,2
+777,LLF,1,821,201,272,333,0,15
+777,LLF,2,457,106,147,194,0,10
+777,Threshold Best-Effort Shedding,0,328,196,78,53,0,1
+777,Threshold Best-Effort Shedding,1,821,532,165,110,0,14
+777,Threshold Best-Effort Shedding,2,457,26,0,0,428,3
+777,Matched MLP (0 ms modeled delay),0,328,158,44,124,0,2
+777,Matched MLP (0 ms modeled delay),1,821,721,66,24,0,10
+777,Matched MLP (0 ms modeled delay),2,457,1,0,0,454,2
+777,Matched MLP (15 ms modeled delay),0,328,16,39,271,0,2
+777,Matched MLP (15 ms modeled delay),1,821,48,122,635,0,16
+777,Matched MLP (15 ms modeled delay),2,457,8,14,184,244,7
+777,Guarded MLP (15 ms nonurgent delay),0,328,326,1,0,0,1
+777,Guarded MLP (15 ms nonurgent delay),1,821,32,61,712,0,16
+777,Guarded MLP (15 ms nonurgent delay),2,457,4,15,318,111,9
+777,Trained VQC (0 ms modeled delay),0,328,4,0,322,0,2
+777,Trained VQC (0 ms modeled delay),1,821,818,0,0,0,3
+777,Trained VQC (0 ms modeled delay),2,457,139,20,289,2,7
+777,Trained VQC (15 ms modeled delay),0,328,1,0,325,0,2
+777,Trained VQC (15 ms modeled delay),1,821,108,128,569,0,16
+777,Trained VQC (15 ms modeled delay),2,457,7,4,421,15,10
+777,Guarded VQC (15 ms nonurgent delay),0,328,326,1,0,0,1
+777,Guarded VQC (15 ms nonurgent delay),1,821,51,56,698,0,16
+777,Guarded VQC (15 ms nonurgent delay),2,457,3,2,430,12,10
+888,EDF,0,275,111,99,65,0,0
+888,EDF,1,726,245,240,226,0,15
+888,EDF,2,474,168,141,156,0,9
+888,LLF,0,275,97,91,87,0,0
+888,LLF,1,726,249,215,247,0,15
+888,LLF,2,474,155,139,171,0,9
+888,Threshold Best-Effort Shedding,0,275,222,34,19,0,0
+888,Threshold Best-Effort Shedding,1,726,592,74,49,0,11
+888,Threshold Best-Effort Shedding,2,474,92,0,0,378,4
+888,Matched MLP (0 ms modeled delay),0,275,199,23,53,0,0
+888,Matched MLP (0 ms modeled delay),1,726,708,10,4,0,4
+888,Matched MLP (0 ms modeled delay),2,474,22,0,0,452,0
+888,Matched MLP (15 ms modeled delay),0,275,23,43,208,0,1
+888,Matched MLP (15 ms modeled delay),1,726,56,96,559,0,15
+888,Matched MLP (15 ms modeled delay),2,474,9,20,191,247,7
+888,Guarded MLP (15 ms nonurgent delay),0,275,273,2,0,0,0
+888,Guarded MLP (15 ms nonurgent delay),1,726,45,59,607,0,15
+888,Guarded MLP (15 ms nonurgent delay),2,474,12,20,298,136,8
+888,Trained VQC (0 ms modeled delay),0,275,16,0,259,0,0
+888,Trained VQC (0 ms modeled delay),1,726,723,0,0,0,3
+888,Trained VQC (0 ms modeled delay),2,474,208,42,210,6,8
+888,Trained VQC (15 ms modeled delay),0,275,1,1,273,0,0
+888,Trained VQC (15 ms modeled delay),1,726,146,96,470,0,14
+888,Trained VQC (15 ms modeled delay),2,474,5,1,451,8,9
+888,Guarded VQC (15 ms nonurgent delay),0,275,273,2,0,0,0
+888,Guarded VQC (15 ms nonurgent delay),1,726,69,61,581,0,15
+888,Guarded VQC (15 ms nonurgent delay),2,474,5,1,452,7,9
+999,EDF,0,338,128,106,103,0,1
+999,EDF,1,702,242,227,215,0,18
+999,EDF,2,435,123,167,133,0,12
+999,LLF,0,338,115,94,128,0,1
+999,LLF,1,702,247,211,226,0,18
+999,LLF,2,435,129,144,151,0,11
+999,Threshold Best-Effort Shedding,0,338,256,41,41,0,0
+999,Threshold Best-Effort Shedding,1,702,542,94,55,0,11
+999,Threshold Best-Effort Shedding,2,435,68,5,0,355,7
+999,Matched MLP (0 ms modeled delay),0,338,217,46,75,0,0
+999,Matched MLP (0 ms modeled delay),1,702,674,16,9,0,3
+999,Matched MLP (0 ms modeled delay),2,435,15,0,0,419,1
+999,Matched MLP (15 ms modeled delay),0,338,28,49,260,0,1
+999,Matched MLP (15 ms modeled delay),1,702,55,95,534,0,18
+999,Matched MLP (15 ms modeled delay),2,435,4,18,155,248,10
+999,Guarded MLP (15 ms nonurgent delay),0,338,337,1,0,0,0
+999,Guarded MLP (15 ms nonurgent delay),1,702,37,50,597,0,18
+999,Guarded MLP (15 ms nonurgent delay),2,435,7,14,294,108,12
+999,Trained VQC (0 ms modeled delay),0,338,24,2,311,0,1
+999,Trained VQC (0 ms modeled delay),1,702,699,0,0,0,3
+999,Trained VQC (0 ms modeled delay),2,435,230,35,149,12,9
+999,Trained VQC (15 ms modeled delay),0,338,0,0,337,0,1
+999,Trained VQC (15 ms modeled delay),1,702,141,108,435,0,18
+999,Trained VQC (15 ms modeled delay),2,435,1,1,419,1,13
+999,Guarded VQC (15 ms nonurgent delay),0,338,337,1,0,0,0
+999,Guarded VQC (15 ms nonurgent delay),1,702,55,52,577,0,18
+999,Guarded VQC (15 ms nonurgent delay),2,435,0,0,419,3,13

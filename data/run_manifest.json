@@ -1,0 +1,24 @@
+{
+  "train_seeds": [
+    101,
+    202
+  ],
+  "test_seeds": [
+    777,
+    888,
+    999
+  ],
+  "horizon_us": 5000000,
+  "capacity_bps": 1000000,
+  "quantum_executed": true,
+  "qiskit_version": "2.5.2",
+  "numpy_version": "2.3.5",
+  "python_version": "3.12.14",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "quantum_decision_delay_us": 15000,
+  "training_behavior": "class-0 guard plus random feasible nonurgent actions",
+  "training_nonurgent_delay_us": 15000,
+  "model_trainable_parameters": 18,
+  "source_sha256": "3dadc67bbfccba580ed2a5781a5001e1fff75023c1c9c85138eb55ce55366472",
+  "training_experiences": 233
+}

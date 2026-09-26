@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "traces": [
+    {
+      "file": "train_101.json",
+      "packet_count": 1520,
+      "partition": "train",
+      "seed": 101,
+      "sha256": "b06cbb79fe9458e30259fc89850753b5ae6c680248ab8bf810a38089d1bb6563"
+    },
+    {
+      "file": "train_202.json",
+      "packet_count": 1439,
+      "partition": "train",
+      "seed": 202,
+      "sha256": "69bf76e16ebdce280e655b3c6b7c7743ed0f7a3f2deac09cf7817a1f43ae9f79"
+    },
+    {
+      "file": "test_777.json",
+      "packet_count": 1606,
+      "partition": "test",
+      "seed": 777,
+      "sha256": "b918745e427d1d28614ed76846154b83cabcd3d0f9ed7f79e1504bc58e40160c"
+    },
+    {
+      "file": "test_888.json",
+      "packet_count": 1475,
+      "partition": "test",
+      "seed": 888,
+      "sha256": "eefb4da4f1a99f19d0982a63d5429a233767d60affecb4d8bedb62b25e9a30f4"
+    },
+    {
+      "file": "test_999.json",
+      "packet_count": 1475,
+      "partition": "test",
+      "seed": 999,
+      "sha256": "3afd2511091d9645f3c8216044cb8713c99e19d7103796181b6c6f57bfb138fb"
+    }
+  ]
+}
